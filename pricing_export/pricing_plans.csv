@@ -1,0 +1,11 @@
+Industry,Industry_Key,Basic_Price_EUR,Standard_Price_EUR,Pro_Price_EUR,Enterprise_Price,Annual_Discount
+Restaurante,restaurante,50,95,155,Custom,10%
+Cafenele,cafenele,39,79,129,Custom,10%
+Saloane de frumusețe / Barbershopuri,saloane_barbershop,45,85,139,Custom,10%
+Hotele & Pensiuni,hotele,55,105,169,Custom,10%
+Chirii Auto,chirii_auto,49,99,159,Custom,10%
+Fitness,fitness,45,89,145,Custom,10%
+Medical,medical,59,115,185,Custom,10%
+Retail,retail,45,89,145,Custom,10%
+Spălătorii Auto,spalatorii_auto,35,75,125,Custom,10%
+Tenis/Padel/Fotbal,tenis_padel_fotbal,39,79,129,Custom,10%

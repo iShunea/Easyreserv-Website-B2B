@@ -1,0 +1,63 @@
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Planifici turele barista/casier, pontaj și targeturi pe oră. Vizibilitate pe productivitate și timpi de servire în orele de vârf.
+
+Management financiar precis
+Închidere de zi corectă, evidență încasări/plăți, reconcilieri rapide. Vezi marja pe produs și costul ingredientelor în timp real.
+
+Profiluri complete de clienți
+Istoric comenzi (tip cafea, lapte, siropuri), preferințe & alergeni. Experiență personalizată la următoarea vizită.
+
+Configurare flexibilă a punctului de vânzare
+Case rapide, roluri & permisiuni, layout de produse pe ecran, preset-uri și shortcut-uri pentru top vânzări.
+
+Meniu & servicii
+Meniuri pe momente ale zilei (morning/afternoon), variante (mărime, lapte, shot extra), bundle-uri și oferte.
+
+Stocare facilă documente
+Facturi, NIR-uri, contracte furnizori și dosare angajați — păstrate sigur, ușor de găsit.
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Vânzări pe oră/zi, top SKU, cost băutură, marjă, productivitate pe casier/barista. Decizii rapide pentru program și sortiment.
+
+Gestionare fluentă a comenzilor
+Flux sală–bar clar: comandă → preparare → „ready for pickup”. Cozi mai scurte, predare rapidă, clienți mai mulțumiți.
+
+Managementul stocurilor și al lanțului de aprovizionare
+
+Management eficient al stocurilor
+Rețetar pe băuturi, scădere automată la vânzare, alerte „low stock”, inventare ghidate. Ții pierderile sub control.
+
+Managementul furnizorilor
+Comenzi de aprovizionare, liste de prețuri, recepții și trasabilitate. Ai ingredientele potrivite la timp.
+
+Management flotă/transport (opțional)
+Pentru locații multiple sau livrări: gestiune curieri, rute și transferuri între puncte.
+
+Implicarea clienților și marketing
+
+Instrument de marketing puternic
+Promoții „happy hour”, campanii în orele mai libere, push/SMS cu oferte și noutăți — direct pe telefonul clientului.
+
+Marketing țintit
+Segmente pe frecvență, preferințe (espresso, latte, alternative vegane), cupoane personalizate care aduc reveniri.
+
+Pre-comenzi & ridicare programată
+Clientul comandă din timp și ridică la oră; tu netezești vârfurile și reduci aglomerația la tejghea.
+
+Operațiuni front-of-house (specific cafenele)
+
+POS ultra-rapid & preset-uri
+Vânzare în câteva secunde cu butoane mari, variante și extra-uri la un tap. Bon fiscal, split & retur ușor.
+
+Ecran Barista (KDS)
+Comenzile apar clar pe stația de preparare, cu ordine și priorități. Timpul de servire scade, erorile dispar.
+
+Loyalty & punch-card digital
+Puncte sau a 10-a băutură gratuită, abonamente espresso. Crește retenția și valoarea coșului.
+
+Etichete & ambalaje
+Tipărire etichete (nume client, conținut, alergeni), pregătire fără confuzii pentru pick-up.

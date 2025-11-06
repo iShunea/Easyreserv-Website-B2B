@@ -1,0 +1,340 @@
+Termeni și condiții
+TERMENI ȘI CONDIȚII A PLATFORMEI EASYRESERV.IO
+Vă rugăm să citiți cu atenție acești Termeni și Condiții de utilizare a platformei înainte de a începe să le utilizați, ceea ce face obiectul aplicării lor. Prin utilizarea platformei noastre, confirmați că acceptați Termenii de utilizare și vă angajați să îi respectați. Dacă nu acceptați Termenii și Condițiile de utilizare a platformei, nu veți putea folosi platforma noastră.
+
+Înainte de a efectua o tranzacție pe această platformă, vă rugăm să citiți cu atenție și aceste Condiții Generale de Rezervare, care vor guverna achizițiile. Dacă nu acceptați aceste Condiții Generale de Rezervare, vă rugăm să nu utilizați platforma noastră.
+
+CONDIȚII DE UTILIZARE
+Aceste condiții de utilizare reglementează utilizarea serviciului platformei “EasyReserv.io” https://easyreserv.io în orice versiune care poate fi afișată, de la APP EasyReserv.io către orice alt canal, actual sau viitor, pe care SRL ”SHUNEA - IT PROJECTS” îl va pune la dispoziție.
+
+1.2. Datele de identificare ale furnizorului de servicii prin intermediul Platformei EasyReserv.io:
+
+Acesta platformă este administrată de către SHUNEA - IT PROJECTS SRL, înregistrată în Republica Moldova, cod fiscal: 1019605001539, cod TVA: 6501068, str. Sarmizegetusa 53, mun. Chisinau (pe scurt ”EasyReserv.io” ”noi ”,” noi ” sau ”nostru / a / cel / e”).
+
+1.3 Pentru orice comunicare cu EasyReserv.io, puteți trimite un e-mail la: easyreserv@ishunea.io.
+
+TERMENI
+Internet - este un sistem informațional global accesibil publicului larg, logic conectat printr-un spațiu global de adrese și se bazează pe internet-protocol, definit de standardele internaționale;
+
+Web site/Platformă web - totalitate de pagini (site-uri) disponibile în reţeaua Internet, care sunt combinate conform conținutului și navigației și căruia îi este atribuită o adresă IP unică, localizată în rețeaua Internet pe adresa: https://easyreserv.io şi de asemenea derivatele acestuia şi subdomenii care găzduiesc informații despre Prestator, Beneficiar/Partener, cu privire prestarea serviciilor;
+
+Platformă - aplicația mobilă și web EasyReserv.io;
+
+Beneficiar/Partener - persoană fizică sau juridică - rezidentă/nerezidentă, care a încheiat un contract cu Prestatorul cu privire la plasarea informațiilor pe web site sau dețin cont de business pe platforma EasyReserv.io și au acceptat condițiile de utilizare a platformei;
+
+Entitate - întreprinderea care aparține unui Beneficiar/Partener, înregistrată în Platformă;
+
+Utilizator/Abonat - orice persoană fizică sau juridică în capacitate deplină de exercițiu care vizitează şi/sau interacționează cu site-ul https://easyreserv.io sau/și aplicația mobilă EasyReserv.io (găsită pe AppStore / Google Play Market) inclusiv în scop de consultanță, rezervare sau achiziționare de servicii; a stabili, modifica sau anula programări la Partenerii înscriși pe platforma EasyReserv.io sau, după caz, în scopul de a deveni Partener prin încheierea unui contract/acord electronic cu EasyReserv.io și deținerea unui cont business pe platforma EasyReserv.io potențialii beneficiari de servicii care sunt interesați să achiziționeze serviciile prezentate pe aplicația mobilă;
+
+Simpla utilizare a platformei web sau a aplicației mobile presupune acceptarea deplină fără rezerve a tuturor prevederilor enumerate în prezentul document în versiunea publicată de EasyReserv.io în același timp în care Utilizatorul accesează platforma EasyReserv.io;
+
+Servicii - servicii furnizate de EasyReserv.io privind:
+
+posibilitatea persoanelor fizice/persoanelor juridice/proprietarilor/administratorilor de întreprinderi, de a se înscrie pe platforma EasyReserv.io și de a-și promova activitatea și serviciile în cadrul acesteia;
+posibilitatea utilizatorilor de a stabili, modifica, sau anula programări la business-urile înscrise pe platforma EasyReserv.io;
+posibilitatea Partenerilor deținători de cont business pe platformă de a gestiona și monitoriza în mod virtual programările stabilite în cadrul afacerii lor precum și activitatea angajaților, monitorizarea pe stocuri și alte componente pe partea de management (dacă este cazul);
+orice alte beneficii rezultate în urma utilizării funcțiilor platformei web EasyReserv.io;
+Produse și Servicii Entităților - produse, bunuri și/sau servicii oferite spre vânzare sau rezervare pe aplicația mobilă EasyReserv.io;
+
+UGC-urilor - opinii, comentarii plasate de utilizatori;
+
+Rezervare/Programare - rezervarea și/sau programarea de către Utilizatori a unui număr de locuri și/sau servicii în cadrul unui sau mai multe Entități, la o anumită data și o anumită oră; rezervarea/programarea se consideră acceptată la momentul la care Utilizatorul primește din partea EasyReserv.io sau a Business-ului confirmarea acesteia, prin telefon, email sau notificare în cadrul Platformei; Rezervările/Programările au următoarele statusuri:
+
+Rezervare/Programare în analiză - Aceasta este starea în care se află o rezervare sau programare efectuată de către Utilizatori și care trebuie să fie analizată, validată sau refuzată de către Entitate (de exemplu, un restaurant sau un salon). Entitatea ar putea verifica disponibilitatea sau alte detalii înainte de a confirma sau refuza rezervarea;
+Rezervare/Programare confirmată - Aceasta este starea în care o rezervare sau programare a fost acceptată și confirmată atât de către Utilizator, cât și de către Entitate. Acest lucru înseamnă că rezervarea sau programarea este acceptată și că serviciile vor fi furnizate la data și ora specificate;
+Rezervare/Programare în deservire - Acest status se aplică atunci când rezervarea sau programarea se află în curs de desfășurare. În momentul în care clientul a ajuns la locație și serviciul este furnizat, rezervarea sau programarea este în deservire;
+Rezervare/Programare anulată - Aceasta este starea în care o rezervare sau programare a fost anulată de către Utilizator, înainte ca serviciul să fie furnizat, indicând și motivul;
+Rezervare/Programare refuzată - Acest status se aplică atunci când Entitatea a refuzat să accepte o rezervare sau programare, indicând și motivul;
+Rezervare/Programare neonorată - Acest status se aplică atunci când Utilizatorul nu se prezintă la locație la data și ora specificate pentru rezervare sau programare, în ciuda confirmării anterioare;
+Rezervare/Programare încheiată - Acest status se aplică atunci când rezervarea sau programarea a fost finalizată și achitată;
+Precomandă - comanda plasată de către un Utilizator în detaliile unei Rezervării Confirmate; Precomanda devine disponibilă după ce rezervarea a fost confirmată de către Entitate; pentru a fi confirmată precomanda, aceasta trebuie să fie acceptată de către Entitate;
+
+Adresa IP - un identificator digital și/sau simbolic al numelor de domenii din sistemul ierarhic al numelor de domenii definit de standardele internaționale în Internet;
+
+Prestatorul/Administratorul platformei - o persoană care are toate accesele necesare și parolele pentru a asigura funcționarea normală a platformei și are, de asemenea, dreptul de a oferi servicii de publicitate și de informare a utilizatorilor și partenerilor pe platformă. Conform condițiilor prezentului Contract, Prestatorul este administratorul platformei;
+
+Pagina Partenerului - informațiile despre partener postate pe platformă care pot conține, de asemenea, informații despre acesta, în calitate de prestator al serviciilor, amplasarea, detalii de contact etc.. Structura și interfața (vizualizarea) Paginii Partenerului este determinată de Administrator. Structura și interfața Paginii Partenerului pot varia, însă Administratorul garantează Partenerului păstrarea datelor introduse anterior în cont personal (birou personal, https://app.easyreserv.io) - o parte din informații de pe aplicație mobilă, disponibilă pentru vizualizare și editare de către Partener, prin introducerea numelui de utilizator și a parolei. Structura și interfața Contului personal este determinată de Administrator. Structura și interfața Contului personal pot fi modificate, dar Administratorul garantează Partenerului păstrarea datelor introduse anterior;
+
+Înregistrarea - acceptarea de către Partener a ofertei pentru a încheia prezentul contract/acord electronic și procedura în care Partenerul, prin completarea formularelor relevante ale platformei, furnizează informațiile necesare utilizării serviciilor de pe platforma EasyReserv.io. Înregistrarea este considerată completă doar în cazul când toate etapele au fost finalizate cu succes conform instrucțiunilor publicate pe website;
+
+Plăți - plăți pentru achitarea serviciilor portalului (abonament, plăți pentru servicii online etc) care pot fi efectuate prin intermediul Băncilor comerciale la contul de decontare descris în prezentul. Procedurile de efectuare a plăților sunt reglementate de Bancă;
+
+Terță parte - agenții de publicitate, sponsori pentru concursuri, partenerii promoționali și de marketing și alte persoane care furnizează conținutul platformei sau ale căror produse sau servicii Prestatorul consideră că pot prezenta interes;
+
+Dispozitiv - orice dispozitiv conectat la internet, cum ar fi un telefon, tabletă, computer sau orice alt dispozitiv care poate fi utilizat pentru a vizita EasyReserv.io și pentru a utiliza serviciile oferite;
+
+Termeni și Condiții și/sau ”T&C” - prezentul document, Politica de Confidențialitate precum și orice alte documente disponibile în cadrul Platformei https://easyreserv.io care reglementează relația juridică dintre EasyReserv.io și Utilizatori.
+
+ACCEPTAREA CONDIȚIILOR DE UTILIZARE
+Shunea - IT Projects SRL își rezervă dreptul de a modifica condițiile de utilizare a platformei EasyReserv.io, prin urmare Utilizatorul trebuie să citească cu atenție aceste condiții în fiecare dintre ocaziile în care se propune utilizarea platformei EasyReserv.io, întrucât acestea pot fi modificate; cu toate acestea, condițiile existente la momentul achiziționării serviciului vor fi aplicate serviciilor deja achiziționate de către Utilizator.
+
+T&C nu exclud posibilitatea ca anumite servicii EasyReserv.io, datorită propriilor caracteristici, să fie supuse și unor condiții particulare de utilizare, care, în orice caz, pot fi consultate de către Utilizator înainte de achiziționarea serviciului în cauză.
+
+Obiect
+
+Platforma are ca funcție principală:
+
+Centru de colectare și rezervare a datelor pentru bunuri și servicii furnizate de terți care doresc să își ofere produsele sau serviciile spre vânzare pe platforma noastră (”Partenerii”).
+
+EasyReserv.io poate, din nou în funcție de dezvoltarea și evoluția serviciilor Platformei, să extindă sau să modifice aceleași servicii, inclusiv altele noi sau înlocuind servicii, activități sau conținuturi.
+
+Am stabilit condițiile pentru accesul dumneavoastră la platforma noastră și la toate produsele sau serviciile oferite în acesta. Aceste condiții includ termenii și condițiile care guvernează:
+
+drepturile dumneavoastră de a utiliza platforma noastră și de a vă conecta la acesta (acești ”Termeni de utilizare a platformei”);
+Condițiile noastre generale de rezervare pentru produsele și serviciile terților oferite de noi pe platformă (”Condițiile noastre generale de rezervare”) și obligațiile dvs. de a trimite comentarii sau alte contribuții și conținut creat de dvs. pe platforma noastră (”UGC” Conținut generat de utilizatori, sau numit și ”Recenzii” sau ”Comentarii”).
+
+Aceste condiții sunt denumite colectiv sau individual prin expresia: ”Condițiile și politicile noastre”.
+
+În cazul unui conflict între termenii și condițiile particulare și aceste Condiții și Politici, condițiile particulare vor prevala în măsura în care este necesar pentru a elimina
+
+Putem modifica periodic Condițiile și Politicile noastre, caz în care versiunile actualizate ale acestora vor fi publicate pe Site și aplicația mobilă. Va fi responsabilitatea dvs. să verificați periodic Condițiile și Politicile pentru a vă asigura că modificările sunt satisfăcătoare. Se va presupune că ați acceptat modificările la Condiții și Politici dacă, odată ce acestea le găsiți la ”Termeni de utilizare” și ”Politică de confidențialitate” sunt comunicate pe pagina de start a platformei noastre, continuați să accesați sau să utilizați platforma.
+
+UTILIZAREA PLATFORMEI
+Aceste Condiții de utilizare a platformei guvernează metodele de utilizare. Prin accesarea platformei, vă angajați să respectați acești Termeni de utilizare. Condițiile de utilizare a platformei se aplică indiferent de modalitățile de acces la platformă, inclusiv, dar fără a se limita la internet, televiziunea digitală și telefoanele mobile.
+
+Dacă nu acceptați Condițiile de utilizare a platformei nu le veți putea folosi. Înainte de a utiliza platforma, trebuie să citiți toți Termenii de utilizare.
+
+ACCES LA PLATFORMA EASYRESERV.IO
+Accesul la platforma EasyReserv.io este gratuită cu un set limitat de funcționalități, pentru a favoriza de tot setul de capacități acestea pot fi extinse prin intermediul abonamentelor disponibile. Costul conexiunii efectuate prin serviciile de telecomunicații furnizate de furnizorul de rețea de telefonie și internet ales de Utilizator nu se includ în costurile platformei.
+
+Accesul la platformă poate fi temporar. Ne rezervăm dreptul de a închide sau modifica platforma noastră fără notificare (precum și de a retrage sau modifica toate produsele și serviciile oferite în acesta). Nu putem fi făcuți responsabili pentru indisponibilitatea platformei noastre sau a oricărei părți a acesteia în orice moment sau pentru orice perioadă, indiferent de motiv.
+
+Actualizăm periodic platforma, al cărui conținut se poate modifica în orice moment fără notificare. Ne rezervăm dreptul de a închide, modifica sau suspenda platforma (sau orice parte a acesteia) în orice moment și fără notificare.
+
+Materialele și informațiile publicate pe platformă nu trebuie interpretate ca recomandări sau considerate ca atare, bazându-se pe acestea. Prin urmare, în măsura permisă de legile aplicabile, ne declinăm orice responsabilitate care decurge din orice utilizare a acestor informații.
+
+Este responsabilitatea dumneavoastră să pregătiți ceea ce este necesar pentru a accesa platforma și a vizualiza, precum și să vă asigurați că ați instalat software antivirus actualizat pe toate dispozitivele utilizate pentru accesarea platformei.
+
+Sarcina dvs. este să vă asigurați că oricine vă folosește conexiunea la internet pentru a accesa platforma este familiarizat cu Termenii de utilizare.
+
+UTILIZAREA NECORESPUNZĂTOARE A PLATFORMEI EASYRESERV.IO
+Nu puteți utiliza platforma în mod necorespunzător:
+
+introducerea cu bună știință de viruși, cai troieni, erori de computer, bombe logice, bombe cu ceas, recordere de tastare, programe de spionaj, software care conțin publicitate sau alte elemente, programe sau coduri care afectează funcționarea software
+obținerea sau încercarea de a obține acces neautorizat la serverul care găzduiește platforma, sau la orice alt server, computer sau bază de date conectat la platforma EasyReserv.io;
+
+și/sau întreruperea serviciului platformei cu atacuri cibernetice izolate sau lansate simultan din mai multe surse
+Încălcarea acestei clauze ar putea constitui temeiul tragerii la oricare tip de răspundere, inclusiv penală pe componentele de infracțiune prevăzute în capitolul XI din Codul Penal al Republicii Moldova, din 18.04.2002. Vom raporta astfel de încălcări autorităților judiciare competente și vom coopera cu acestea comunicându-le identitatea dumneavoastră. Dacă comiteți astfel de încălcări, veți pierde imediat dreptul de a utiliza platforma noastră.
+
+În cazul în care un Utilizator își creează conturi cu încălcarea a ceea ce a fost stabilit anterior (s-a înregistrat folosind date false sau ale terților, și-a creat mai multe conturi falsificându-și identitatea, și-a creat conturi pentru terți etc.), EasyReserv.io își rezervă dreptul de a:
+
+suspenda furnizarea oricărui serviciu achiziționat de către Utilizator, fără dreptul la rambursarea sumelor plătite pentru achiziționarea acestuia,
+anula conturile menționate anterior, anulând orice credit care s-ar fi putut acumula în acestea,
+interzice generarea de noi conturi pentru Utilizatorul menționat mai sus și/sau interzice sau anulează accesul la platforma EasyReserv.io.
+și, în orice caz, să atribuie Utilizatorului daunele și prejudiciile cauzate EasyReserv.io ca urmare a utilizării frauduloase a platformei EasyReserv.io.
+Ne rezervăm dreptul de a revoca înregistrările pe platformă și/sau de a anula toate sau o parte din drepturile Membrilor. Ne declinăm orice responsabilitate pentru pierderi sau daune cauzate de incapacitatea unui Membru de a accesa paginile platformei.
+
+Avem, de asemenea, dreptul de a dezactiva toate codurile și parolele de identificare a utilizatorului în orice moment, indiferent dacă sunt alese de dvs. sau atribuite de noi, ”Termeni de utilizare” dacă, în opinia noastră rezonabilă, nu ați respectat prevederile uneia dintre ”Politică de confidențialitate” .
+
+Dacă știți sau bănuiți că codul de identificare sau parola pentru a vă accesa profilul de membru este cunoscută de alții, trebuie să ne anunțați imediat la adresa de e-mail easyreserv@ishunea.io.
+
+Utilizatorul ia la cunoștință și acceptă că utilizarea serviciilor oferite pe platforma EasyReserv.io va intra sub întreaga sa responsabilitate și/sau risc. Oricine folosește platforma ”EasyReserv.io” o face pe cont propriu și pe propria răspundere, fără ca EasyReserv.io să fie responsabil pentru eventualele erori sau omisiuni care pot exista în conținutul platformei EasyReserv.io sau al altora care pot fi accesați prin intermediul acestuia. Totodată, EasyReserv.io nu poate fi făcut responsabil pentru nicio daună rezultată din utilizarea platformei EasyReserv.io și pentru nicio acțiune efectuata pe baza informațiilor conținute de acesta.
+
+Prin achiziționarea unui serviciu publicat pe platforma EasyReserv.io, Utilizatorul se obligă să respecte toate cerințele pe care Platforma le stabilește ca fiind necesare pentru furnizarea corectă a serviciului. În caz contrar, Platforma poate, pe baza hotărârii sale, să nu presteze serviciul, fără a rambursa suma acestuia către Utilizator.
+
+Utilizatorul se obligă să nu întreprindă nicio acțiune care să prejudicieze reputația EasyReserv.io sau a terților. Utilizatorul exonerează EasyReserv.io de răspundere în cazul în care își anulează sau suspendă contul de Utilizator din motive legate de încălcarea prevederilor T&C și, în special, dacă Utilizatorul nu plătește prețul serviciului sau folosește conturi frauduloase, dovedit sau suspectat.
+
+Utilizatorul este singurul și exclusiv responsabil pentru utilizarea platformei EasyReserv.io și a conținutului acestuia, iar EasyReserv.io nu poate fi făcut responsabil pentru nicio utilizare a platformei EasyReserv.io contrară legislației în vigoare. În cazul în care se constată activități ilegale sau încălcări ale acestor T&C, EasyReserv.io își rezervă dreptul de a interzice Utilizatorului accesul la platforma EasyReserv.io, fără a fi necesară nicio notificare.
+
+Utilizatorul este conștient că dacă nu se prezintă la timpul stabilit și creează o pagubă materială Entității, acesta este taxat în cuantum de suma integrală pentru serviciile prestabilite pentru acesta, iar suma taxată se va duce ca compensare pentru timpul și serviciile dedicate pentru utilizator.
+
+PUBLICAREA RECENZIILOR ȘI COMENTARIILOR
+Dacă și acolo unde funcționalitatea platformei o permite, Utilizatorul poate, odată ce serviciul ce a fost furnizat, să publice comentarii sau recenzii ale serviciilor oferite de Platformă, raportând întotdeauna adevărul faptelor, exprimându-se cu corectitudine gramaticală și folosind un limbaj fără ofense și moduri nepotrivite de a vorbi.
+
+EasyReserv.io poate șterge orice conținut sau suspenda serviciul în cazul în care consideră, la discreția sa exclusivă, că Utilizatorul încalcă oricare dintre regulile și obligațiile descrise în T&C sau dacă poate fi considerat inadecvat și/sau fals în opinia lui EasyReserv.io.
+
+Toate recenziile publicate vor fi atribuite numelui Membrului comunicat de acesta din urmă, însă adresa sa de email nu va fi publicată pe Platformă.
+
+Ne rezervăm dreptul de a refuza publicarea UGC-urilor care nu corespund Politicii noastre sau de a le anula pe cele deja publicate fără notificare. Ne declinăm orice răspundere pentru pierderile sau daunele cauzate de decizia de a refuza publicarea unui UCG sau de a le șterge pe cele deja publicate.
+
+De asemenea, ne rezervăm dreptul de a închide conturile de Abonat și/sau de a refuza anumitor utilizatori posibilitatea de a-și posta UGC-urile pe platformă în cazul încălcării repetate și/sau grave ale prevederilor Politicii privind conținutul generat de utilizatori.
+
+Opiniile Utilizatorilor, inclusiv cele exprimate în UGC-urile publicate de Abonații platformei, sau de alți membri ai publicului, aparțin celor care le publică și nu EasyReserv.io, care își declină orice responsabilitate pentru conținut.
+
+Cu toate acestea, dacă considerați că conținutul unui utilizator publicat pe platformă este în vreun fel ofensator, obscen, defăimător, rasist, dăunător, incorect, ilegal, ilicit sau înșelător, vă rugăm să ne informați la adresa de e-mail easyreserv@ishunea.io, indicând în subiect ”Comentarii defăimătoare”. După primirea reclamației, este posibil să ștergem UGC-ul care a cauzat-o sau să blocăm accesul la acesta.
+
+PLĂȚI ȘI ABONAMENTE
+Pentru moment, EasyReserv.io percepe plăți doar pentru abonamente oferite exclusiv Partenerilor. Lista de abonamente poate fi găsită accesând linkul https://easyreserv.io/pricing.
+
+Termenii cu privire la procurare și utilizarea abonamentelor:
+
+Abonamentele se oferă pe o perioadă limitată specificată în abonament.
+Plata efectuată nu poate fi rambursate după procurare abonamentului.
+Utilizatorul are opțiune de a migra de la un abonament la altul, achitând doar diferența între cost.
+Plățile se elaborează prin intermediul credit sau debit cardului prin procesatorul de plăți MICB.
+Datele precum numărul deplin a cardului, data expirării și CVC-ul nu se stochează de către platforma EasyReserv.io.
+Abonamentele în sine includ plăți recurente, ceea ce înseamnă că la expirarea abonamentului, platforma EasyReserv.io va încerca să subtragă plata pentru următoarea perioadă.
+Plățile se elaborează în valută (Eur), după cursul de conversie stabilit de bancă.
+Utilizatorul are opțiunea de a stopa plățile recurente din platformă cel puțin cu o lună până la expirarea abonamentului.
+În cazul insuficienței de surse financiare pe cont, abonamentul utilizatorului va trece automat pe versiunea gratuită după o perioadă de grație de 7 zile.
+Fiecare abonament include un set de funcționalități oferite sau servicii prestate de către Platforma / Echipa EasyReserv.io.
+PROPRIETATEA INTELECTUALĂ EASYRESERV.IO
+Conținutul platformei EasyReserv.io, inclusiv desene, aplicații, texte, imagini și cod sursă (denumit în mod colectiv ”Conținutul”) sunt protejate de drepturi de proprietate intelectuală EasyReserv.io și industrială. Shunea - IT Projects SRL este proprietarul drepturilor de proprietate intelectuală EasyReserv.io și industrială ale platformei EasyReserv.io și ale Conținutului, sau eventual a obținut autorizațiile sau licențele corespunzătoare pentru utilizarea și/sau utilizarea acestuia.
+
+De asemenea, este proprietarul numelui de domeniu al platformei EasyReserv.io, al mărcilor comerciale și al semnelor distinctive, al instrumentului de gestionare al rezervărilor, al informațiilor și al restului lucrărilor și invențiilor referitoare la platforma EasyReserv.io precum și al tehnologiei asociate acestuia.
+
+În niciun fel Conținutul nu poate fi utilizat, reprodus, copiat sau transmis sub nicio formă fără permisiunea prealabilă scrisă și explicită a EasyReserv.io.
+
+Utilizatorul declară că deține toate autorizațiile și licențele comentariilor, imaginilor, semnelor distinctive și conținutului care pot include și/sau publica, exonerând astfel EasyReserv.io de orice răspundere aferentă.
+
+De asemenea, Utilizatorul acordă EasyReserv.io licența de utilizare în scopul exclusiv al publicării și moderării comentariilor acesteia.
+
+Utilizatorul și, în general, orice persoană fizică sau juridică care dorește să introducă un link hipertext sau altele (de exemplu, link-uri sau widgeturi) ('hyperlink') trebuie să obțină autorizație prealabilă în scris de la EasyReserv.io.
+
+Crearea unui hyperlink nu presupune în niciun caz existența unei relații între EasyReserv.io și proprietarul platformei în care există un hyperlink sau widget, nici acceptarea sau aprobarea de către EasyReserv.io a conținutului sau serviciilor sale.
+
+În orice caz, EasyReserv.io își rezervă dreptul de a preveni sau de a face inutil orice hyperlink sau widget către platforma EasyReserv.io, în special în cazul activității ilegale și conținutul acestuia.
+
+Platforma EasyReserv.io poate pune la dispoziția Utilizatorului, în scopul exclusiv al cercetării și accesării informațiilor, conținuturilor și serviciilor disponibile pe internet, link-uri hipertext sau alte dispozitive de conectare (de exemplu, link-uri sau butoane), care permit Utilizatorului să acceseze site-uri web sau portaluri de internet aparținând sau gestionate de terți (”Site-urile legate”).
+
+Platforma EasyReserv.io nu oferă sau comercializează pentru sine sau prin terți informațiile, conținuturile și serviciile disponibile pe platformă legate și nici nu aprobă, supraveghează sau controlează în vreun fel conținuturile și serviciile și orice material de orice natură existent în acestea, prin urmare Utilizatorul este exclusiv responsabil pentru navigarea prin acestea.
+
+Veți putea accesa, vizualiza și tipări o copie a acestei platforme și a tuturor informațiilor, imaginilor și a altor conținuturi (cu excepția UGC-urilor) publicate pe Platformă (”Materiale”), cu respectarea strictă a acestor Termeni de utilizare a platformei.
+
+Platforma și Materialele pot fi vizualizate, tipărite, utilizate, menționate și citate pentru uzul lor personal și necomercial și cu condiția să se acorde recunoaștere adecvată EasyReserv.io.
+
+Nimic din licența menționată mai sus nu va afecta sau limita drepturile morale ale autorului asupra Materialelor.
+
+Ne rezervăm în mod explicit toate drepturile de proprietate intelectuală asupra platformei și materialelor, a căror utilizare este supusă limitărilor descrise mai jos. Nu veți putea:
+
+să eliminați orice notificări privind drepturile de autor sau alte drepturi de proprietate conținute în Materiale; și/sau
+să utilizați Materialele platformei cu încălcarea oricărui drept de autor, drept de proprietate intelectuală EasyReserv.io sau drept de proprietate al nostru sau al oricărei terțe părți; și/sau
+să folosiți sau determinați pe alții să utilizeze orice sistem automat sau software pentru extragerea conținutului sau a datelor de pe această platformă (cu așa-numita ”screen scraping”, adică căutarea și extragerea sistematică a datelor), cu excepția cazului în care dvs. sau terți autorizați aveți direct un contract de licență stipulat că noi permitem în mod explicit o astfel de activitate; și/sau
+să reproduceți, să modificați, să expuneți, să realizați, să publicați, să distribuiți,, să transmiteți, să exploatați cu tehnici de încadrare (sau să creați alte medii de navigare sau circumscrise în acest scop), precum și să comunicați publicului sau să dezvăluiți unor terți sau să exploatați acest Site și/sau Materiale pentru orice scop comercial, fără permisiunea noastră prealabilă scrisă acordată în baza unui acord de licență.
+NUME DE MARCĂ
+Ne rezervăm în mod explicit toate drepturile asupra și asupra numelui de domeniu https://easyreserv.io și a tuturor domeniilor și subdomeniilor aferente, numele EasyReserv.io, logo-ul nostru, mărcile de serviciu, denumirile comerciale și/sau mărcile comerciale. Celelalte mărci, produse și nume de companii care apar pe platformă pot aparține proprietarilor și licențiaților respectivi, care rămân proprietarii exclusivi ai drepturilor conexe.
+
+LINK-URI CĂTRE PLATFORMA EASYRESERV.IO
+Veți putea crea link-uri către orice pagină a platformei noastre în scopuri necomerciale, atâta timp cât acest lucru este făcut în mod corect și legal și nu dăunează reputației noastre și nu cauzează un avantaj necuvenit în favoarea dumneavoastră. Pentru o mai mare claritate, platforma conectată nu trebuie să conțină conținut pentru adulți sau materiale care sunt ilegale sau jignitoare, hărțuitoare sau inadmisibile în vreun fel.
+
+Link-urile către site-ul nostru care fac aluzie la orice tip de asociere, aprobare sau sprijin din partea noastră nu vor fi permise acolo unde nu există. Utilizarea încadrării sau a altor tehnici pentru a elimina sau a ascunde reclamele, notificările privind drepturile de autor sau alte informații publicate pe Site nu va fi permisă.
+
+Nu va fi permisă supunerea platformei noastre altor site-uri prin utilizarea tehnicilor de încadrare sau prin crearea altor medii de navigare sau circumscrise.
+
+Dacă doriți să vă conectați la platforma noastră în scopuri comerciale sau din alte motive care nu sunt menționate mai sus, sau dacă doriți să deveniți partenerul nostru, vă rugăm să scrieți la easyreserv@ishunea.io.
+
+Ne rezervăm dreptul de a retrage consimțământul pentru hyperlinkuri în orice moment și fără notificare.
+
+CONFIDENȚIALITATE, DATE PERSONALE ALE UTILIZATORULUI ȘI COOKIE-URI
+Confidențialitatea datelor dumneavoastră personale este importantă pentru noi. Vă rugăm să consultați Politica noastră de confidențialitate și cookie-uri pentru clarificări suplimentare cu privire la metodele de prelucrare a datelor dumneavoastră cu caracter personal care ne pot fi comunicate, precum și la modul de utilizare a cookie-urilor.
+
+CONȚINUT TERȚE PERSOANE
+Platforma EasyReserv.io poate conține reclame trimise de terți. Aceștia din urmă vor fi singurii responsabili pentru conținutul reclamelor și va fi responsabilitatea lor să se asigure că reclamele respectă legile și reglementările în vigoare. Nu ne asumăm responsabilitatea pentru conținutul reclamelor postate de terți.
+
+Platforma noastră și/sau Materialele pot conține link-uri către platforme externe (inclusiv cele ale Partenerilor noștri). Puteți decide pe propriul risc să vizitați un site extern. Nu suntem responsabili nici direct, nici indirect pentru conținutul, veridicitatea sau opiniile exprimate pe astfel de site-uri, nici pentru calitatea bunurilor sau serviciilor oferite în acestea. Dacă nu se specifică în mod explicit altfel, legăturile nu implică nicio afiliere sau asociere între noi sau platforma noastră și astfel de site-uri.
+
+Comunicările noastre destinate dumneavoastră pot conține informații de pe site-uri externe. Materialele de pe site-uri externe vor fi identificate ca atare și poate fi furnizat un link către site-ul sursă. Ne declinăm orice responsabilitate pentru elementele conținute în site-uri externe sau care provin de la acestea prin link-uri incluse în comunicările noastre destinate dvs. și nici pentru orice utilizare pe care asemenea terți o pot face a datelor cu caracter personal.
+
+Includerea unui link în comunicările noastre către dumneavoastră nu implică aprobarea noastră pentru platforma țintă. Puteți decide pe propriul risc să utilizați link-uri pentru a vizita site-uri web externe.
+
+Vă reamintim că, prin utilizarea unui link de ieșire de pe platforma noastră pentru a vizita un alt site, Condițiile și Politicile noastre (inclusiv Politica de confidențialitate și cookie-uri) nu se vor mai aplica. Navigarea dvs. și interacțiunile dvs. cu alte platforme web, inclusiv cele legate de ale noastre, sunt supuse diferitelor condiții și politici ale acelor site-uri web. Înainte de a vizita astfel de site-uri, vă rugăm să vă informați despre condițiile și politicile acestora.
+
+RESPONSABILITATEA NOASTRĂ
+În măsura maximă permisă de lege, excludem și respingem toate garanțiile, termenii, condițiile și declarațiile cărora legea le-ar putea supune platformei noastre. În special, nu afirmăm și nu garantăm că platforma este lipsită de erori și imună la viruși, sau alte elemente nocive, nici că defectele nu vor fi corectate. În acest sens, va trebui să vă luați propriile măsuri de precauție. În orice caz, nu vom fi responsabili pentru întreruperile serviciului cauzate de atacuri cibernetice lansate simultan din mai multe surse, sau de viruși sau alte elemente dăunătoare din punct de vedere tehnologic care ar putea infecta echipamentele și programele de calculator, datele sau alte materiale deținute de dvs. în urma utilizării dvs. a platformei noastre.
+
+Ne declinăm orice responsabilitate pentru lipsa întreținerii platformei noastre și/sau pentru întârzierea sau nelivrarea Materialelor.
+
+Conform acestor Termeni de utilizare a platformei, nu vom fi răspunzători pentru daune indirecte, speciale, incidentale, emergente sau de altă natură, chiar dacă am fost informați cu privire la posibilitatea de a le suporta.
+
+Materialele pot conține inexactități și erori tipografice și nu garantăm acuratețea sau caracterul complet al acestora
+
+Ne declinăm orice responsabilitate pentru pierderile cauzate de acțiunile sau omisiunile comise de dvs. în legătură cu Materialele de pe această platformă. Cu toate acestea, nimic din Termenii de utilizare a platformei nu poate afecta drepturile dumneavoastră recunoscute de lege sau exclude răspunderea noastră în următoarele cazuri: deces sau vătămare neglijentă; declarație falsă rău intenționată; și/sau orice altă răspundere pe care nu o putem exclude sau limita conform legislației din Republica Moldova.
+
+ACOPERIREA TERITORIALĂ
+Platforma este destinată pentru utilizare în toată lumea.
+
+CONFORMITATEA LEGALĂ ȘI LEGILE APLICABILE
+Instanțele din Chișinău vor avea competența exclusivă asupra plângerilor provenite din vizitele pe platformă sau legate de acestea. Aceste condiții generale vor fi guvernate de legislația Republicii Moldova.
+
+CONTACTE
+Pentru orice nelămuriri sau întrebări cu privire la materialele publicate pe platforma noastră sau la Termenii de utilizare ai acestuia, vă rugăm să scrieți la următoarea adresă de e-mail: easyreserv@ishunea.io.
+
+CONDIȚII GENERALE DE REZERVARE
+Serviciile care pot fi achiziționate sau rezervate prin EasyReserv.io sunt comercializate de partenerii noștri și nu de noi. Ne ocupăm doar de organizarea rezervărilor și/sau programărilor dumneavoastră și (în unele cazuri) de gestionarea plăților aferente.
+Deși nu suntem responsabili pentru serviciile oferite de Partenerii noștri, vă rugăm să ne raportați orice problemă sau performanță insuficientă în cadrul unor exerciții. În aceste cazuri vom face tot posibilul pentru a vă ajuta.
+Înainte de rezervare, vă rugăm să examinați cu atenție serviciile oferite și orice limitări.
+Înainte de a face o rezervare sau o programare, vă rugăm să vă asigurați că ați comunicat Partenerilor noștri toate informațiile de sănătate despre alergii sau alte afecțiuni.
+Dacă doriți să modificați o rezervare care a fost deja făcută, vă rugăm să contactați direct compania în cauză.
+Dacă doriți să comunicați cu noi, puteți contacta echipa noastră la următoarea adresă:
+E-mail: easyreserv@ishunea.io
+
+Platforma: EasyReserv.io vă permite accesul la o gamă largă de servicii în cadrul Entităților înregistrate în Platformă, cum ar fi: tratamente de înfrumusețare și produse și/sau servicii disponibile în numeroase spa-uri și saloane, restaurante cu diferite tipuri de bucătării, serviciile medicale, divertisment, barbershop-uri, servicii de catering, servicii de organizare a evenimentelor, servicii foto&video, cât și altele care vor fi adăugate pe parcurs în platformă. Astfel de produse și/sau servicii sunt furnizate de Saloane/Restaurante/Clinici Medicale/Companii de Catering/Companii de Organizarea Evenimentelor/Parteneri și nu de EasyReserv.io. EasyReserv.io prestează servicii de colectare a rezervărilor și/sau a programărilor dumneavoastră și de transmiterea temporară a acestora către Partenerii vizați pentru prestarea serviciilor. Serviciile rezervate prin intermediul platformei noastre sunt responsabilitatea Partenerilor care le furnizează.
+
+Din punct de vedere legal, această separare a responsabilităților înseamnă că atunci când achiziționați un Produs sau Serviciu, sunt create două contracte obligatorii din punct de vedere juridic:
+
+Primul
+
+Al doilea este un contract între dumneavoastră și Partener, al cărui obiect este livrarea sau furnizarea Produselor sau Serviciilor rezervate de dumneavoastră prin intermediul platformei. Acest contract poate include și alte Condiții Generale ale Partenerilor, care vor fi comunicate către dumneavoastră înainte de a finaliza rezervarea pe platforma dedicată.
+
+Toate Serviciile care pot fi vizualizate sau rezervate de pe platformă sunt oferite de EasyReserv.io în numele Partenerilor săi. Cu alte cuvinte, EasyReserv.io acționează ca agent de rezervări în numele Partenerilor. Prin urmare, nu vom avea nicio răspundere sau obligație față de dvs. pentru Produsele sau Serviciile rezervate prin intermediul platformei.
+
+Modificăm periodic Condițiile Generale de Rezervare așa cum este prevăzut la punctele anterioare. Înainte de a efectua o tranzacție de pe platformă, vi se cere să verificați Condițiile Generale de Rezervare, pentru a vă asigura că înțelegeți condițiile în vigoare la momentul respectiv.
+
+REZERVĂRI ȘI/SAU PROGRAMĂRI ȘI SEMNAREA CONTRACTELOR ÎNTRE UTILIZATORI ȘI EASYRESERV.IO
+Pentru a efectua o rezervare sau o programare pe platforma EasyReserv.io, Utilizatorul trebuie să se înregistreze pe platforma EasyReserv.io, completând chestionarul și acceptând T&C-urile și politica de confidențialitate prevăzute în acest scop. Vă rugăm să acordați timp suficient pentru a citi și a verifica rezervarea dvs. la fiecare etapă de finalizare și înainte de trimiterea finală.
+
+După ce fiecare rezervare și/sau programare a fost trimisă, veți primi un mesaj de confirmare a primirii de la EasyReserv.io, dar, acest fapt nu confirmă că rezervarea și/sau programarea a fost acceptată. Rezervările și/sau programările sunt doar manifestări ale intenției dumneavoastră de a rezerva și sau programa o vizită la Entitate. Rezervările și/sau Programările sunt supuse acceptării, iar contractul dintre dumneavoastră și Beneficiarii (Entitățile), (”Acordul”) este încheiat în momentul expedierii rezervării și/sau programării. Dacă doriți să schimbați caracteristicile (ora sau data) rezervării și/sau programării, vă recomandăm să contactați direct Entitatea, cu care va trebui să conveniți asupra noii programări, sau simplu să anulați programarea existentă și să plasați una nouă cu timpul dorit.
+
+Dacă intenționați să anulați rezervarea, aveți posibilitatea de a o face din platformă, și va fi nevoie să indicați și motivul.
+
+PRODUSE ȘI SERVICII
+EasyReserv.io și Beneficiarii sunt obligați din punct de vedere legal să furnizeze Produse sau Servicii corespunzătoare celor descrise în Acordul relevant.
+
+Toate Produsele sau Serviciile indicate pe aplicație, sunt furnizate numai dacă sunt disponibile. Produsele sau Serviciile furnizate efectiv pot fi diferite de imaginile și/sau descrierile afișate pe aplicație, care au caracter pur orientativ.
+
+Solicităm Beneficiarilor să verifice acuratețea, exhaustivitatea și veridicitatea tuturor informațiilor (pe care nu le putem controla) trimise către noi pentru publicare pe paginile lor de pe platforma noastră. Va fi la latitudinea fiecărui Partener să verifice disponibilitatea și descrierea corectă a tuturor Produselor sau Serviciilor sale oferite pe aplicație.
+
+Va fi singura dumneavoastră responsabilitate (sau destinatarul Produselor sau Serviciilor) să anunțați în prealabil Beneficiarul cu privire la afecțiunile dumneavoastră medicale sau de sănătate și/sau nevoile speciale, care ar putea pune în pericol utilizarea Produselor sau Serviciilor sau ar putea fi afectate de acestea (menționăm doar pe cale de alergii sau probleme de sănătate). Dacă dumneavoastră (sau destinatarii diferitelor Produse sau Servicii) nu comunicați aceste informații Partenerilor/Beneficiarilor relevante, nici EasyReserv.io și nici Partenerilor/Beneficiarilor vor fi răspunzători față de dumneavoastră (sau față de destinatarii Produselor sau Serviciilor) pentru vătămări, pierderi sau daune care, deși au fost cauzate de Produse sau Servicii, ar fi putut fi evitate în mod rezonabil dacă dumneavoastră (sau destinatarii respectivi ai Produselor sau Serviciilor) ați fi dezvăluit informațiile de mai sus înainte de a primi Produsele sau Serviciile.
+
+ANULAREA REZERVĂRILOR ȘI/SAU PROGRAMĂRILOR
+Anularea rezervării poate fi făcută direct din platformă fără a implica oarecare costuri de rambursare.
+
+SOLUȚIONAREA DISPUTELOR
+Satisfacția dumneavoastră este importantă pentru noi și dorim să fim siguri că vă oferim cel mai bun serviciu posibil. Dacă doriți să faceți o plângere cu privire la unul dintre Beneficiarii noștri sau produsele sau serviciile acestora, vă rugăm să scrieți la adresa de e-mail easyreserv@ishunea.io. După primirea reclamației vom contacta Beneficiarul pentru a încerca să rezolvăm problema în numele dumneavoastră.
+
+În plus (sau alternativ), dacă sunteți nemulțumit de Produsele sau Serviciile furnizate de un Beneficiar în legătură cu o Rezervare și/sau Programare, puteți:
+
+încercați să rezolvați problema contactând direct Beneficiarul; și/sau
+publica o recenzie pe platformă în care veți descrie cu fidelitate experiența dvs.
+Vă reamintim că acordăm o mare importanță tuturor reclamațiilor referitoare la Beneficiarii noștri și vom face tot posibilul pentru a vă ajuta să le rezolvați, dar că nu suntem responsabili față de dvs. pentru Produsele sau Serviciile furnizate de Beneficiari.
+
+RESPONSABILITATE
+Toate informațiile publicate pe platforma EasyReserv.io (cu titlu de exemplu, dar fără a se limita la: descrierea serviciului, zona beneficiarilor, disponibilitate, personalul care va efectua serviciile, prețul) au fost furnizate de către Platformă.
+
+EasyReserv.io se limitează la publicarea serviciilor Platformei precum și la disponibilitatea acestora, pentru a facilita rezervările și/sau programările acestuia și în cazul Platformei, achiziția și plata, acesta fiind un simplu serviciu intermediar al EasyReserv.io.
+
+Toate serviciile publicate pe platforma EasyReserv.io sunt create și desfășurate de Platformă, prin urmare EasyReserv.io nu este responsabilă pentru așteptările create, nici pentru rezultatele serviciului sau calitatea acestuia, nici pentru abaterea Platformei.
+
+În cazul în care vina noastră și/sau încălcările obligațiilor noastre contractuale față de dumneavoastră, vom fi răspunzători pentru daunele și pierderile suferite de dumneavoastră din aceste motive, cu condiția ca acestea să fie previzibile. Pierderile și daunele sunt evenimente previzibile care sunt consecințe naturale ale neglijenței noastre sau ale încălcării contractului, sau pe care atât dvs., cât și noi le-am considerat consecințe probabile ale unei astfel de încălcări a contractului sau neglijență la momentul încheierii Acordului.
+
+Nu acceptăm nicio răspundere pentru următoarele tipuri de pierderi, care decurg indiferent din încălcări contractuale, răspundere civilă (inclusiv neglijență) sau alte cauze, chiar dacă pierderea era previzibilă: pierderea veniturilor sau a veniturilor; afaceri ratate; pierdere de profit; pierderea presupuselor economii; pierdere de date; sau timp pierdut pentru manageri și angajați.
+
+Nu ne excludem și nu ne limităm răspunderea pentru deces sau vătămare cauzată de noi prin neglijență, abatere intenționată sau ca urmare a declarațiilor rău intenționate sau pentru orice altă răspundere care nu poate fi exclusă sau limitată conform legislației în vigoare.
+
+DREPTUL NOSTRU DE A MODIFICA CONDIȚIILE DE REZERVARE
+Putem modifica Condițiile generale de rezervare din când în când în următoarele circumstanțe:
+
+modificările noastre la procedurile de acceptare a plăților dvs.
+modificări ale obligațiilor legale și de reglementare relevante;
+alte modificări ale activităților noastre comerciale, care ne impun în mod rezonabil să modificăm Condițiile generale de rezervare.
+Ori de câte ori modificăm aceste Condiții Generale de Rezervare conform acestor condiții, vă vom informa și vă vom anunța cu privire la modificarea Condițiilor Generale de Rezervare, indicând data relativă de intrare în vigoare în partea de sus a acestei pagini.
+
+DISPOZIȚII GENERALE
+Toate comunicările și notificările trebuie adresate la următoarea adresă de e-mail easyreserv@ishunea.io. EasyReserv.io vă poate trimite comunicările și notificările sale prin e-mail, sau prin publicarea acestora pe platformă.
+
+Dacă un termen al acestor Condiții generale de rezervare este considerat invalid, ilegal sau din orice motiv care nu este aplicabil de către o autoritate competentă, acest termen, condiție sau prevedere va fi separat de ceilalți termeni, condiții și clauze, care vor rămâne valabile în măsura maximă permisă, prin lege.
+
+FORŢA MAJORĂ
+Forţa majoră, (eveniment imprevizibil, incontrolabil şi inevitabil ce afectează derularea contractului), exonerează de răspundere partea care o invocă.
+
+Neexecutarea obligației este justificată dacă ea se datorează unui impediment în afara controlului debitorului și dacă debitorului nu i se putea cere în mod rezonabil să evite sau să depășească impedimentul ori consecințele acestuia.
+
+SOLUŢIONAREA LITIGIILOR ŞI LEGEA APLICABILĂ
+Relaţiile contractuale dintre părţi sunt guvernate de legislaţia în vigoare a Republicii Moldova. Orice litigiu care nu poate fi soluţionat de către părţi pe cale amiabilă va fi trimis spre soluţionare instanţelor judecătoreşti competente ale R. Moldova.
+
+Lista tuturor domeniilor calificate conform acestor Termeni și condiții
+
+https://easyreserv.io
+https://app.easyreserv.io/login
+și toate subdomeniile afiliate.
+

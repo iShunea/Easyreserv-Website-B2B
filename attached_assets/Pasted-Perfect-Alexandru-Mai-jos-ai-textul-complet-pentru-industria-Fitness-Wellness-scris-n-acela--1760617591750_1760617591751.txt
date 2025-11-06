@@ -1,0 +1,92 @@
+Perfect, Alexandru 💪
+Mai jos ai textul complet pentru industria Fitness & Wellness, scris în același stil structural ca restul industriilor — coerent, scalabil și orientat pe beneficii operaționale.
+
+⸻
+
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Gestionezi antrenorii, instructorii, recepționerii și terapeuții. Creezi ture, stabilești comisioane, urmărești participarea și performanța individuală.
+
+Management financiar precis
+Controlezi toate încasările: abonamente, servicii unice, extra-uri și vânzări retail (suplimente, echipamente). Rapoarte zilnice și închideri automate pe POS.
+
+Profiluri complete de clienți
+Vizualizezi istoricul antrenamentelor, abonamentele active, tipurile de clase preferate, obiectivele și progresul fiecărui client. Personalizarea devine simplă.
+
+Configurare flexibilă a afacerii
+Definire locații, săli, tipuri de clase, antrenori, servicii, abonamente, tarife și reguli de acces. Platforma se adaptează tipului tău de business: sală de fitness, wellness studio sau centru sportiv complet.
+
+Documente și contracte
+Contracte de membru, acorduri medicale și consimțăminte — generate automat și stocate electronic, accesibile instant.
+
+⸻
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Vezi în timp real vânzările, abonamentele expirate, frecvența vizitelor și ratele de retenție. Rapoartele te ajută să ajustezi programul, tarifele și campaniile.
+
+Flux operațional fluent
+De la prima înscriere până la reînnoirea abonamentului, totul se face digital: contract, plată, acces, raport. Timpul de procesare scade, satisfacția crește.
+
+⸻
+
+Managementul stocurilor și al aprovizionării
+
+Stocuri și produse retail
+Gestionezi vânzarea de suplimente, echipamente, accesorii și băuturi. Ai vizibilitate pe stocuri, alerte „low stock” și inventare rapide.
+
+Furnizori & achiziții
+Ții evidența comenzilor și recepțiilor pentru consumabile (prosoape, soluții curățare, echipamente). Costuri predictibile și aprovizionare fără întreruperi.
+
+Întreținerea echipamentelor
+Planifici mentenanța și reviziile pe aparate, monitorizezi durata de utilizare și intervențiile efectuate.
+
+⸻
+
+Implicarea clienților și marketing
+
+Programări & rezervări automate
+Clienții rezervă locul la clase sau antrenamente 1:1 direct din aplicație. Confirmări și remindere automate — sălile se umplu, anulările scad.
+
+Abonamente & freeze flexibil
+Creezi abonamente adaptate: lunar, zilnic, pachet ședințe, acces full sau pe ore. Opțiune „pauză” (freeze) și reactivare automată.
+
+Loyalty & campanii de retenție
+Recompense pentru participare constantă, puncte convertibile, oferte de reînnoire. Campanii de „win-back” pentru membrii inactivi.
+
+Marketing țintit
+Campanii pe segmente: începători, avansați, femei, familii, wellness. Notificări push sau e-mail cu oferte personalizate și noutăți.
+
+Aplicație mobilă pentru clienți
+Clienții își văd abonamentele, participările, rezultatele și pot rezerva clase în timp real. Push-notificări pentru motivație și progres.
+
+⸻
+
+Operațiuni specifice fitness & wellness
+
+Control acces (QR/NFC)
+Scanare rapidă la intrare, validare abonament, limită vizite, blocări automate la expirare. Fără liste manuale, fără confuzii.
+
+Program clase & resurse
+Calendar dinamic pentru săli și instructori: rezervări limitate, locuri eliberate automat, liste de așteptare inteligente.
+
+Antrenori & comisioane
+Comisioane automate din vânzările de abonamente și antrenamente private. Vizibilitate totală pe activitate și performanță.
+
+POS integrat & multi-locație
+Vânzări rapide la recepție sau din aplicație, POS fiscal compatibil, rapoarte centralizate pentru rețele de săli.
+
+⸻
+
+Micro-impact (de comunicat pe pagină)
+	•	Retenție ↑ 30–40% datorită notificărilor și abonamentelor flexibile
+	•	Timp de check-in ↓ 60% prin acces QR/NFC automat
+	•	Clase pline & anulări ↓ prin rezervări automate și waitlist
+	•	Venit/abonat ↑ cu pachete personalizate și upsell la servicii extra
+	•	Operațiuni simplificate: mai puțin timp pe administrare, mai mult pe antrenamente
+
+⸻
+
+Vrei să ți-l formatez direct pentru componenta din /Solutions (cu tag-uri de secțiune, headline și bulleturi responsive) sau preferi versiunea JSON i18n pentru dropdown „Alege industria”?

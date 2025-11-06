@@ -1,0 +1,62 @@
+📋 Instrucțiuni pentru Website EasyReserv
+🔌 URL Backend:
+http://localhost:3000
+(Schimbă cu URL-ul tău de producție când vei deploya)
+
+📝 Ce trebuie să implementeze frontend-ul:
+1. Pagina cu lista de articole (Blog Index)
+Endpoint: GET /api/blog/articles
+
+// Exemplu de cerere
+const response = await fetch('http://backend-url/api/blog/articles?page=1&perPage=10');
+const data = await response.json();
+// data.articles = array cu articole
+// data.total = numărul total de articole
+// data.page = pagina curentă
+// data.perPage = articole per pagină
+Query parameters opționale:
+
+page - numărul paginii (default: 1)
+perPage - articole per pagină (default: 10)
+category - filtrare după categorie: use_case, news, updates, entertainment
+featured - doar articole featured: true
+Ce primești pentru fiecare articol:
+
+id, title, slug - identificare
+excerpt - descriere scurtă (max 200 caractere)
+image - URL imagine principală
+category - categorie: use_case/news/updates/entertainment
+author.name, author.avatar - info autor
+publishedAt - data ISO format
+displayDate - data formatată în română (ex: "1 ianuarie 2025")
+featured - boolean dacă e articol featured
+2. Pagina articol individual (Blog Detail)
+Endpoint: GET /api/blog/articles/:slug
+
+// Exemplu - slug-ul poate fi din URL-ul paginii
+const slug = 'titlul-articolului';
+const response = await fetch(`http://backend-url/api/blog/articles/${slug}`);
+const data = await response.json();
+// data.article = obiect complet cu articol
+Ce primești în plus față de listă:
+
+content - HTML complet al articolului (gata de afișat)
+readTime - timp estimat de citire (ex: "5 min")
+tags - array cu tag-uri
+author.bio - biografia autorului
+relatedArticles - array cu max 3 articole similare (același format ca în listă)
+3. Articol featured (pentru Hero Section)
+Endpoint: GET /api/blog/featured
+
+// Exemplu - pentru afișare în hero/banner
+const response = await fetch('http://backend-url/api/blog/featured');
+const data = await response.json();
+// data.article = articolul featured (format complet ca la #2)
+Returnează articolul marcat cu featured=true, sau cel mai recent dacă nu există niciunul featured.
+
+✅ Asta e tot!
+Frontend-ul doar:
+
+Face request-uri la aceste 3 endpoint-uri
+Afișează datele primite în UI
+Nu trebuie să proceseze nimic - datele vin gata formatate în română, cu HTML, imagini R2, etc.

@@ -1,0 +1,92 @@
+Perfect, Alexandru. Iată conținutul pe lung pentru industria Chirii auto (Rent-a-car), aliniat cu structura folosită la celelalte verticale.
+
+⸻
+
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Planifici ture pentru agenți, operatori parcare și șoferi (delivery/pick-up), cu pontaj, roluri & permisiuni și targeturi pe locație.
+
+Management financiar precis
+Închideri de zi corecte, avansuri și depozite gestionate clar, facturi și chitanțe, reconciliere plăți și rapoarte pe centre de profit (închirieri, extra-servicii, penalități).
+
+Profiluri complete de clienți
+KYC, date permis/pașaport, istoricul închirierilor, preferințe, incidente/penalități. Verificări rapide și sigure.
+
+Configurare flexibilă a afacerii
+Locații multiple, clase auto, politici (vârstă minimă, perioadă, franchise), tarife sezoniere/dinamice, roluri & permisiuni.
+
+Documente & contracte
+Contracte de închiriere, proces-verbal predare/primire, împuterniciri, polițe — generate, semnate electronic și stocate în siguranță.
+
+⸻
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Grad de utilizare pe vehicul/clasă, venit/km, cost/km, downtime, top extra-servicii, canale de rezervare, pierderi & debite. Decizii pe date, nu pe intuiție.
+
+Flux comenzi fluent
+Rezervare → preautorizare/depozit → predare (check-out) → monitorizare → return (check-in) → facturare/închidere. Mai puține blocaje, timp de operare mai mic.
+
+⸻
+
+Flotă, stocuri și aprovizionare
+
+Rezervări pe interval & tarifare dinamică
+Disponibilitate în timp real, tarife pe sezon/zi/ore, kilometraj inclus, livrare/colecție, taxe de locație. Calendar clar de ocupare.
+
+Mentenanță & daune
+Planuri de revizie/ITP, alerte service, evidență piese/consumabile; dosare de daună cu poze/video, constatări și costuri. Cost/km sub control.
+
+Consumabile & accesorii
+Scaun copil, lanțuri, GPS, Wi-Fi — stocuri/transferuri, tarif pe zi și pe rezervare, inventar la predare și la return.
+
+Telemetrie (opțional)
+Integrare GPS pentru poziție, kilometraj, viteză/alerte; datele intră în fișa rezervării.
+
+⸻
+
+Implicarea clienților și marketing
+
+Rezervări & confirmări
+Booking online cu selecție de perioadă, clasă, asigurări și extra-opțiuni. Confirmări/remindere prin SMS/Email/Push, instrucțiuni de preluare.
+
+Up-sell & cross-sell
+Asigurări (CDW/LDW/Super), șofer adițional, roaming, livrare la adresă, fuel/full-to-full — adăugate simplu, pe notă.
+
+Marketing țintit
+Campanii pe segmente (corporate, turiști, local), cupoane și oferte sezoniere; follow-up pentru review și reînchiriere.
+
+⸻
+
+Operațiuni specifice rent-a-car
+
+Check-out / Check-in cu checklist foto
+Inspecție digitală la predare/return cu poze/semnături, marcaj zgârieturi, rezervă, trusă, documente. Dispute reduse, transparență totală.
+
+Depozit & preautorizări
+Blocare/deblocare depozit, diferențe combustibil, kilometri extra, penalități — vizibile pe contract și pe factură.
+
+Politici combustibil & kilometraj
+Full-to-full, pre-pay fuel, kilometraj inclus/suplimentar; calcul automat la return.
+
+Livrare & colectare
+Tasking pentru șoferi, trasee/ore, taxe de aeroport/extra-locație, dovadă de livrare.
+
+Multi-locație
+Transfer auto între puncte, rapoarte per locație și consolidat, tarif diferit pe oraș/zonă.
+
+Integrare POS & plăți
+Plăți online/în locație, facturare rapidă, reconciliere; integrare 1C pentru export contabil corect.
+
+⸻
+
+Micro-impact (de comunicat pe pagină)
+	•	Utilizare flotă ↑ prin calendar clar și tarifare dinamică
+	•	Cost/km ↓ prin mentenanță planificată și dosare de daune bine documentate
+	•	Timp de predare/return ↓ cu checklist foto & e-signature
+	•	Venit/rezervare ↑ cu extra-opțiuni și asigurări
+	•	Dispute/penalități ↓ datorită trasabilității complete (poze, semnături, telemetrie)
+
+Vrei și versiunea în format JSON/i18n ca să o legăm direct de dropdownul „Alege industria”?

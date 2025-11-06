@@ -1,0 +1,92 @@
+Perfect, Alexandru. 🚗🧽
+Mai jos ai textul complet pentru Spălătorii auto — formulat în stilul standard EasyReserv, scalabil și aplicabil atât pentru spălătorii clasice, cât și pentru self-service, detailing sau rețele multi-locație.
+
+⸻
+
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Gestionezi ușor echipa — spălători, operatori, casieri, manageri. Planifici ture, urmărești productivitatea și bonurile pe angajat. Pontaj automat și raport de performanță per schimb.
+
+Management financiar precis
+Controlezi încasările zilnice, plățile cash sau card, serviciile gratuite/promo și costurile consumabilelor. Închidere de zi automată, raport fiscal și integrare cu 1C.
+
+Profiluri clienți și flote corporate
+Istoric comenzi, tipuri de servicii, vehicule, preferințe, frecvență. Pentru partenerii corporate — facturare lunară automată și rapoarte de utilizare pe flotă.
+
+Configurare flexibilă a locației
+Definire linii de spălare, tipuri de servicii (interior, exterior, complet, detailing), pachete și durate. Suport pentru abonamente, carduri preplătite și puncte de fidelitate.
+
+Documente & contracte
+Contracte corporate, procese-verbale, fișe de inspecție, rapoarte de lucru — generate și stocate digital.
+
+⸻
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Rapoarte zilnice, săptămânale sau lunare: număr de comenzi, venituri, costuri de consumabile, profit/linie, timpul mediu per mașină, reveniri și clienți noi.
+
+Optimizarea fluxului operațional
+Vizibilitate în timp real asupra stării fiecărei linii (liberă, ocupată, în așteptare). Reducere timpi morți, coordonare eficientă între recepție și echipă.
+
+⸻
+
+Managementul stocurilor și aprovizionării
+
+Consumabile & stocuri
+Monitorizezi automat consumul de soluții, detergenți, lavete și accesorii. Alerte „low stock”, inventar ghidat, raport de pierderi și trasabilitate completă.
+
+Furnizori & achiziții
+Comenzi automate către furnizori pe baza consumului mediu. Urmărești prețuri, termene și facturi într-un singur loc.
+
+Întreținerea echipamentelor
+Programare revizii, inspecții tehnice, filtre, pompe, perii — sistem de mentenanță preventivă cu notificări automate.
+
+⸻
+
+Implicarea clienților și marketing
+
+Rezervări online & programări rapide
+Clienții aleg data, ora și tipul serviciului direct din aplicație sau website. Confirmări automate, remindere și notificări la finalizarea serviciului.
+
+Abonamente & carduri preplătite
+Vânzare de abonamente flexibile (5, 10 sau 20 spălări) cu evidență automată a utilizărilor și discounturi de fidelitate.
+
+Marketing & oferte dinamice
+Campanii automate în orele mai libere (happy hour), oferte sezoniere (toamnă/iarna) și mesaje personalizate pentru clienți inactivi.
+
+Feedback & recenzii
+Formular de feedback direct în aplicație sau pe bonul fiscal. Rapoarte pe ratinguri și timpi de reacție.
+
+⸻
+
+Operațiuni specifice pentru spălătorii auto
+
+POS rapid & ușor de folosit
+Selectezi tipul de vehicul și serviciul în câteva secunde. Bon fiscal, discount, abonament sau plată online — totul în același flux.
+
+KDS (monitor de lucru) pentru echipă
+Fiecare linie vede în timp real ce urmează, ce e în proces și ce e finalizat. Timp de execuție vizibil, erori minime.
+
+Gestionare flote corporate
+Firmele își văd istoricul, facturile, numărul de spălări/lună și costurile directe. Automatizare completă B2B.
+
+Integrare cu plăți & fiscalitate
+POS fizic și online, bonuri electronice, facturi, rapoarte contabile. Conectare nativă cu 1C.
+
+Multi-locație
+Administrezi toate spălătoriile dintr-un singur dashboard. Transferuri de stocuri, rapoarte consolidate, comparații între puncte.
+
+⸻
+
+Micro-impact (de comunicat pe pagină)
+	•	Timp de așteptare ↓ 40% cu programare online & flux automatizat
+	•	Consumabile ↓ 25% datorită monitorizării per serviciu
+	•	Venituri ↑ 30% prin abonamente și pachete flexibile
+	•	Erori administrative ↓ cu facturare și rapoarte automate
+	•	Satisfacția clienților ↑ cu notificări, feedback și transparență în timp real
+
+⸻
+
+Vrei să ți-l transform acum în format JSON/i18n (pentru dropdownul „Alege industria” din /Solutions) sau preferi blocurile HTML cu <section> / <h3> / <p> pentru integrare directă în React?

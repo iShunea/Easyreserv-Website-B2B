@@ -1,0 +1,1576 @@
+{
+  "nav": {
+    "about": "About us",
+    "solutions": "Solutions",
+    "solutions_software": "Software Solutions",
+    "hardware": "Hardware",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "sign_in": "Sign In",
+    "menu": "Menu",
+    "language": "EN"
+  },
+  "footer": {
+    "description": "EasyReserv is an All-in-One platform for reservations, fiscal POS, operations and reports — optimized for restaurants, cafes, beauty salons, hotels & guesthouses, car rentals, fitness, medical and retail. Connects teams and data in one place, with 1C integrations and payments.",
+    "about_us": "About Us",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "privacy_policy": "Privacy Policy",
+    "cookies_policy": "Cookies Policy",
+    "terms_conditions": "Terms & Conditions",
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "available_on": "Available on",
+    "copyright": "All rights reserved.",
+    "developed_by": "Developed by",
+    "developer_name": "iShunea Tech Solutions"
+  },
+  "hero": {
+    "title": "From Reservations to POS, Reports and Automation — on a single platform",
+    "description": "A single platform for reservations, POS, operations and analytics — built for restaurants, cafes, beauty salons, barbershops, hotels, guesthouses, car rentals, fitness, medical, retail. Configure roles, menus/services and start workflows with rapid go-live. Automation reduces times and increases conversions, while dashboards show you the situation in real-time, daily or monthly. Integrate accounting, payments and notifications without changing hardware.",
+    "cta_button": "Start free trial",
+    "features": "All-in-One • POS available • Fiscal ready • Rapid go-live"
+  },
+  "stats": {
+    "founded": "FOUNDED",
+    "founded_value": "2023",
+    "professionals": "RENOWNED PROFESSIONALS",
+    "professionals_value": "15+",
+    "years": "YEARS",
+    "widgets": "EASYRESERV WIDGETS CREATED",
+    "widgets_value": "101+",
+    "locations": "LOCATIONS USED THE PRODUCT IN THE FIRST YEAR",
+    "locations_value": "40",
+    "time_optimized": "OF EMPLOYEE TIME CAN BE OPTIMIZED",
+    "time_optimized_value": "30%+",
+    "notifications": "NOTIFICATIONS SENT MONTHLY",
+    "notifications_value": "80,000",
+    "users": "USERS ON THE PLATFORM",
+    "users_value": "4,600+"
+  },
+  "features_section": {
+    "title": "Best features",
+    "request_demo": "Request Demo",
+    "industries": {
+      "restaurante": "Restaurants",
+      "cafenele": "Cafes",
+      "saloane": "Beauty salons",
+      "barbershop": "Barbershops",
+      "hotel": "Hotels & Guesthouses",
+      "chirii-auto": "Car rentals",
+      "fitness": "Fitness",
+      "medical": "Medical",
+      "retail": "Retail",
+      "terenuri-sportive": "Sports fields",
+      "spalatorii-auto": "Car washes"
+    }
+  },
+  "about": {
+    "title": "About EasyReserv",
+    "paragraph1": "We started with a simple question: why is online booking so complicated? When we connected the first form to a restaurant, we realized that booking is just the tip of the iceberg. The links between bookings, POS, kitchen, inventory, accounting and reports were missing.",
+    "paragraph2": "That's how EasyReserv was born: an All-in-One platform that brings everything together — bookings and waitlist, fiscal POS, orders & KDS, inventory & recipe costing (COGS), real-time reports and automation. We built it for real teams, with go-live in days, not months, integration with 1C and payments, without changing hardware.",
+    "paragraph3": "Today we optimize operations in diverse industries: restaurants and cafes, beauty salons & barbershops, hotels & guesthouses, car rentals, fitness & wellness, medical and retail. Our mission remains the same: fewer systems, fewer errors, better decisions on real data – so you sell more and your team works smarter."
+  },
+  "partners": {
+    "title": "Our partners",
+    "description": "A trusted ecosystem for payments, accounting, fiscal hardware and communication."
+  },
+  "cta": {
+    "optimize_business": "Optimize your business today!",
+    "become_partner": "Become a partner",
+    "all_in_one": "All-in-One & results",
+    "unlock_future": "Unlock the future of business management",
+    "unlock_description": "Switch to an All-in-One platform for bookings, POS, inventory, reports and automation. Simplify workflows, reduce downtime and make decisions based on real data. Join companies that have grown their revenue and operational control with EasyReserv.",
+    "start_journey": "Start your journey",
+    "request_demo": "Request demo"
+  },
+  "mobile_app": {
+    "title": "EasyReserv mobile app",
+    "description": "Take operations with you, in the field or in the hall. Process bookings, issue receipts, track orders and inventory, while dashboards show you sales and KPIs in real-time. Notifications alert you when there are delays, orders ready, or stocks running low. Works on iOS and Android, with role-based permissions for waiters, cashiers, managers or technicians.",
+    "available_on": "Available on"
+  },
+  "features": {
+    "restaurante": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Online booking + table map, waitlist and automatic confirmations → −20–35% no-shows." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Fiscal receipt, split bills, menus/combos, offline mode, multiple printers." },
+      "digital-kitchen": { "title": "Digital Kitchen & Timers (KDS)", "content": "Tickets on screen, countdown per dish, 'late' alerts → −25% serving time." },
+      "inventory-cogs": { "title": "Inventory & Recipe costing (COGS)", "content": "Automatic deduction on sale, recipe and guided inventory → 0 errors at close." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Sales, margin, table turnover, serving times, location comparisons." },
+      "automations": { "title": "Automation & Notifications", "content": "Confirmations/reminders, '5 min left', stock & 'late' alerts." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "cafenele": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Mobile pre-orders and pickup at set time, shorter queues at peak hours." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Ultra-fast sale with presets; fiscal receipt in <2 seconds." },
+      "operations": { "title": "Operations & Preparation", "content": "Barista/pastry screen, auto-prioritize quick orders." },
+      "inventory-cogs": { "title": "Inventory & Ingredients", "content": "Ingredient dosing, 'low stock' alerts for peak hours." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Sales per hour/products, waste, cashier productivity." },
+      "automations": { "title": "Automation & Notifications", "content": "Ready-for-pickup, happy hour, push at off-peak." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "saloane": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Appointments with specialist/service selection, packages and subscriptions." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Packages/subscriptions, retail product sales, service tracking." },
+      "operations": { "title": "Operational calendar", "content": "Calendar by chairs/rooms, occupied vs free time." },
+      "inventory-cogs": { "title": "Inventory & Consumption", "content": "Consumption per service (dye, treatments), traceable inventory." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Revenue/hour specialist, no-show rates, top services & CLV." },
+      "automations": { "title": "Automation & Notifications", "content": "Before/after reminders, recurrence follow-up." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "barbershop": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Appointments with specialist/service selection, packages and subscriptions." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Packages/subscriptions, retail product sales, service tracking." },
+      "operations": { "title": "Operational calendar", "content": "Calendar by chairs/rooms, occupied vs free time." },
+      "inventory-cogs": { "title": "Inventory & Consumption", "content": "Consumption per service (dye, treatments), traceable inventory." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Revenue/hour specialist, no-show rates, top services & CLV." },
+      "automations": { "title": "Automation & Notifications", "content": "Before/after reminders, recurrence follow-up." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "hotel": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Room calendar, smart restrictions (min-stay/late-checkout), special requests." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Room charges + extra services (breakfast, spa), local taxes from POS." },
+      "operations": { "title": "Housekeeping & Maintenance", "content": "Housekeeping & maintenance taskboard with live statuses." },
+      "inventory-cogs": { "title": "Inventory & Consumables", "content": "Consumption per room (mini-bar, consumables), zoned stocks." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "ADR, RevPAR, occupancy, channels & packages." },
+      "automations": { "title": "Automation & Notifications", "content": "Pre-check-in, upsell (late checkout/spa), post-stay review." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "chirii-auto": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Vehicle booking by period, extra options (child seat, GPS), deposit." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Billing with deposit, extra km, insurance and accessories on line." },
+      "operations": { "title": "Planning & Service", "content": "Revision/MOT planning, status available/in service/rented." },
+      "inventory-cogs": { "title": "Inventory & Parts", "content": "Parts/consumables, accessory stock (chains, seats, mounts)." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Fleet usage, revenue/vehicle, cost/km, downtime." },
+      "automations": { "title": "Automation & Notifications", "content": "Pick-up/return reminders, time/km overrun alerts." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "fitness": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Class bookings, limited spots, waiting list and app check-in." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Memberships, freeze, credit top-up, PT/massage on receipt." },
+      "operations": { "title": "Capacity & Schedule", "content": "Room capacity, trainer schedule, slot occupancy." },
+      "inventory-cogs": { "title": "Inventory & Consumables", "content": "Supplement & proshop stock, spa consumables." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Retention, frequency, class load, revenue/subscriber." },
+      "automations": { "title": "Automation & Notifications", "content": "Class reminders, freeze expiration, reactivation." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "medical": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Doctor/specialty/room bookings, pre-visit questionnaire and reminders." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Composite services, copay, diverse payment types on same receipt." },
+      "operations": { "title": "Patient Flow & Cabinet", "content": "Flow reception → investigation → payment, average time per service." },
+      "inventory-cogs": { "title": "Inventory & Medical supplies", "content": "Batches/expiries, material & consumable traceability." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Revenue/doctor, profitable services, wait times." },
+      "automations": { "title": "Automation & Notifications", "content": "Visit reminders, analysis prep, follow-up." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "retail": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Pick-up/installation slots, showroom consultation booking." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Promo discounts, bundles, returns and exchange on receipt." },
+      "operations": { "title": "Daily operations", "content": "Daily tasks for goods reception, facing, labeling." },
+      "inventory-cogs": { "title": "Inventory & Stock", "content": "Barcodes, quick receiving, partial inventories, FIFO." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Margin per SKU, turnover, shrink, average basket." },
+      "automations": { "title": "Automation & Notifications", "content": "Back in stock, abandoned cart, segmented coupons." },
+      "team-management": { "title": "Team Management & permissions", "content": "Roles/permissions, shifts, targets, audit log, rapid onboarding." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "Card/online payments, 1C export, reconciliation, fiscal documents." }
+    },
+    "terenuri-sportive": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Field bookings, multiple fields, coaches, equipment (balls, rackets) with clear schedule." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Hour sales, subscriptions, water, equipment, accessories directly from POS." },
+      "operations": { "title": "Operations & Calendar", "content": "Multi-field calendar, coach admin, matches, tournaments and night rental." },
+      "inventory-cogs": { "title": "Inventory & Stock", "content": "Equipment management, balls, detergents, accessories, field maintenance." },
+      "real-time-reports": { "title": "Reports & KPIs", "content": "Daily reports on field occupancy, revenue/field, active subscriptions and customer retention." },
+      "automations": { "title": "Automation & Notifications", "content": "Auto confirmations, reminders, weather alerts, and promo packages (eg Happy Hour)." },
+      "team-management": { "title": "Team Management & permissions", "content": "Shifts, coaches, maintenance staff, salaries and bonuses based on hours worked." },
+      "payments-accounting": { "title": "Payments & Accounting", "content": "Card, QR, cash payment, accounting integration, auto invoices for clubs & individuals." }
+    },
+    "spalatorii-auto": {
+      "smart-reservations": { "title": "Smart Reservations (Web & Mobile)", "content": "Online booking per ramp and service type (exterior, interior, full)." },
+      "fiscal-pos": { "title": "Fiscal POS & quick orders", "content": "Service selection + extras (wax, engine, upholstery), fiscal receipt, discounts, promotions." },
+      "operations": { "title": "Calendar & Operations", "content": "Ramp planning, estimated time, status ('in progress', 'ready'), staff allocation." },
+      "inventory-cogs": { "title": "Inventory & Recipe (consumables)", "content": "Auto-deduction detergent, wax, microfiber, filters; 'low stock' alerts." },
+      "real-time-reports": { "title": "Real-time Reports & KPIs", "content": "Number of washes, revenue/ramp, consumption/job, top services, peak hours." },
+      "automations": { "title": "Automation & Notifications", "content": "SMS 'Your car is ready', booking reminder, recurring packages." },
+      "team-management": { "title": "Team Management & permissions", "content": "Each washer sees their job, auto time-tracking, commission per job." },
+      "payments-accounting": { "title": "Payments & Accounting integration", "content": "POS, QR, cash, 1C export, daily revenue reconciliation." }
+    }
+  },
+  "faq_section": {
+    "title": "What is EasyReserv?",
+    "description": "EasyReserv is an All-in-One platform for reservations, fiscal POS, orders/KDS, inventory & recipes, real-time reports and automations. It is built on industry-optimized workflows (restaurants, cafes/kiosks, beauty, hotels/guesthouses, car rental, fitness, medical, retail) and integrates quickly with 1C, payments and existing hardware.",
+    "items": [
+      {
+        "question": "Can I access EasyReserv on both web and mobile devices?",
+        "answer": "Yes, EasyReserv is available both as a web application (desktop and tablet) and as a native mobile application for iOS and Android. You can access all platform features from any device, with real-time synchronization between all your devices."
+      },
+      {
+        "question": "How long does it take to implement the EasyReserv platform?",
+        "answer": "EasyReserv implementation takes 2-5 days depending on the complexity of your business. Our team assists you at every step: initial setup, data import, team training and go-live. You don't need to change existing hardware."
+      },
+      {
+        "question": "Does EasyReserv integrate with my accounting system?",
+        "answer": "Yes, EasyReserv integrates natively with major accounting systems such as 1C, SAP and other popular solutions. Export of invoices, sales and financial reports is done automatically, eliminating manual data entry."
+      },
+      {
+        "question": "Does EasyReserv provide technical support and training for my team?",
+        "answer": "Absolutely! We offer 24/7 technical support via chat, email and phone. At implementation, we include training sessions for the entire team: managers, cashiers, waiters and cooks. Plus access to our knowledge base and video tutorials."
+      },
+      {
+        "question": "What devices can I use EasyReserv on?",
+        "answer": "Web (desktop/laptop) and mobile (iOS/Android). We also have dedicated extensions (eg smartwatch for waiters) and support for compatible printers/scanners."
+      },
+      {
+        "question": "Do you have fiscal POS available?",
+        "answer": "Yes. EasyReserv POS issues fiscal receipt, supports split bills, discounts, offline mode and multiple printers. Connects with inventory and reports in real time."
+      },
+      {
+        "question": "How does it help my industry?",
+        "answer": "We have industry optimizations: from KDS timers and table rotation in restaurants, to subscriptions & bookings in beauty/fitness, room occupancy in hotels, interval pricing in car rental, batches/expiries in medical and barcodes in retail."
+      },
+      {
+        "question": "Do I need to change hardware?",
+        "answer": "Usually no. We work with current tablets/PCs and compatible printers. If needed, we recommend models tested by us."
+      },
+      {
+        "question": "Does it integrate with 1C and card payments?",
+        "answer": "Yes. Accounting export to 1C, document reconciliation and integration with payment processors (online & at POS), plus SMS/Email for notifications."
+      },
+      {
+        "question": "What reports does the platform provide?",
+        "answer": "Sales, margins, table rotation, service times, employee productivity, KPIs by location/period, COGS per recipe, resource utilization (vehicle/room/device) – live."
+      },
+      {
+        "question": "How do you reduce no-shows and delays?",
+        "answer": "With automatic confirmations & reminders, waitlist, '5 min remaining' alerts, production timers and notifications for ready/late orders."
+      },
+      {
+        "question": "What pricing plans do you have? (eg Restaurants)",
+        "answer": "Subscription per location + add-ons per user/module. For Restaurants: Basic €50, Standard €125, Pro €200, Enterprise on request – all with free trial. (For other industries, plans appear after you select the industry.)"
+      },
+      {
+        "question": "Is my data safe?",
+        "answer": "Yes. Role-based access, audit log, encryption in transit, regular backups and data export on request. You own your data."
+      },
+      {
+        "question": "What support do you provide?",
+        "answer": "Assisted onboarding, team training, priority support via email/chat/phone and working materials (guides & videos)."
+      },
+      {
+        "question": "Can I easily migrate from another system?",
+        "answer": "Yes. We import menus/services, customers, inventory and essential history from files or through integrations, with checks at pre-go-live."
+      },
+      {
+        "question": "Can I start for free?",
+        "answer": "Yes. We offer a trial period on one location so you can test the workflows before contracting."
+      },
+      {
+        "question": "Can it be customized for my needs?",
+        "answer": "In addition to standard settings, we have configurable add-ons and automations; for advanced requirements, we offer Enterprise projects."
+      }
+    ]
+  },
+  "what_is_section": {
+    "title": "What is EasyReserv?",
+    "description": "EasyReserv is a complete solution for managing and optimizing your business. Mobile reservations, employee management, business reports, inventory management and many other features are available. You can save time, increase sales, improve customer experience, reduce costs and increase productivity using our platform.",
+    "faq": {
+      "q1": {
+        "question": "Can I access EasyReserv on both web and mobile devices?",
+        "answer": "Yes, EasyReserv is available both as a web application (desktop and tablet) and as a native mobile application for iOS and Android. You can access all platform features from any device, with real-time synchronization between all your devices."
+      },
+      "q2": {
+        "question": "How long does it take to implement the EasyReserv platform?",
+        "answer": "EasyReserv implementation takes 2-5 days depending on the complexity of your business. Our team assists you at every step: initial setup, data import, team training and go-live. You don't need to change existing hardware."
+      },
+      "q3": {
+        "question": "Does EasyReserv integrate with my accounting system?",
+        "answer": "Yes, EasyReserv integrates natively with major accounting systems such as 1C, SAP and other popular solutions. Export of invoices, sales and financial reports is done automatically, eliminating manual data entry."
+      },
+      "q4": {
+        "question": "Does EasyReserv provide technical support and training for my team?",
+        "answer": "Absolutely! We offer 24/7 technical support via chat, email and phone. At implementation, we include training sessions for the entire team: managers, cashiers, waiters and cooks. Plus access to our knowledge base and video tutorials."
+      }
+    }
+  },
+  "about_page": {
+    "hero": {
+      "title_part1": "How does ",
+      "title_highlight": "EasyReserv",
+      "title_part2": " stand out in the market?",
+      "description": "The platform is configured for your specific business in a matter of hours: just create a location, add services or menu — and you can start working. Go-Live happens without complex integrations or lengthy implementations.",
+      "cta": "Request Demo"
+    },
+    "story": {
+      "title": "Our story",
+      "paragraph1": "One evening in January 2023, Elena Roșca asked the question that sparked it all: \"Why is it almost impossible to make an online restaurant reservation in Chisinau?\"",
+      "paragraph2": "The answer wasn't \"another form\". Together with Alexandru Iaroslavschi, we documented step by step what the digital reservation process should look like: from request, confirmation and table allocation, to notifications and automatic availability updates. While mapping the flow, reality hit us: reservation is just the beginning. POS, kitchen (KDS), inventory, accounting and reports lived in separate islands.",
+      "paragraph3": "That's how EasyReserv was born — the idea of a platform that connects reservations to real-time operations, so teams work faster and with fewer errors.",
+      "timeline_title": "Timeline",
+      "timeline_day1": "April 2023",
+      "timeline_day1_text": "First reservation flow (request → confirmation).",
+      "timeline_month3": "June 2023",
+      "timeline_month3_text": "We start the web app that centralizes data (in parallel with mobile development).",
+      "timeline_month8": "November 2023",
+      "timeline_month8_text": "First Mobile App version (beta) for pilot clients.",
+      "timeline_month13": "March 2024",
+      "timeline_month13_text": "Mobile App in production; in the first 48h, we reach Top 2 rating in its category.",
+      "timeline_month14": "April 2024",
+      "timeline_month14_text": "Fiscal POS integration: receipt, split bills, discounts, printers.",
+      "timeline_month18": "August 2024",
+      "timeline_month18_text": "First full-cycle restaurant in the ecosystem (reservations → POS → KDS → inventory → reports) with ~€30,000 additional profit after launch.",
+      "timeline_month20": "October 2024",
+      "timeline_month20_text": "We expand with KDS & Timers, Inventory & Recipes (COGS), Live Reports, Automations & Notifications and local integrations.",
+      "who_we_are_title": "Who we are today",
+      "who_we_are_text": "EasyReserv is an All-in-One platform that unites reservations, POS, orders/KDS, inventory & recipes, real-time reports and automations — plus a public platform for partner listing & B2C booking, so users can discover and book directly. Go-live in days, not months, 1C and payment integration, compatibility with existing hardware.",
+      "optimizations_title": "Industry optimizations",
+      "optimizations_text": "Restaurants & cafes/kiosks, salons & barbershops, hotels & guesthouses, car rental, fitness & wellness, medical (clinics/offices), retail — each with dedicated workflows and KPIs (KDS timers, subscriptions, interval pricing, resource occupancy, batches/expiries, barcodes, etc.).",
+      "impact_title": "Impact",
+      "impact_text": "40 locations in the first year • 4,600+ users • 80,000+ notifications/month • 30%+ optimized time for teams • 99.9% uptime.",
+      "mission_title": "Mission",
+      "mission_text": "To simplify operations and increase profitability by connecting reservations to daily processes and automating the repetitive, with real-time visibility for data-driven decisions — not assumptions.",
+      "start_journey_cta": "Start your journey"
+    },
+    "stats": {
+      "founded_label": "FOUNDED",
+      "founded_value": "2023",
+      "professionals_label": "RENOWNED PROFESSIONALS",
+      "professionals_value": "15+",
+      "years_label": "YEARS",
+      "widgets_label": "EASYRESERV WIDGETS CREATED",
+      "widgets_value": "101+"
+    },
+    "why_choose": {
+      "title": "Why choose us?",
+      "reason1_title": "We simplify operations",
+      "reason1_text": "All-in-One for reservations, POS, KDS, inventory, reports and automations. Fewer systems, fewer errors, −30% operational time.",
+      "reason2_title": "Customer attraction & conversion",
+      "reason2_text": "Public platform for listing & B2C booking, anti no-show reminders, loyalty and campaigns. More reservations, returns and sales.",
+      "reason3_title": "Real data decisions",
+      "reason3_text": "Live KPIs (sales, COGS, times, rotation), 'late'/'low stock' alerts and location reports. Complete visibility, fast actions.",
+      "reason4_title": "Fast implementation & local support",
+      "reason4_text": "Go-live in days, 1C & payment integration, compatible with existing hardware. Dedicated support — from onboarding to scaling."
+    },
+    "transform": {
+      "title": "Ready to transform your business?",
+      "paragraph1": "Join us and enter a new era of efficiency and growth. In a world where change is the only constant, being one step ahead is not an option – it's a necessity.",
+      "paragraph2": "Let's build a better future for your business together.",
+      "cta": "Learn more"
+    },
+    "features": {
+      "feature1_title": "Complete solution",
+      "feature1_text": "From reservations to team management, we offer an all-in-one solution for your business.",
+      "feature2_title": "Data security",
+      "feature2_text": "Your data is our priority. We implement advanced security measures to protect it.",
+      "feature3_title": "Innovation",
+      "feature3_text": "We constantly improve the platform to stay ahead of changes in the business environment.",
+      "feature4_title": "Friendly interface",
+      "feature4_text": "The platform is designed for frictionless use by both owners and their customers.",
+      "feature5_title": "Scalability",
+      "feature5_text": "As your business grows, so does the platform. We're ready to support your expansion.",
+      "feature6_title": "24/7 Support",
+      "feature6_text": "Our support team is available around the clock for any questions or concerns."
+    },
+    "feel_difference": {
+      "title_line1": "Feel the difference",
+      "title_line2": "Today!",
+      "cta": "Start now"
+    },
+    "optimize_cta": {
+      "title": "Start optimizing your business today!",
+      "cta": "Become a partner"
+    }
+  },
+  "solutions_page": {
+    "hero": {
+      "title": "Grow your business and",
+      "title_highlight": "efficiency",
+      "title_end": "across multiple industries",
+      "description": "Whether you have a restaurant, a salon, or any other type of business, EasyReserv adapts to your needs: reservations, POS, inventory, reports, and automations — all in a single platform.",
+      "cta": "Explore plans"
+    },
+    "hero_features": {
+      "feature1_title": "Time efficiency",
+      "feature1_description": "Focus on delivering quality services. We automate repetitive tasks and shorten operational times.",
+      "feature2_title": "Accessibility",
+      "feature2_description": "Reach a wider audience, including people with disabilities, with modern interfaces and simple booking processes.",
+      "feature3_title": "Access control",
+      "feature3_description": "Control employee access in the system through roles and permissions. Data remains secure and respects confidentiality."
+    },
+    "industries": {
+      "title": "Discover the features that set us apart for",
+      "restaurante": "Restaurants",
+      "cafenele": "Cafes",
+      "saloane": "Beauty salons",
+      "barbershop": "Barbershops",
+      "hoteluri": "Hotels & Guesthouses",
+      "chirii_auto": "Car rentals",
+      "fitness": "Fitness",
+      "medical": "Medical",
+      "retail": "Retail",
+      "spalatorii_auto": "Car washes"
+    },
+    "sections": {
+      "employee_management": "Employee and business management",
+      "business_insights": "Business insights and analytics",
+      "inventory_management": "Inventory and supply chain management",
+      "customer_engagement": "Customer engagement and marketing"
+    },
+    "restaurante": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "We provide you with tools to easily manage your team: shift planning (waiters, cooks, bar), timekeeping, performance. You have complete control."},
+        {"title": "Accurate financial management", "description": "Stay up to date with collections and payments: debit/credit management, proper day closings, clear financial health per location."},
+        {"title": "Complete customer profiles", "description": "Know your guests and personalize the experience: booking history, preferences (tables, allergens, wines), service notes."},
+        {"title": "Flexible business configuration", "description": "Quickly configure your restaurant: rooms/terraces, table plan, roles/permissions, workflows. The platform adapts to your needs."},
+        {"title": "Menu and service management", "description": "Create and update menus with ease: categories, prices, lunch/promo menus, variants and options. Everything always up to date and attractive."},
+        {"title": "Easy document storage", "description": "Safely store important documents: invoices, delivery notes, contracts, employee files. Administrative tasks become simple."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "See clearly what's happening in the restaurant: sales, margins, table turnover, service times, productivity. Make decisions on real data."},
+        {"title": "Smooth order management", "description": "Optimize the order flow from the hall and delivery: pick-up, transfer to kitchen/bar, status tracking, fast handover — higher customer satisfaction."}
+      ],
+      "inventory_management": [
+        {"title": "Efficient stock management", "description": "Monitor ingredients effortlessly: recipe costing, automatic deduction on sale, 'low stock' alerts, guided inventories. You always have what you need in stock."},
+        {"title": "Supplier management", "description": "Manage supplier relationships and procurement orders: price lists, orders, receipts — smooth supply chain."},
+        {"title": "Fleet management", "description": "If you deliver to homes or between locations, efficiently manage cars/couriers so operations run smoothly."}
+      ],
+      "customer_engagement": [
+        {"title": "Powerful marketing tool", "description": "Increase sales with marketing features in the mobile app: offers, promotions, news sent directly to customers' phones."},
+        {"title": "Targeted marketing", "description": "Use data to segment the audience (age, interests, preferences) and send personalized messages that increase engagement."},
+        {"title": "Simplified reservations", "description": "Manage reservations easily — both for the restaurant and for customers: confirmations, reminders, table allocation, seamless end-to-end experience."}
+      ]
+    },
+    "cafenele": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Plan barista/cashier shifts, timekeeping, and hourly targets. Visibility on productivity and service times during peak hours."},
+        {"title": "Accurate financial management", "description": "Proper day closing, collection/payment records, fast reconciliations. See margin per product and ingredient cost in real time."},
+        {"title": "Complete customer profiles", "description": "Order history (coffee type, milk, syrups), preferences & allergens. Personalized experience on next visit."},
+        {"title": "Flexible point-of-sale configuration", "description": "Fast checkouts, roles & permissions, product layout on screen, presets and shortcuts for top sellers."},
+        {"title": "Menu & services", "description": "Menus for times of day (morning/afternoon), variants (size, milk, extra shot), bundles and offers."},
+        {"title": "Easy document storage", "description": "Invoices, delivery notes, supplier contracts and employee files — stored safely, easy to find."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Sales per hour/day, top SKUs, beverage cost, margin, productivity per cashier/barista. Fast decisions for schedule and assortment."},
+        {"title": "Smooth order management", "description": "Clear hall–bar flow: order → preparation → 'ready for pickup'. Shorter queues, fast handover, happier customers."}
+      ],
+      "inventory_management": [
+        {"title": "Efficient stock management", "description": "Recipe costing for beverages, automatic deduction on sale, 'low stock' alerts, guided inventories. Keep losses under control."},
+        {"title": "Supplier management", "description": "Procurement orders, price lists, receipts and traceability. Have the right ingredients on time."},
+        {"title": "Fleet/transport management (optional)", "description": "For multiple locations or deliveries: courier management, routes and transfers between points."}
+      ],
+      "customer_engagement": [
+        {"title": "Powerful marketing tool", "description": "'Happy hour' promotions, campaigns during quieter hours, push/SMS with offers and news — directly to the customer's phone."},
+        {"title": "Targeted marketing", "description": "Segments by frequency, preferences (espresso, latte, vegan alternatives), personalized coupons that bring returns."},
+        {"title": "Pre-orders & scheduled pickup", "description": "Customer orders ahead and picks up at set time; you smooth out peaks and reduce counter congestion."}
+      ]
+    },
+    "saloane": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Plan the schedule by specialists (stylist, colorist, barber, beautician), shifts, timekeeping and commission. Targets/bonuses and visibility on performance."},
+        {"title": "Accurate financial management", "description": "Proper day closing, collection/payment records, sales on services & retail products, commission reports."},
+        {"title": "Complete customer profiles", "description": "Visit history, techniques & shades used, allergens, before/after photos, preferences. Personalized experience on each return."},
+        {"title": "Flexible business configuration", "description": "Services, durations, buffer times, resources (chair/room/device), differentiated prices per specialist. Roles & permissions."},
+        {"title": "Service menu & packages", "description": "Hairdressing, coloring, treatments, manicure/pedicure, barbering, hair removal, cosmetics – with packages and options (treatment, scalp massage, etc.)."},
+        {"title": "Easy document storage", "description": "Contracts, consents, client files, invoices – stored safely, quick access when needed."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Revenue/hour per specialist, occupancy rate, profitable services, retail sales, CLV & visit frequency. Decisions on data, not intuition."},
+        {"title": "Smooth order/service flow", "description": "Appointment → confirmation → execution → payment → recommendation/next visit. Fewer delays, happier customers."}
+      ],
+      "inventory_management": [
+        {"title": "Consumption per service (recipe costing)", "description": "Automatic deduction for dyes, oxidant, treatments, consumables. 'Low stock' alerts, guided inventories."},
+        {"title": "Supplier management", "description": "Price lists, orders, receipts – have materials on time and costs under control."},
+        {"title": "Internal logistics (multi-location)", "description": "Transfer products between salons, lot/expiry traceability for safety and compliance."}
+      ],
+      "customer_engagement": [
+        {"title": "Appointments & automatic reminders", "description": "Confirmations via SMS/Email/Push, smart reminders, fast rescheduling. No-show ↓ significantly."},
+        {"title": "Subscriptions & packages", "description": "Recurring sessions (hairdressing, manicure, treatments), gift cards, punch-card. Recurrence and stable revenue."},
+        {"title": "Targeted marketing", "description": "Campaigns by segments (preferred service, frequency, days elapsed), post-service recommendations, review & before/after."}
+      ]
+    },
+    "barbershop": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Plan the schedule by specialists (stylist, colorist, barber, beautician), shifts, timekeeping and commission. Targets/bonuses and visibility on performance."},
+        {"title": "Accurate financial management", "description": "Proper day closing, collection/payment records, sales on services & retail products, commission reports."},
+        {"title": "Complete customer profiles", "description": "Visit history, techniques & shades used, allergens, before/after photos, preferences. Personalized experience on each return."},
+        {"title": "Flexible business configuration", "description": "Services, durations, buffer times, resources (chair/room/device), differentiated prices per specialist. Roles & permissions."},
+        {"title": "Service menu & packages", "description": "Hairdressing, coloring, treatments, manicure/pedicure, barbering, hair removal, cosmetics – with packages and options (treatment, scalp massage, etc.)."},
+        {"title": "Easy document storage", "description": "Contracts, consents, client files, invoices – stored safely, quick access when needed."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Revenue/hour per specialist, occupancy rate, profitable services, retail sales, CLV & visit frequency. Decisions on data, not intuition."},
+        {"title": "Smooth order/service flow", "description": "Appointment → confirmation → execution → payment → recommendation/next visit. Fewer delays, happier customers."}
+      ],
+      "inventory_management": [
+        {"title": "Consumption per service (recipe costing)", "description": "Automatic deduction for dyes, oxidant, treatments, consumables. 'Low stock' alerts, guided inventories."},
+        {"title": "Supplier management", "description": "Price lists, orders, receipts – have materials on time and costs under control."},
+        {"title": "Internal logistics (multi-location)", "description": "Transfer products between salons, lot/expiry traceability for safety and compliance."}
+      ],
+      "customer_engagement": [
+        {"title": "Appointments & automatic reminders", "description": "Confirmations via SMS/Email/Push, smart reminders, fast rescheduling. No-show ↓ significantly."},
+        {"title": "Subscriptions & packages", "description": "Recurring sessions (hairdressing, manicure, treatments), gift cards, punch-card. Recurrence and stable revenue."},
+        {"title": "Targeted marketing", "description": "Campaigns by segments (preferred service, frequency, days elapsed), post-service recommendations, review & before/after."}
+      ]
+    },
+    "hoteluri": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Plan shifts for reception, housekeeping, restaurant/bar and maintenance. Timekeeping, roles & permissions, daily tasks and performance tracking."},
+        {"title": "Accurate financial management", "description": "Day closing, collection/payment records, local taxes, reports by profit centers (rooms, breakfast, SPA, bar/restaurant). Control over balances, advances and guarantees."},
+        {"title": "Complete guest profiles", "description": "Stay history, preferences (bed type, floor, allergens), special observations, travel reasons. Personalization at check-in and relevant offers on next visit."},
+        {"title": "Flexible property configuration", "description": "Room types, rates, policies (min-stay, late checkout), packages (HB/FB), team roles & permissions. Support for multiple spaces: rooms, apartments, halls, SPA."},
+        {"title": "Documents & contracts", "description": "Generate/store corporate contracts, proforma invoices, GDPR agreements, accommodation forms, tax declarations — all organized and easy to find."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Occupancy, ADR, RevPAR, revenue/room, rate mix, operational expenses, internal channel performance, segmentations (corporate, leisure, groups). Daily decisions on real data."},
+        {"title": "Smooth order/service flow", "description": "From booking to check-in, extra services, minibar/restaurant consumption, to check-out and billing — end-to-end flow without bottlenecks."}
+      ],
+      "inventory_management": [
+        {"title": "Consumables & minibar", "description": "Stocks per room and per work point (housekeeping, bar, kitchen). Recipe costing/consumption per product, 'low stock' alerts, transfers between points, guided inventories."},
+        {"title": "Suppliers & procurement", "description": "Price lists, orders, receipts, traceability — have consumables and products on time, with costs kept under control."},
+        {"title": "Maintenance & interventions", "description": "Ticketing for defects, revision scheduling, intervention history per room/equipment. Remediation time decreases, guest experience increases."}
+      ],
+      "customer_engagement": [
+        {"title": "Reservations & confirmations", "description": "Direct online booking, confirmation and reminder emails/SMS, pre-arrival information (check-in hours, parking, access). Reduced no-shows, informed guests."},
+        {"title": "Packages & upsell", "description": "Breakfast, SPA, transfer, late checkout, anniversary decor — as extra services added to the bill. Revenue per room increases without friction."},
+        {"title": "Targeted marketing", "description": "Campaigns by segments (corporate, couples, families), gift vouchers, post-departure follow-up for review. Recurrence and natural recommendations."}
+      ]
+    },
+    "chirii_auto": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Plan shifts for agents, parking operators and drivers (delivery/pick-up), with timekeeping, roles & permissions and location targets."},
+        {"title": "Accurate financial management", "description": "Proper day closings, clearly managed advances and deposits, invoices and receipts, payment reconciliation and profit center reports (rentals, extra services, penalties)."},
+        {"title": "Complete customer profiles", "description": "KYC, license/passport data, rental history, preferences, incidents/penalties. Fast and secure verifications."},
+        {"title": "Flexible business configuration", "description": "Multiple locations, car classes, policies (minimum age, period, franchise), seasonal/dynamic rates, roles & permissions."},
+        {"title": "Documents & contracts", "description": "Rental contracts, handover/return reports, authorizations, policies — generated, electronically signed and stored safely."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Utilization rate per vehicle/class, revenue/km, cost/km, downtime, top extra services, booking channels, losses & debits. Decisions on data, not intuition."},
+        {"title": "Smooth order flow", "description": "Booking → pre-authorization/deposit → handover (check-out) → monitoring → return (check-in) → billing/closing. Fewer bottlenecks, shorter operation time."}
+      ],
+      "inventory_management": [
+        {"title": "Interval bookings & dynamic pricing", "description": "Real-time availability, rates by season/day/hours, included mileage, delivery/collection, location fees. Clear occupancy calendar."},
+        {"title": "Maintenance & damage", "description": "Revision/MOT plans, service alerts, parts/consumables records; damage files with photos/videos, findings and costs. Cost/km under control."},
+        {"title": "Consumables & accessories", "description": "Child seat, chains, GPS, Wi-Fi — stocks/transfers, daily rental rate, inventory at handover and return."},
+        {"title": "Telemetry (optional)", "description": "GPS integration for position, mileage, speed/alerts; data enters the booking file."}
+      ],
+      "customer_engagement": [
+        {"title": "Reservations & confirmations", "description": "Online booking with period selection, class, insurance and extra options. Confirmations/reminders via SMS/Email/Push, pick-up instructions."},
+        {"title": "Up-sell & cross-sell", "description": "Insurance (CDW/LDW/Super), additional driver, roaming, home delivery, fuel/full-to-full — easily added to the bill."},
+        {"title": "Targeted marketing", "description": "Campaigns by segments (corporate, tourists, local), seasonal coupons and offers; follow-up for review and re-rental."}
+      ]
+    },
+    "fitness": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Manage trainers, instructors, receptionists and therapists. Create shifts, set commissions, track attendance and individual performance."},
+        {"title": "Accurate financial management", "description": "Control all collections: memberships, one-time services, extras and retail sales (supplements, equipment). Daily reports and automatic POS closings."},
+        {"title": "Complete customer profiles", "description": "View workout history, active memberships, preferred class types, goals and each client's progress. Personalization becomes simple."},
+        {"title": "Flexible business configuration", "description": "Define locations, rooms, class types, trainers, services, memberships, rates and access rules. The platform adapts to your type of business: gym, wellness studio or complete sports center."},
+        {"title": "Documents and contracts", "description": "Member contracts, medical agreements and consents — automatically generated and stored electronically, instantly accessible."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "See sales, expired memberships, visit frequency and retention rates in real time. Reports help you adjust schedule, rates and campaigns."},
+        {"title": "Smooth operational flow", "description": "From first registration to membership renewal, everything is done digitally: contract, payment, access, report. Processing time decreases, satisfaction increases."}
+      ],
+      "inventory_management": [
+        {"title": "Stock and retail products", "description": "Manage sales of supplements, equipment, accessories and beverages. Have visibility on stocks, 'low stock' alerts and fast inventories."},
+        {"title": "Suppliers & procurement", "description": "Keep track of orders and receipts for consumables (towels, cleaning solutions, equipment). Predictable costs and uninterrupted supply."},
+        {"title": "Equipment maintenance", "description": "Schedule maintenance and revisions on equipment, monitor usage duration and interventions performed."}
+      ],
+      "customer_engagement": [
+        {"title": "Automatic appointments & reservations", "description": "Clients reserve their spot in classes or 1:1 training directly from the app. Automatic confirmations and reminders — rooms fill up, cancellations drop."},
+        {"title": "Memberships & flexible freeze", "description": "Create adapted memberships: monthly, daily, session package, full or hourly access. 'Pause' option (freeze) and automatic reactivation."},
+        {"title": "Loyalty & retention campaigns", "description": "Rewards for consistent participation, convertible points, renewal offers. 'Win-back' campaigns for inactive members."},
+        {"title": "Targeted marketing", "description": "Campaigns by segments: beginners, advanced, women, families, wellness. Push notifications or email with personalized offers and news."}
+      ]
+    },
+    "medical": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Manage the schedule of doctors, nurses and administrative staff. Plan shifts, set commissions, complete visibility on occupancy and performance."},
+        {"title": "Accurate financial management", "description": "Day closings, collection/payment records, partial payments, arrears and reconciliation by services, doctors or departments. Direct integration with 1C for fiscal accounting."},
+        {"title": "Complete patient profiles", "description": "Digital medical files, consultation history, treatments, lab results, prescriptions and observations. Everything centralized in one place, with role-based access control."},
+        {"title": "Flexible clinic configuration", "description": "Define offices, specialties, medical services, durations and resources (ultrasound, lab, team). Personalized roles and permissions for doctors, reception, lab and accounting."},
+        {"title": "Documents and consents", "description": "Contracts, consent forms, GDPR agreements, referrals and medical reports — automatically generated and stored."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Access real-time reports: number of consultations, revenue per doctor, occupancy rate, profitable services, patient frequency and average visit time."},
+        {"title": "Optimized patient flow", "description": "From online appointment to confirmation, consultation, payment and issuance of medical documents. No overlaps, no delays, no lost files."}
+      ],
+      "inventory_management": [
+        {"title": "Medical consumption tracking", "description": "Monitor consumables per service, automatic deduction on use (syringes, gloves, reagents). Guided inventory and 'low stock' alerts."},
+        {"title": "Supplier and procurement management", "description": "Orders, receipts, invoices and complete traceability on medical products, with compliance to sanitary standards."},
+        {"title": "Traceability & safety", "description": "Series, batches and expiration dates visible in the system — total compliance at inspections."}
+      ],
+      "customer_engagement": [
+        {"title": "Appointments & automatic notifications", "description": "Patients book online, choose the doctor, time and service. Automatic confirmations and reminders via SMS, email or push notifications."},
+        {"title": "Digital forms & files", "description": "Anamnesis forms, health questionnaires and digital files completed before consultation — reduce time spent at reception."},
+        {"title": "Medical subscriptions & packages", "description": "Create corporate packages, recurring subscriptions or analysis packages — with automatic reporting and scheduled renewals."},
+        {"title": "Personalized campaigns", "description": "Messages and notifications for periodic check-ups, vaccinations, preventive analyses or new services. Increases patient retention and return rate."}
+      ]
+    },
+    "retail": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Manage cashiers, salespeople and stock managers. Create shifts, timekeeping and personalized access, with complete visibility on sales per employee and productivity."},
+        {"title": "Accurate financial management", "description": "Total control over collections, returns and discounts. Automatic day closing, clear records for cash and digital payments, integrated reconciliation with accounting."},
+        {"title": "Customer profiles and loyalty", "description": "Create customer files with purchase history, preferences and active coupons. You can apply personalized discounts, loyalty points and automatic campaigns."},
+        {"title": "Flexible business configuration", "description": "Single or multi-location stores, sales by categories, price lists and dynamic promotions. Set roles, permissions and access at team and product level."},
+        {"title": "Documents and invoicing", "description": "Invoices, receipts, transfer notes, delivery notes and receiving reports — all automatically generated, fiscalized and stored safely."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Sales per product, category, period, margin and commercial markup. Real-time reports on profit, losses, acquisition costs and stock turnover."},
+        {"title": "Advanced analytics & sales prediction", "description": "Visualize daily or seasonal trends, estimate demand and optimize purchases. Strategically planned reductions, not instinctive."}
+      ],
+      "inventory_management": [
+        {"title": "Real-time inventory & stocks", "description": "Automatic monitoring on sale and procurement. 'Low stock' alerts, transfers between points and fast inventories with scanner."},
+        {"title": "Suppliers & procurement", "description": "Complete management of supplier relationships — orders, receipts, invoices and payment terms. You have total visibility on costs and deliveries."},
+        {"title": "Complete traceability", "description": "Series, batches, expiration dates and product traceability — ideal for food retail, pharmacies or cosmetics."}
+      ],
+      "customer_engagement": [
+        {"title": "Promotional campaigns & dynamic offers", "description": "Create automatic promotions: 2+1, bundles, seasonal discounts, happy hour or discounts on expiring stocks."},
+        {"title": "Loyalty & reward points", "description": "Integrated loyalty system — points, coupons, member cards. Customers return, you increase average basket value."},
+        {"title": "Notifications and direct communication", "description": "SMS, email or push for offers, new products and restocks. Automations that increase return to store."},
+        {"title": "Appointments & click & collect", "description": "For stores with personalized products or service: product reservation, pickup at set time, integrated order flow."}
+      ]
+    },
+    "spalatorii_auto": {
+      "employee_management": [
+        {"title": "Efficient personnel management", "description": "Easily manage the team — washers, operators, cashiers, managers. Plan shifts, track productivity and receipts per employee. Automatic timekeeping and performance report per shift."},
+        {"title": "Accurate financial management", "description": "Control daily collections, cash or card payments, free/promo services and consumable costs. Automatic day closing, fiscal report and integration with 1C."},
+        {"title": "Client profiles and corporate fleets", "description": "Order history, service types, vehicles, preferences, frequency. For corporate partners — automatic monthly invoicing and fleet usage reports."},
+        {"title": "Flexible location configuration", "description": "Define wash lines, service types (exterior, interior, full, detailing), packages and durations. Support for subscriptions, prepaid cards and loyalty points."},
+        {"title": "Documents & contracts", "description": "Corporate contracts, reports, inspection forms, work reports — generated and stored digitally."}
+      ],
+      "business_insights": [
+        {"title": "Data-driven insights", "description": "Daily, weekly or monthly reports: number of orders, revenue, consumable costs, profit/line, average time per car, returns and new customers."},
+        {"title": "Operational flow optimization", "description": "Real-time visibility on each line's status (free, occupied, waiting). Reduced downtime, efficient coordination between reception and team."}
+      ],
+      "inventory_management": [
+        {"title": "Consumables & stocks", "description": "Automatically monitor consumption of solutions, detergents, cloths and accessories. 'Low stock' alerts, guided inventory, loss report and complete traceability."},
+        {"title": "Suppliers & procurement", "description": "Automatic orders to suppliers based on average consumption. Track prices, terms and invoices in one place."},
+        {"title": "Equipment maintenance", "description": "Schedule revisions, technical inspections, filters, pumps, brushes — preventive maintenance system with automatic notifications."}
+      ],
+      "customer_engagement": [
+        {"title": "Online reservations & fast scheduling", "description": "Clients choose date, time and service type directly from app or website. Automatic confirmations, reminders and notifications at service completion."},
+        {"title": "Subscriptions & prepaid cards", "description": "Sale of flexible subscriptions (5, 10 or 20 washes) with automatic usage tracking and loyalty discounts."},
+        {"title": "Marketing & dynamic offers", "description": "Automatic campaigns during quieter hours (happy hour), seasonal offers (autumn/winter) and personalized messages for inactive clients."},
+        {"title": "Feedback & reviews", "description": "Feedback form directly in app or on fiscal receipt. Reports on ratings and reaction times."}
+      ]
+    },
+    "how_it_works": {
+      "title": "How it works",
+      "steps": [
+        {"title": "Select your business type", "description": "Choose the industry you operate in: restaurant, salon, fitness, hotel or others"},
+        {"title": "Choose your subscription module", "description": "Configure the right package for your needs: Basic, Professional or Enterprise"},
+        {"title": "Simplified configuration", "description": "Quick setup in a few steps: locations, services, staff and prices"},
+        {"title": "Activate online reservations", "description": "Start the booking system for your customers via web and mobile app"},
+        {"title": "Manage the team", "description": "Add employees, set roles and track performance in real time"}
+      ]
+    },
+    "business_types": {
+      "title": "What type of business do you have?",
+      "types": [
+        {"number": "01", "name": "RESTAURANTS", "description": "Effortless reservation, order and table management"},
+        {"number": "02", "name": "CAFES", "description": "Complete system for fast orders and cafe management"},
+        {"number": "03", "name": "BEAUTY SALONS", "description": "Smart appointments for salons, spas and beauty clinics"},
+        {"number": "04", "name": "BARBERSHOPS", "description": "Complete solution for barbershop appointments and management"},
+        {"number": "05", "name": "HOTELS & GUESTHOUSES", "description": "Complete system for hotel reservations and accommodation management"},
+        {"number": "06", "name": "CAR RENTALS", "description": "Platform for car rental reservations and management"},
+        {"number": "07", "name": "FITNESS", "description": "Class reservations and management solutions for gyms"},
+        {"number": "08", "name": "MEDICAL", "description": "Professional appointment management for medical offices"},
+        {"number": "09", "name": "RETAIL", "description": "Modern reservation and POS systems for stores"},
+        {"number": "10", "name": "CAR WASHES", "description": "Appointment and management system for car washes"}
+      ]
+    },
+    "benefits": {
+      "title": "Simplify your operations,",
+      "title_line2": "Amplify your success",
+      "items": [
+        {"title": "Time efficiency", "description": "With mobile reservations and automatic employee management, your business saves entire hours of administrative work, allowing the team to focus on providing an excellent customer experience."},
+        {"title": "Revenue growth", "description": "Data and analytics from the platform help you identify new profit opportunities — from optimizing pricing strategies to improving customer experience to stimulate their return."},
+        {"title": "Improved customer experience", "description": "Through the intuitive mobile app for reservations and payments, you offer your customers more comfort and satisfaction. Personalized CRM services consolidate relationships and loyalty."},
+        {"title": "Inventory management", "description": "Track stock levels in real time, manage procurement orders and loss reduction, to keep costs under control."},
+        {"title": "Multi-platform access", "description": "Access your ERP system from both the web version and the mobile app — complete flexibility for you and your customers."},
+        {"title": "Integrated online payments", "description": "Simplify transactions through online payment options directly from the app, offering customers a fast and secure method to pay for services."}
+      ]
+    },
+    "what_is": {
+      "title": "What is EasyReserv?",
+      "description": "EasyReserv is a complete solution for managing and optimizing your business. Mobile reservations, employee management, business reports, inventory management and many other features are available. You can save time, increase sales, improve customer experience, reduce costs and increase productivity using our platform.",
+      "faq": [
+        {
+          "question": "Can I access EasyReserv on both web and mobile devices?",
+          "answer": "Yes, EasyReserv is available both as a web application (desktop and tablet) and as a native mobile application for iOS and Android. You can access all platform features from any device, with real-time synchronization between all your devices."
+        },
+        {
+          "question": "How long does it take to implement the EasyReserv platform?",
+          "answer": "EasyReserv implementation takes 2-5 days depending on the complexity of your business. Our team assists you at every step: initial setup, data import, team training and go-live. You don't need to change existing hardware."
+        },
+        {
+          "question": "Does EasyReserv integrate with my accounting system?",
+          "answer": "Yes, EasyReserv integrates natively with major accounting systems such as 1C, SAP and other popular solutions. Export of invoices, sales and financial reports is done automatically, eliminating manual data entry."
+        },
+        {
+          "question": "Does EasyReserv provide technical support and training for my team?",
+          "answer": "Absolutely! We offer 24/7 technical support via chat, email and phone. At implementation, we include training sessions for the entire team: managers, cashiers, waiters and cooks. Plus access to our knowledge base and video tutorials."
+        }
+      ]
+    },
+    "cta_final": {
+      "title": "Start optimizing your business today!",
+      "button": "Become a partner"
+    }
+  },
+  "pricing_page": {
+    "hero": {
+      "title_line1": "Choose excellence.",
+      "title_line2": "Choose",
+      "title_highlight": "EasyReserv.io",
+      "description": "Try the free trial period and find the perfect subscription for your needs.",
+      "cta": "Start now"
+    },
+    "why_choose": {
+      "title": "Why Choose Us?",
+      "features": [
+        {
+          "icon": "/figmaAssets/icon-1.svg",
+          "title": "Simplify Operations",
+          "description": "We centralize and streamline all your booking needs, making your business more efficient.",
+          "number": "01",
+          "numberLeft": "left-[calc(50.00%_-_104px)]"
+        },
+        {
+          "icon": "/figmaAssets/icon.svg",
+          "title": "Attract Customers",
+          "description": "Our platform helps you build strong customer relationships, ensuring their loyalty.",
+          "number": "02",
+          "numberLeft": "left-[calc(50.00%_-_120px)]"
+        },
+        {
+          "icon": "/figmaAssets/icon.svg",
+          "title": "Outpace Competition",
+          "description": "Use cutting-edge technology to elevate your business management.",
+          "number": "03",
+          "numberLeft": "left-[calc(50.00%_-_120px)]"
+        },
+        {
+          "icon": "/figmaAssets/icon-3.svg",
+          "title": "Dedicated Support",
+          "description": "We're with you, providing the assistance and expertise you need to succeed.",
+          "number": "04",
+          "numberLeft": "left-[calc(50.00%_-_130px)]"
+        }
+      ]
+    },
+    "subscription_options": {
+      "title": "Not Sure Which Plan Is Right For You?",
+      "description": "We understand that every business is unique with specific needs. If you're not sure which plan is right for you or have questions, our team is here to help. We offer personalized guidance to ensure you get the most out of the platform's capabilities.",
+      "cta": "Contact us"
+    },
+    "roi_calculator": {
+      "title": "Your Subscription Pays for Itself Quickly",
+      "subtitle": "See how fast your investment turns into profit",
+      "description": "On average, a customer at a restaurant spends 200-400 lei. With EasyReserv.io, you attract more customers and optimize operations, so your subscription pays for itself quickly.",
+      "industry": {
+        "restaurant": "Restaurants",
+        "cafe": "Cafes",
+        "beauty_salon": "Beauty Salons",
+        "barbershop": "Barbershops",
+        "hotel": "Hotels & Guesthouses",
+        "car_rental": "Car Rental",
+        "fitness": "Fitness & Gym",
+        "medical": "Medical Services",
+        "retail": "Retail",
+        "car_wash": "Car Wash",
+        "sports": "Sports & Courts"
+      },
+      "basic_label": "Basic Plan (50€/month)",
+      "standard_label": "Standard Plan (125€/month)",
+      "pro_label": "Pro Plan (200€/month)",
+      "restaurant": {
+        "basic_text": "Just 2-3 new reservations per month, and the subscription is covered",
+        "standard_text": "Just 5-6 new reservations per month, and the subscription is covered",
+        "pro_text": "Just 8-10 new reservations per month, and the subscription is covered",
+        "note": "Calculated based on an average check of 250-300 lei and a profit margin of 40%. Results may vary depending on restaurant specifics."
+      },
+      "cafe": {
+        "basic_text": "Just 4-5 new reservations per month, and the subscription is covered",
+        "standard_text": "Just 10-12 new reservations per month, and the subscription is covered",
+        "pro_text": "Just 16-20 new reservations per month, and the subscription is covered",
+        "note": "Calculated based on an average check of 100-150 lei and a profit margin of 35%. Results may vary depending on cafe specifics."
+      },
+      "beauty_salon": {
+        "basic_text": "Just 2-3 new appointments per month, and the subscription is covered",
+        "standard_text": "Just 4-5 new appointments per month, and the subscription is covered",
+        "pro_text": "Just 6-8 new appointments per month, and the subscription is covered",
+        "note": "Calculated based on an average service of 200-400 lei and a profit margin of 50%. Results may vary depending on services offered."
+      },
+      "barbershop": {
+        "basic_text": "Just 2-4 new appointments per month, and the subscription is covered",
+        "standard_text": "Just 5-8 new appointments per month, and the subscription is covered",
+        "pro_text": "Just 8-12 new appointments per month, and the subscription is covered",
+        "note": "Calculated based on an average service of 100-200 lei and a profit margin of 60%. Results may vary depending on services offered."
+      },
+      "hotel": {
+        "basic_text": "Just 2-3 new bookings per month, and the subscription is covered",
+        "standard_text": "Just 4-5 new bookings per month, and the subscription is covered",
+        "pro_text": "Just 6-8 new bookings per month, and the subscription is covered",
+        "note": "Calculated based on an average stay of 400-800 lei/night and a profit margin of 30%. Results may vary depending on season and accommodation type."
+      },
+      "car_rental": {
+        "basic_text": "Just 1-2 new rentals per month, and the subscription is covered",
+        "standard_text": "Just 3-4 new rentals per month, and the subscription is covered",
+        "pro_text": "Just 5-6 new rentals per month, and the subscription is covered",
+        "note": "Calculated based on an average rental of 500-1000 lei and a profit margin of 25%. Results may vary depending on vehicle type and rental duration."
+      },
+      "fitness": {
+        "basic_text": "Just 2-3 new memberships per month, and the subscription is covered",
+        "standard_text": "Just 4-6 new memberships per month, and the subscription is covered",
+        "pro_text": "Just 6-8 new memberships per month, and the subscription is covered",
+        "note": "Calculated based on an average membership of 150-300 lei/month and a profit margin of 70%. Results may vary depending on membership type."
+      },
+      "medical": {
+        "basic_text": "Just 2-3 new consultations per month, and the subscription is covered",
+        "standard_text": "Just 4-6 new consultations per month, and the subscription is covered",
+        "pro_text": "Just 6-8 new consultations per month, and the subscription is covered",
+        "note": "Calculated based on an average consultation of 200-500 lei and a profit margin of 40%. Results may vary depending on consultation type and specialist."
+      },
+      "retail": {
+        "basic_text": "Just 8-10 new transactions per month, and the subscription is covered",
+        "standard_text": "Just 20-25 new transactions per month, and the subscription is covered",
+        "pro_text": "Just 30-40 new transactions per month, and the subscription is covered",
+        "note": "Calculated based on an average transaction of 50-150 lei and a profit margin of 25%. Results may vary depending on products sold."
+      },
+      "car_wash": {
+        "basic_text": "Just 6-8 new washes per month, and the subscription is covered",
+        "standard_text": "Just 15-18 new washes per month, and the subscription is covered",
+        "pro_text": "Just 25-30 new washes per month, and the subscription is covered",
+        "note": "Calculated based on an average wash of 80-150 lei and a profit margin of 45%. Results may vary depending on wash type."
+      },
+      "sports": {
+        "basic_text": "Just 3-4 new court bookings per month, and the subscription is covered",
+        "standard_text": "Just 7-9 new court bookings per month, and the subscription is covered",
+        "pro_text": "Just 12-15 new court bookings per month, and the subscription is covered",
+        "note": "Calculated based on an average booking of 150-300 lei/hour and a profit margin of 50%. Results may vary depending on court type and booking duration."
+      },
+      "note_label": "Note:",
+      "cta": "Start free trial",
+      "reservations_per_month": "reservations/month"
+    },
+    "cta": {
+      "title": "Act Before It's Too Late!",
+      "description": "Join thousands of businesses that have already transformed their operations with EasyReserv. Start today and benefit from all premium features!",
+      "cta": "Start Now"
+    },
+    "common": {
+      "per_month": "/month",
+      "popular": "Popular",
+      "most_popular": "Most popular",
+      "custom": "On request",
+      "custom_price": "Custom price",
+      "select_plan": "Select plan",
+      "contact_us": "Contact",
+      "contact_us_full": "Contact us",
+      "start_free_trial": "Start free trial period",
+      "select_industry": "Select industry",
+      "compare_plans": "Compare plans",
+      "pricing_plans_for": "Subscription plans for",
+      "save_with_annual": "Save with annual payment",
+      "save_10_percent": "SAVE 10%",
+      "what_you_get": "What you get",
+      "see_all_features": "See all features",
+      "hide_features": "Hide features",
+      "included": "Included",
+      "add_on": "Add-on",
+      "priority": "Priority"
+    },
+    "industries": {
+      "Restaurante": "Restaurants",
+      "Cafenele": "Cafes",
+      "Saloane de frumusețe": "Beauty salons",
+      "Barbershopuri": "Barbershops",
+      "Hotele & Pensiuni": "Hotels & Guesthouses",
+      "Chirii auto": "Car rentals",
+      "Fitness": "Fitness",
+      "Medical": "Medical",
+      "Retail": "Retail",
+      "Spălătorii auto": "Car washes",
+      "Tenis/Padel/Fotbal": "Tennis/Padel/Football",
+      "restaurante": "Restaurants",
+      "cafenele": "Cafes",
+      "saloane_barbershop": "Beauty salons & Barbershops",
+      "hotele": "Hotels & Guesthouses",
+      "chirii_auto": "Car rentals",
+      "fitness": "Fitness",
+      "medical": "Medical",
+      "retail": "Retail",
+      "spalatorii_auto": "Car washes",
+      "tenis_padel_fotbal": "Tennis/Padel/Football"
+    },
+    "plans": {
+      "cafenele": {
+        "basic": {
+          "name": "Basic",
+          "description": "Perfect for small and simple cafes",
+          "features": [
+            "2 users included",
+            "Customizable Basic POS",
+            "Simplified cash management",
+            "Static digital menu",
+            "Simple analytics and KPIs"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Multiple employees, shift scheduling, analytics",
+          "features": [
+            "All from Basic",
+            "Additional users (€5/user)",
+            "Employee management and time tracking",
+            "Personalized POS layout",
+            "Dynamic menu and variable products",
+            "Customer profiles and order history",
+            "Push/SMS marketing and Happy Hour"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Cost control, inventory and automation",
+          "features": [
+            "All from Standard",
+            "Inventory management and recipes",
+            "Automatic stock reduction",
+            "Low stock alerts and inventory",
+            "Beverage recipes and portion cost",
+            "Advanced segmentation and coupons",
+            "PDF reports and export"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Multi-location, fiscal integration, AI automation",
+          "features": [
+            "All from Pro",
+            "2 scalable users",
+            "Multi-location and courier fleet",
+            "1C integration with fiscalization",
+            "AI marketing automation",
+            "External backup and extended storage"
+          ]
+        }
+      },
+      "spalatorii_auto": {
+        "basic": {
+          "name": "Basic",
+          "description": "For small car washes",
+          "features": [
+            "1 user included",
+            "Online booking and Basic walk-in",
+            "Static customizable services",
+            "Simplified financial management",
+            "Simple reports"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Team and customer management",
+          "features": [
+            "All from Basic",
+            "2 users + €5/additional user",
+            "Employee management and time tracking",
+            "Booking with calendar",
+            "Pricing per body/work type",
+            "Customer CRM and vehicle history",
+            "SMS promotions and Reminders"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Inventory, mobile orders and automation",
+          "features": [
+            "All from Standard",
+            "3 users included",
+            "Priority booking",
+            "Promo packages and upselling",
+            "Pickup/mobile orders with geolocation",
+            "Consumables inventory and alerts",
+            "Push, Reminders and segmentation"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Mobile fleet, fiscal integration, AI",
+          "features": [
+            "All from Pro",
+            "3+ scalable users",
+            "Automatic booking redistribution",
+            "Mobile fleet and route management",
+            "AI pricing suggestions",
+            "1C and PowerBI integration",
+            "Triggered campaigns and loyalty"
+          ]
+        }
+      },
+      "hotele": {
+        "basic": {
+          "name": "Basic",
+          "description": "Guesthouses/Boutique ≤ 20 rooms",
+          "features": [
+            "3 users included",
+            "Availability calendar and room matrix",
+            "Check-in/Check-out with folio",
+            "Room types and basic rates",
+            "Housekeeping: room status and tasks",
+            "Front desk POS and invoicing"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Small-medium hotel 21-60 rooms",
+          "features": [
+            "All from Basic",
+            "6 users + €5/additional user",
+            "Split/merge bookings and room moves",
+            "Packages (accommodation + services)",
+            "Housekeeping mobile app",
+            "CRM and email/SMS marketing",
+            "ADR, RevPAR and extended reports"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Hotel 61-150 rooms",
+          "features": [
+            "All from Standard",
+            "10 users included",
+            "Booking Engine on website",
+            "Service ticketing with SLA",
+            "Card guarantees/pre-authorizations",
+            "Pick-up, pace and forecast",
+            "Segmentation and automated campaigns"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "150+ rooms or Multi-property",
+          "features": [
+            "All from Pro",
+            "Unlimited users",
+            "Channel Manager (integrated OTA)",
+            "AI assistant dynamic recommendations",
+            "Multi-property dashboard",
+            "SSO, advanced audit and API webhooks",
+            "Key control and self check-in kiosk"
+          ]
+        }
+      },
+      "chirii_auto": {
+        "basic": {
+          "name": "Basic",
+          "description": "Micro/local ≤ 25 vehicles",
+          "features": [
+            "2 users included",
+            "Web/phone booking and calendar",
+            "Contracts with e-signature",
+            "Simple seasonal rates",
+            "Vehicle catalog and status",
+            "Invoices and receipts"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "26-80 vehicles",
+          "features": [
+            "All from Basic",
+            "5 users + €5/additional user",
+            "Deposits and card pre-authorizations",
+            "Service and scheduled maintenance",
+            "Check-in/out with photo and checklist",
+            "Booking Engine on website",
+            "CRM and email/SMS reminders"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "81-250 vehicles",
+          "features": [
+            "All from Standard",
+            "10 users included",
+            "Dynamic pricing and forecast",
+            "Rate parity and allotment",
+            "Telematics/GPS tracking (add-on)",
+            "B2B/B2C segmented campaigns",
+            "Yield per class reports"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "250+ vehicles/multi-office",
+          "features": [
+            "All from Pro",
+            "Unlimited users",
+            "Integrated OTA Channel Manager",
+            "AI assistant dynamic pricing",
+            "Telematics/GPS included",
+            "Multi-office/country dashboard",
+            "API/Integrations and ERP"
+          ]
+        }
+      },
+      "fitness": {
+        "basic": {
+          "name": "Basic",
+          "description": "Small studio up to ~100 members",
+          "features": [
+            "2 users included",
+            "Class booking and personal training",
+            "Member registration (code/QR)",
+            "Memberships and cards",
+            "Member profile and history",
+            "Front desk POS and invoicing"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "100-250 active members",
+          "features": [
+            "All from Basic",
+            "5 users + €5/additional user",
+            "Trainer schedule and time tracking",
+            "SMS reminders and member segments",
+            "Recurring card auto-renewal",
+            "Product inventory and alerts",
+            "MRR/ARR and performance reports"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "250-500 active members",
+          "features": [
+            "All from Standard",
+            "10 users included",
+            "Waiting lists and anti-fraud",
+            "Personal training/class commission calculation",
+            "Automatic dunning and payment retry",
+            "Branded member app",
+            "Churn and cohort reports"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "500+ members/multi-location",
+          "features": [
+            "All from Pro",
+            "Unlimited users",
+            "Multi-location and SSO",
+            "White-label app (gym brand)",
+            "AI churn risk scoring",
+            "Multi-location/country dashboard",
+            "Priority API and DRM video"
+          ]
+        }
+      },
+      "tenis_padel_fotbal": {
+        "basic": {
+          "name": "Basic",
+          "description": "1-2 courts/small venue",
+          "features": [
+            "2 users included",
+            "Flexible slot booking",
+            "Sport-specific settings",
+            "Member profile and history",
+            "Online payments and invoicing",
+            "Booking widget on website"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "3-6 courts",
+          "features": [
+            "All from Basic",
+            "5 users + €5/additional user",
+            "Peak/off-peak pricing",
+            "Recurring bookings and memberships",
+            "Equipment rental",
+            "Trainer booking and commissions",
+            "Court maintenance calendar"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "7-12 courts/multi-sport",
+          "features": [
+            "All from Standard",
+            "10 users included",
+            "Waiting lists and auto-fill",
+            "Automatic weather rescheduling",
+            "Partner search and multi-sport packages",
+            "Tournament and league organization",
+            "Branded player app"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "12+ courts/multi-location",
+          "features": [
+            "All from Pro",
+            "Unlimited users",
+            "IoT access control and lighting",
+            "White-label app (club brand)",
+            "Multi-site heatmap reports",
+            "Fiscal integration and ERP",
+            "Priority API and webhooks"
+          ]
+        }
+      },
+      "medical": {
+        "starter": {
+          "name": "Starter",
+          "description": "Individual practice/micro-clinic (1-3 doctors)",
+          "features": [
+            "3 users included",
+            "Online/phone appointments",
+            "Multi-doctor calendar",
+            "Patient record and history",
+            "Front desk POS and invoicing",
+            "Email confirmations"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Small clinic (4-10 doctors)",
+          "features": [
+            "All from Starter",
+            "6 users + €5/additional user",
+            "Specialty templates",
+            "Prescriptions and referrals",
+            "Room check-in and SMS reminders",
+            "Patient CRM and reminder campaigns",
+            "Lab test requests and results"
+          ]
+        },
+        "business": {
+          "name": "Business",
+          "description": "Medium clinic (11-30 doctors)",
+          "features": [
+            "All from Standard",
+            "12 users included",
+            "Corporate/insurance settlements",
+            "Shift tracking and commissions",
+            "Automatic dunning and medical packages",
+            "Patient results portal",
+            "Waiting room screens"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Network/Private hospital (31+ doctors)",
+          "features": [
+            "All from Business",
+            "Unlimited users",
+            "LIS (HL7) and PACS (DICOM) integration",
+            "E-prescription and SIUI/CNAS",
+            "White-label patient app",
+            "SSO, external backup and advanced audit",
+            "Priority API and webhooks"
+          ]
+        }
+      },
+      "saloane_barbershop": {
+        "basic": {
+          "name": "Basic",
+          "description": "1 specialist, small salon",
+          "features": [
+            "1 specialist included",
+            "Online booking and manual walk-in",
+            "Simple service management",
+            "Basic customer CRM",
+            "Manual payments",
+            "Simple reports"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "2 specialists, basic automation",
+          "features": [
+            "All from Basic",
+            "2 users + €5/additional user",
+            "Calendar with SMS confirmation",
+            "Promo packages and memberships",
+            "Staff management and shifts",
+            "Product sales and inventory",
+            "POS and fiscal receipt"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "4 specialists, advanced loyalty",
+          "features": [
+            "All from Standard",
+            "4 users included",
+            "Automatic allocation and Push notifications",
+            "Upselling and personalized packages",
+            "Bonuses and loyalty card",
+            "Per-room inventory",
+            "Segmented marketing and coupons"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "5+ specialists, multi-location",
+          "features": [
+            "All from Pro",
+            "5+ scalable users",
+            "Google/Apple calendar integration",
+            "AI service suggestions and recommendations",
+            "Social media and QR booking",
+            "PowerBI/1C export and POS network",
+            "Dynamic omnichannel segments"
+          ]
+        }
+      },
+      "retail": {
+        "basic": {
+          "name": "Basic",
+          "description": "Boutique/single store (up to 1 POS)",
+          "features": [
+            "2 users (Admin, Cashier)",
+            "POS sales and fiscal receipt",
+            "Returns, exchanges, void",
+            "Simple discounts",
+            "Product catalog (SKU, variants)",
+            "Customer profile and purchase history"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Small-medium store (1-3 POS)",
+          "features": [
+            "All from Basic",
+            "5 users + €5/additional user",
+            "Multi-POS (max 3) and offline mode",
+            "Goods receiving and supplier orders",
+            "Inter-location transfers and inventory",
+            "Loyalty card and SMS/Email campaigns",
+            "Top SKU, margins, average receipt"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Large store/multi-POS (4-8 POS)",
+          "features": [
+            "All from Standard",
+            "10 users included",
+            "Multi-POS (max 8) and FIFO/LOT",
+            "Click & Collect, unified warehouse",
+            "RFM segments and personalized coupons",
+            "Time tracking, shifts, sales targets",
+            "Demand forecast and advanced dashboard"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Multi-store network/omnichannel",
+          "features": [
+            "All from Pro",
+            "Unlimited users",
+            "Unlimited POS and WMS light",
+            "Marketplaces (eMAG, Amazon)",
+            "Courier integration and centralized AWB",
+            "SSO, advanced audit and priority API",
+            "Multi-store dashboard and 1C/ERP"
+          ]
+        }
+      },
+      "restaurante": {
+        "basic": {
+          "name": "Basic",
+          "description": "Perfect for small and simple locations",
+          "features": [
+            "1 Admin, 1 Hostess",
+            "Accept/Decline reservations",
+            "Create/Modify new reservations",
+            "CRUD Employees",
+            "1 marketing article/month",
+            "Push/SMS targeting"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Multiple employees, dashboards, shift scheduling, simple analytics",
+          "features": [
+            "All from Basic",
+            "1 Admin, 1 Hostess, 2 Waiters",
+            "Menu management",
+            "Add/Activate promotions",
+            "Schedule management",
+            "Inventory & suppliers management",
+            "Shifts/holidays/time tracking"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Complete control over operations, inventory and automations",
+          "features": [
+            "All from Standard",
+            "3 Admins, 3 Hostess, 5 Waiters",
+            "Complete inventory & recipe management",
+            "Automatic stock deduction on sale",
+            "Low stock alerts & inventory",
+            "Drink recipes & cost/portion",
+            "Advanced segmentation & coupons",
+            "PDF reports & exports"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Customizable",
+          "features": [
+            "All from Pro",
+            "Unlimited user roles",
+            "Advanced targeting",
+            "Multi-location management",
+            "API Access",
+            "White label support"
+          ]
+        }
+      }
+    },
+    "comparison": {
+      "categories": {
+        "user_roles": "User Roles",
+        "reservations": "Reservations & Tables",
+        "inventory": "Inventory Management",
+        "reports": "Reports",
+        "staff": "Staff Management",
+        "delivery": "Delivery & Transport",
+        "marketing": "Marketing Tools"
+      },
+      "features": {
+        "admin": "Admin",
+        "hostess": "Hostess",
+        "waiter": "Waiter",
+        "cook": "Cook",
+        "courier": "Courier",
+        "unlimited": "Unlimited",
+        "accept_reject": "Accept/Reject reservations",
+        "calendar_access": "Calendar Access",
+        "create_modify": "Create New/Modify",
+        "pre_order": "Pre-order",
+        "recipe_auto": "Recipe/auto deduction",
+        "crud_supplier": "CRUD Supplier/Order/History",
+        "sales_reservations": "Sales & reservations",
+        "kpi_employees": "KPI employees/productivity",
+        "cost_margin": "Cost/Margin product",
+        "crud_employee": "CRUD Employee",
+        "shifts_holidays": "Shifts/holidays/time tracking",
+        "check_in_out": "Check-in/Check-out",
+        "delivery_orders": "Delivery orders",
+        "courier_app": "Courier App",
+        "routes_allocation": "Routes/courier allocation",
+        "crud_articles": "CRUD Articles",
+        "targeting_push": "Targeting Push/SMS",
+        "advanced_segmentation": "Advanced segmentation",
+        "per_month": "/month"
+      }
+    }
+  },
+  "blog_page": {
+    "title": "Our Stories",
+    "featured_article": "Featured Article",
+    "search_placeholder": "Search articles...",
+    "categories": {
+      "all": "All",
+      "use_case": "Use Case",
+      "news": "News",
+      "updates": "Updates",
+      "entertainment": "Entertainment"
+    },
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest"
+    },
+    "no_results": "No articles found matching your search criteria.",
+    "load_more": "Load more",
+    "no_articles_yet": "No articles available yet. Check back soon for new content!"
+  },
+  "seo": {
+    "home_title": "EasyReserv.io — All-in-one POS and Reservations Platform",
+    "home_description": "Automate reservations, POS, operational workflows and reports. Integrate payments, accounting, notifications and delivery — without changing hardware.",
+    "about_title": "About Us — EasyReserv.io | Our Mission",
+    "about_description": "Discover the EasyReserv.io story: how we help businesses automate operations, increase efficiency and improve customer experience.",
+    "solutions_title": "Multi-Industry Solutions — EasyReserv.io",
+    "solutions_description": "Customized solutions for restaurants, beauty salons, car rentals, fitness, car washes, sports fields and other industries.",
+    "pricing_title": "Pricing & Plans — EasyReserv.io | From €50/month",
+    "pricing_description": "Flexible plans for businesses of all sizes. Start from €50/month, no hidden costs. 14-day free trial.",
+    "contact_title": "Contact — EasyReserv.io | Demo & Support",
+    "contact_description": "Contact the EasyReserv team for a personalized demo, technical support or questions about the platform. We respond within 24 hours.",
+    "policies_title": "Policies — EasyReserv.io | Terms & Privacy",
+    "policies_description": "Privacy policy, cookie policy and terms and conditions of the EasyReserv.io platform. Data protection in accordance with GDPR.",
+    "blog_title": "Blog — EasyReserv.io | Business Guides & Resources",
+    "blog_description": "Articles about business management, automation, tips & tricks for restaurants, salons, fitness and other industries."
+  },
+  "hardware": {
+    "hero_title": "Hardware & Equipment",
+    "hero_description": "Complete integration with certified fiscal devices and professional POS printers. EasyReserv.io works perfectly with your existing equipment.",
+    "feature_rapid_integration": "Rapid Integration",
+    "feature_rapid_integration_desc": "Automatic connection and simple setup in minutes",
+    "feature_compliance": "100% Compliance",
+    "feature_compliance_desc": "All devices are FISC certified and comply with tax legislation",
+    "feature_support": "Dedicated Technical Support",
+    "feature_support_desc": "Our team helps you with equipment installation and configuration",
+    "fiscal_devices_title": "FISC Certified Fiscal Devices",
+    "fiscal_devices_description": "100% compatibility with fiscal cash registers from leading manufacturers",
+    "fiscal_certified": "FISC Certified",
+    "fiscal_datecs_desc": "Complete solution for FISC certified fiscal cash registers",
+    "fiscal_tremol_desc": "Modern fiscal devices with advanced connectivity",
+    "compatible_models": "Compatible models:",
+    "pos_printers_title": "Professional POS Printers",
+    "pos_printers_description": "Fast and reliable printing for fiscal receipts, tickets and orders",
+    "pos_hprt_desc": "High-quality thermal printers for receipts and fiscal documents",
+    "pos_epson_desc": "Reliable POS printers with versatile connectivity",
+    "pos_star_desc": "Professional solutions for fast and precise printing",
+    "android_tablets_title": "Android POS Tablets",
+    "android_tablets_description": "Turn any Android tablet into a fully functional POS system",
+    "android_feature_native": "Native Android Integration",
+    "android_feature_native_desc": "EasyReserv.io works perfectly on Android tablets, providing a smooth and intuitive experience for waiters and staff. Compatible with Samsung, Huawei, Lenovo and other popular brands.",
+    "android_feature_mobility": "Mobility and Flexibility",
+    "android_feature_mobility_desc": "Waiters can take orders directly at the table, check product availability in real-time and process payments instantly. The system works offline and automatically synchronizes when connection is available.",
+    "android_feature_connectivity": "Complete Connectivity",
+    "android_feature_connectivity_desc": "Connection via WiFi or 4G/5G, integration with thermal printers via Bluetooth, automatic synchronization with central POS system and connectivity with FISC certified fiscal devices.",
+    "android_important_factor": "Important Factor",
+    "android_important_desc": "Integration with Android tablets is essential for modern restaurants. It reduces waiting time, eliminates communication errors and increases customer satisfaction through fast and accurate orders.",
+    "android_specs_title": "Recommended Specifications",
+    "android_spec_os": "Android 8.0+ (recommended Android 10+)",
+    "android_spec_screen": "8-10 inch screen (min resolution 1280x800)",
+    "android_spec_ram": "Minimum 2GB RAM (recommended 4GB+)",
+    "android_spec_wifi": "WiFi and/or 4G/5G connectivity",
+    "android_spec_bluetooth": "Bluetooth 4.0+ for printers",
+    "cta_title": "Need help with equipment?",
+    "cta_description": "Our team can help you choose and configure the right equipment for your business.",
+    "cta_contact": "Contact Us",
+    "cta_solutions": "View Software Solutions"
+  },
+  "cookie_consent": {
+    "title": "We respect your privacy",
+    "description": "We use cookies to improve your experience on our site and to analyze traffic. Essential cookies are necessary for the site to function, while analytics cookies help us understand how you use the platform.",
+    "accept_all": "Accept all",
+    "reject_all": "Reject all",
+    "customize": "Customize",
+    "save_preferences": "Save preferences",
+    "essential": "Essential",
+    "essential_desc": "Required for site functionality",
+    "analytics": "Analytics",
+    "analytics_desc": "Helps us understand how you use the site",
+    "settings_title": "Cookie Settings",
+    "settings_desc": "Manage your cookie preferences",
+    "learn_more": "Learn more",
+    "cookie_policy": "Cookie Policy"
+  }
+}

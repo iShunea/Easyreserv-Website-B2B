@@ -1,0 +1,89 @@
+Privacy Policy
+PRIVACY POLICY PERSONAL DATA PROTECTION INFORMATION
+For Shunea IT-Projects SRL ('EasyReserv.io'), your privacy and the security of your personal data are of utmost importance. We collect and manage your personal data with great care and take specific measures to keep them safe.
+
+Below, you will find the main information about how EasyReserv.io processes your personal data in connection with your use of https://easyreserv.io, https://app.easyreserv.io/login, and the EasyReserv.io mobile application. For detailed information on how EasyReserv.io manages your personal data, please continue reading.
+
+This information is provided, in accordance with the provisions of Law No. 133 of July 8, 2011, regarding the protection of personal data (hereinafter referred to as the 'Law'), to users (hereinafter: 'Users' or 'User') of the desktop and mobile version of the website, the desktop web application, and any mobile application related to the service (hereinafter: 'the Website, Web Application, and Mobile Application') owned by 'Shunea - IT Projects' SRL, the Data Controller (hereinafter: 'Data Controller'). It aims to describe the methods of managing the Website, Web Application, and Mobile Application concerning the processing of personal data and to allow Users of the website, web application, and mobile application to understand the purposes and methods of processing personal data by the Data Controller when provided.
+
+As specified in the Terms and Conditions of Use, the services offered by the Administrator/Data Controller and Partners are intended for individuals over 18 years of age. In the event that the Administrator becomes aware of the processing of data of minors under 18 years of age without valid consent from parents or a legal guardian, the Administrator reserves the right to unilaterally terminate the use of the offered service and to delete any data obtained.
+
+Please also read the 'Terms and Conditions of Use' of the 'EasyReserv.io' platform for detailed information on our service conditions.
+
+APPLICABLE PRINCIPLES FOR THE PROCESSING OF PERSONAL DATA
+The Data Controller, in accordance with the Regulation, announces that the aforementioned legislation provides for the protection of individuals with regard to the processing of personal data, and such processing will be based on the principles of fairness, legality, transparency, and the protection of confidentiality and fundamental rights.
+
+DEFINITIONS
+User/Subscriber - any natural or legal person with full legal capacity who visits and/or interacts with the website https://easyreserv.io or/and the web application https://app.easyreserv.io or/and the mobile application 'EasyReserv.io' (found on the App Store / Google Play Market) called the 'platform' for consulting, booking, or purchasing services; to establish, modify, or cancel reservations and appointments with partners registered on the EasyReserv.io platform or, as the case may be, to become a partner by concluding an electronic contract/agreement with 'Shunea - IT Projects' SRL and holding a business account on the EasyReserv.io platform.
+
+Users who also wish to make reservations or receive notifications from partner locations must register by creating their user profile.
+
+The personal data required for user registration are:
+
+Full Name,
+Email Address,
+Phone Number,
+Date of Birth,
+Gender
+Information about how you use the platform, such as your behavior, preferences, and habits on the platform, as well as any other categories of data provided directly in the context of making a reservation or in any other way resulting from the use of the platform.
+
+Terms not defined in this Privacy Policy have the same meaning as described in the Terms and Conditions of Use.
+
+What personal data do we collect? Collection of browsing data.
+
+The IT systems and technical and software procedures that underlie the operation of the Website, Web Application, and Mobile Application acquire, during their normal operation, some personal data, the transmission of which is implicit in the mechanisms and protocols used on the Internet.
+
+Each time a User connects to the platform and each time they access or request content, access data is stored on our systems in the form of tabular or linear data files.
+
+This data may be used by the Data Controller exclusively to obtain anonymous statistical information about the use of the platform, to identify the pages preferred by Users, and, therefore, to provide increasingly suitable content and to verify its correct operation. At the request of the Authority, the data could be used to ascertain responsibility in the event of hypothetical computer crimes against the 'Easyreserv.io' platform or its Users.
+
+In addition, the categories of personal data collected and processed by 'EasyReserv.io' when you browse or make reservations through the application include the following:
+
+We collect personal data necessary to complete and process your reservation on the 'EasyReserv.io' application, such as your name, email address, address, and phone number;
+We collect personal data necessary to complete and process your reservation on the 'EasyReserv.io' application, such as your name, email address, address, and phone number;
+For the registration of your 'EasyReserv.io' account, we collect your name, email address, password, and date of birth. If you are a registered user, we collect information about your access to the reserved area. With your explicit consent, by analyzing your personal data, we can process information about your interests and preferences regarding our services, in order to make proposals and offers that match your tastes.
+
+Information about profiling, search engines, and location data. We collect information about your browsing on the 'EasyReserv.io' application, such as the pages/screens you visit and how you interact with a single page/screen, and we save this information on our servers. Only with your consent, the Data Controller will be able to personalize your experience as a registered user using this information, analyzed and through automated processes such as profiling, in order to offer you advances and offers in line with your tastes and to send you personalized commercial communications according to your interests. These communications will take place exclusively in the manner you have chosen.
+
+When you use the 'EasyReserv.io' application with the location detection feature active, the platform may collect and process information about the current location of the User. This data is processed in a format that allows the personal identification of the registered User and is used to enable the sending of personalized promotional communications based on the locations registered by the location service. This user location information is not shared with third parties, and the mentioned services can be activated or deactivated by the User at any time by accessing their device settings. Location data, used to provide registered Users with targeted promotional communications, will be retained for a period not exceeding 12 months from the last geolocation performed.
+
+METHOD OF PROCESSING AND STORAGE OF PERSONAL DATA
+The Data Controller ensures that personal data is processed in full compliance with Law No. 133, in paper and/or electronic format, using automated procedures. Processing may also be carried out using automated tools designed to store, manage, and transmit data.
+
+The collected and processed data will be protected with physical and logical methods to minimize the risks of unauthorized access, dissemination, loss, and destruction of data. Data processing will not last longer than necessary to achieve the purposes for which they were collected.
+
+The data subject will have the right to revoke consent for processing at any time and easily by sending a communication to the Data Controller at the following address: easyreserv@ishunea.io. Following a User's request for deletion, all personal data will be deleted without affecting subsequent storage required by regulatory obligations.
+
+The Data Controller reports that a User who has requested cancellation from the platform may receive further communications from the Data Controller in a limited manner after this request, due to the time required by the Controller's systems to process the unsubscribe and deletion procedure. In any case, the Data Controller ensures that within a maximum of ten days from the cancellation request, the User will no longer receive any further communication, and their data will be deleted unless there are other regulatory obligations.
+
+In the event that a cancellation request is not received by the Data Controller, personal data will be retained for a period not exceeding 2 (two) years from the date of the User's last access to the 'EasyReserv.io' platform. Data collected when purchasing services or goods on the 'EasyReserv.io' application will be processed until all administrative and accounting formalities are completed, and they will be kept for a maximum period of 10 (ten) years according to tax conditions and local regulations.
+
+Who will process your data? Recipients of personal data
+
+Your personal data is processed by personnel properly trained by 'Shunea - IT Projects' SRL as the Data Controller. Furthermore, for organizational and functional needs related to the provision of services on www.easyreserv.io, your data may also be processed by our providers. The latter have been assessed and chosen by 'Shunea - IT Projects' SRL for their proven reliability and competence, and they process your data as Data Processors on behalf of 'Shunea - IT Projects' SRL.
+
+Personal data collected may be processed by subjects or categories of subjects acting as data processors. Furthermore, for some services, data may be disclosed to companies that collaborate or use the services of the Data Controller with the sole intention of providing the services requested by the User. In these cases, the Partners are independent owners; therefore, the Owner is not responsible for the processing of data by them. Also, the Data Controller is not responsible for the content and compliance with data protection legislation of websites, applications, and platforms that are not managed by the Data Controller.
+
+RIGHTS OF THE DATA SUBJECT
+The User, as the data subject, has the right to exercise specific rights regarding their personal data. In particular, the data subject has the right to obtain:
+
+confirmation of the existence or non-existence of personal data concerning them, even if they are not yet registered, in a concise, transparent, intelligible, and easily accessible form, using clear and simple language;
+the origin of personal data;
+the purposes and methods of processing;
+the legitimate interests pursued by the Data Controller or third parties;
+any recipients or categories of recipients of personal data;
+the retention period of personal data;
+identification details of the Data Controller, Data Processors, any designated Representatives, and the Data Protection Officer (DPO);
+subjects and categories of subjects to whom personal data may be communicated or who may become aware of it as designated representatives in the state, directors, or agents;
+the updating, rectification, or, when interested, integration of data;
+the ability to lodge a complaint with a supervisory authority;
+the deletion, transformation into anonymous form, or blocking of data processed in violation of the law, including data that need not be retained for the purposes for which the data were collected or subsequently processed;
+the limitation of processing;
+the portability of personal data concerning them to another Data Controller.
+DATA PROCESSOR AND DATA PROTECTION OFFICER
+To exercise the rights mentioned above, the data subject may contact the Data Controller and/or the Data Protection Officer at any time for any communication regarding the processing of Personal Data or to know the updated list of any Processors designated by the Company, by sending a communication to the contact persons listed below:
+
+Data Controller: 'Shunea - IT Projects' SRL (iShunea Tech Solutions) easyreserv@ishunea.io.
+
+CHANGES
+This information may be subject to changes. To keep Users informed, the Data Controller invites Users to periodically visit this page. Furthermore, in the event that such changes have an impact on User data (e.g., if the Data Controller intends to process User personal data for purposes other than those previously communicated in this Information), the Data Controller will inform Users before the changes take effect, by publishing them with the utmost emphasis on your website and application.

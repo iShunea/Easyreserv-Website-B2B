@@ -1,0 +1,75 @@
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Planifici programul pe specialiști (stilist, colorist, barber, cosmetician), ture, pontaj și comision. Ținte/bonusuri și vizibilitate pe performanță.
+
+Management financiar precis
+Închidere de zi corectă, evidență încasări/plăți, vânzări pe servicii & produse retail, rapoarte pe comisioane.
+
+Profiluri complete de clienți
+Istoric vizite, tehnici & nuanțe folosite, alergeni, poze înainte/după, preferințe. Experiență personalizată la fiecare revenire.
+
+Configurare flexibilă a afacerii
+Servicii, durate, timpi tampon, resurse (scaun/sală/aparat), prețuri diferențiate pe specialist. Roluri & permisiuni.
+
+Meniu de servicii & pachete
+Coafor, colorare, tratamente, manichiură/pedichiură, barbering, epilare, cosmetică – cu pachete și opționale (tratament, masaj scalp etc.).
+
+Stocare facilă documente
+Contracte, consimțăminte, fișe client, facturi – stocate sigur, acces rapid când ai nevoie.
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Venit/oră pe specialist, rata de ocupare, servicii profitabile, vânzare retail, CLV & frecvență vizite. Decizii pe date, nu pe intuiție.
+
+Flux comenzi/servicii fluent
+Programare → confirmare → execuție → încasare → recomandare/următoarea vizită. Mai puține întârzieri, clienți mai mulțumiți.
+
+Managementul stocurilor și aprovizionării
+
+Consum pe serviciu (rețetar)
+Scădere automată pentru vopsele, oxidant, tratamente, consumabile. Alerte „low stock”, inventare ghidate.
+
+Managementul furnizorilor
+Liste de prețuri, comenzi, recepții – ai materiale la timp și costuri sub control.
+
+Logistică internă (multi-locație)
+Transfer produse între saloane, trasabilitate lot/expirare pentru siguranță și conformitate.
+
+Implicarea clienților și marketing
+
+Programări & remindere automate
+Confirmări prin SMS/Email/Push, reamintiri inteligente, reprogramare rapidă. No-show ↓ semnificativ.
+
+Abonamente & pachete
+Ședințe recurente (coafor, manichiură, tratamente), carduri cadou, punch-card. Recurență și venit stabil.
+
+Marketing țintit
+Campanii pe segmente (serviciu preferat, frecvență, zile scurse), recomandări post-serviciu, review & before/after.
+
+Loyalty & recomandări
+Puncte, discounturi de fidelitate, referral (client nou prin recomandare). Crește baza de clienți „calzi”.
+
+Operațiuni specifice salonului
+
+Calendar resurse fără suprapuneri
+Alocare pe specialist/scaun/sală/aparat; timpi tampon între servicii; lanțuri de servicii (ex.: colorare → spălare → styling).
+
+POS & retail integrat
+Servicii + produse pe același bon, split & tipuri de plată, retururi ușoare, comisioane automatizate pe specialist.
+
+Galerie & consult
+Poze înainte/după, notițe de diagnostic, recomandări pentru următoarea vizită – direct în profilul clientului.
+
+Micro-impact (de comunicat pe pagină)
+
+No-show ↓ 20–40% (confirmări & remindere automate)
+
+Recurență ↑ cu abonamente/pachete și recomandări personalizate
+
+Timp de planificare ↓ datorită calendarului pe resurse și timpi tampon
+
+Marjă controlată prin rețetar și alerte „low stock”
+
+Vânzare retail ↑ (servicii + produse într-un singur flux POS)

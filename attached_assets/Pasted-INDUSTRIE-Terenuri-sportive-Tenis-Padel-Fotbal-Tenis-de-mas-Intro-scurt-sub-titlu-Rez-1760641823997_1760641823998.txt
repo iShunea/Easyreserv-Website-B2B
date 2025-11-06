@@ -1,0 +1,95 @@
+INDUSTRIE: Terenuri sportive (Tenis / Padel / Fotbal / Tenis de masă)
+✅ Intro scurt (sub titlu)
+
+Rezervări rapide pentru terenuri și antrenori, programare din mobil, abonamente, notificări și plăți online. Automatizează gestionarea resurselor — terenuri, echipamente, lumini — și optimizează gradul de ocupare zilnic.
+
+📋 Acordion (funcționalități principale)
+1) Rezervări inteligente (Web & Mobile)
+
+Rezervare terenuri, terenuri multiple, antrenori, echipamente (mingi, rachete) cu orar clar.
+Impact: ocupare completă în orele de vârf, mai puține goluri în program.
+
+2) POS fiscal & comenzi rapide
+
+Vânzare de ore, abonamente, apă, echipamente, accesorii direct din POS.
+Impact: +15% venit din produse auxiliare.
+
+3) Operațiuni & Calendar
+
+Calendar multi-teren, administrare antrenori, meciuri, turnee și închiriere nocturnă.
+Impact: mai puține conflicte de program, ocupare eficientă 100%.
+
+4) Stocuri & Inventar
+
+Gestionare echipamente, mingi, detergenți, accesorii, mentenanță teren.
+Impact: control complet asupra consumabilelor.
+
+5) Rapoarte & KPI
+
+Rapoarte zilnice pe ocupare teren, venit/teren, abonamente active și retenție clienți.
+Impact: decizii pe bază de date, nu pe estimări.
+
+6) Automatizări & Notificări
+
+Confirmări automate, reamintiri, alerte vreme, și pachete promo (ex: Happy Hour).
+Impact: reducere anulări spontane, creștere rebooking.
+
+7) Management echipă & permisiuni
+
+Ture, antrenori, staff întreținere, salarii și bonusuri în funcție de ore prestate.
+
+8) Plăți & Contabilitate
+
+Plată card, QR, cash, integrare contabilă, facturi automate pentru cluburi & persoane.
+
+💰 Pricing (context)
+
+Pachet standard cu module: rezervări + calendar + plăți.
+Add-ons: POS vânzări, abonamente recurente, raportare extinsă.
+Trial gratuit pentru o locație (max. 4 terenuri).
+
+🔵 INDUSTRIE: Spălătorii Auto (manuale, automate, self-service)
+✅ Intro scurt (sub titlu)
+
+De la programări și plăți online la evidența angajaților, consumabilelor și rapoartelor zilnice. EasyReserv automatizează fluxul din spălătorii — de la rezervare până la încasare, optimizând timpii și rotația rampelor.
+
+📋 Acordion (funcționalități principale)
+1) Rezervări inteligente (Web & Mobile)
+
+Programare online pe rampă și tip de serviciu (exterior, interior, complet).
+Impact: −30% timpi morți, flux constant de clienți.
+
+2) POS fiscal & comenzi rapide
+
+Selectare servicii + extra (ceară, motor, tapițerie), bon fiscal, discounturi, promoții.
+Impact: creștere medie 12% a valorii bonului.
+
+3) Calendar & Operațiuni
+
+Planificare rampă, timp estimat, status („în lucru”, „gata”), alocare personal.
+Impact: transparență completă și viteză la procesare.
+
+4) Stocuri & Rețetare (consumabile)
+
+Scădere automată detergent, ceară, microfibre, filtre; alerte „low stock”.
+Impact: control pe cost/lucrare, eliminare pierderi.
+
+5) Rapoarte & KPI în timp real
+
+Număr spălări, venit/rampă, consum/lucrare, top servicii, ore de vârf.
+Impact: management performant, decizii bazate pe date.
+
+6) Automatizări & Notificări
+
+SMS „Mașina ta este gata”, reminder programare, pachete recurente.
+Impact: +20% recurență clienți.
+
+7) Management echipă & permisiuni
+
+Fiecare spălător își vede lucrarea, pontaj automat, comision per lucrare.
+Impact: motivație și productivitate crescute.
+
+8) Plăți & Integrare contabilă
+
+POS, QR, numerar, export 1C, reconciliere încasări zilnice.
+Impact: închidere zi fără erori și rapoarte instant.

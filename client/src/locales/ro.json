@@ -1,0 +1,1576 @@
+{
+  "nav": {
+    "about": "Despre noi",
+    "solutions": "Soluții",
+    "solutions_software": "Soluții Software",
+    "hardware": "Hardware",
+    "pricing": "Prețuri",
+    "blog": "Blog",
+    "contact": "Contact",
+    "sign_in": "Sign In",
+    "menu": "Meniu",
+    "language": "RO"
+  },
+  "footer": {
+    "description": "EasyReserv este o platformă All-in-One pentru rezervări, POS fiscal, operațiuni și rapoarte — optimizată pentru restaurante, cafenele, beauty, hoteluri & pensiuni, chirii auto, fitness, medical și retail. Conectează echipa și datele într-un singur loc, cu integrări 1C și plăți.",
+    "about_us": "About Us",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "privacy_policy": "Privacy Policy",
+    "cookies_policy": "Cookies Policy",
+    "terms_conditions": "Terms & Conditions",
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "available_on": "Disponibil pe",
+    "copyright": "All rights reserved.",
+    "developed_by": "Developed by",
+    "developer_name": "iShunea Tech Solutions"
+  },
+  "hero": {
+    "title": "De la Rezervări la POS, Rapoarte și Automatizări — într-o singură platformă",
+    "description": "O singură platformă pentru rezervări, POS, operațiuni și analitică — creată pentru restaurante, cafenele, saloane de frumusețe, barbershopuri, hotele, pensiuni, chirii auto, fitness, medical, retail. Configurezi roluri, meniuri/servicii și pornești fluxurile cu go-live rapid. Automatizările reduc timpii și cresc conversiile, iar dashboardurile îți arată situația pe loc, pe zi sau pe lună. Integrezi contabilitatea, plățile și notificările fără a schimba hardware-ul.",
+    "cta_button": "Începe perioada de probă",
+    "features": "All-in-One • POS disponibil • Fiscal ready • Go-live rapid"
+  },
+  "stats": {
+    "founded": "ÎNFIINȚAT",
+    "founded_value": "2023",
+    "professionals": "PROFESIONIȘTI DE RENUME",
+    "professionals_value": "15+",
+    "years": "ANI",
+    "widgets": "WIDGETURI EASYRESERV CREATE",
+    "widgets_value": "101+",
+    "locations": "LOCAȚII AU FOLOSIT PRODUSUL ÎN PRIMUL AN",
+    "locations_value": "40",
+    "time_optimized": "DIN TIMPUL ANGAJAȚILOR POATE FI OPTIMIZAT",
+    "time_optimized_value": "30%+",
+    "notifications": "NOTIFICĂRI SUNT TRIMISE LUNAR",
+    "notifications_value": "80,000",
+    "users": "UTILIZATORI ÎN PLATFORMĂ",
+    "users_value": "4,600+"
+  },
+  "features_section": {
+    "title": "Cele mai bune funcționalități",
+    "request_demo": "Solicită Demo",
+    "industries": {
+      "restaurante": "Restaurante",
+      "cafenele": "Cafenele",
+      "saloane": "Saloane de frumusețe",
+      "barbershop": "Barbershopuri",
+      "hotel": "Hotele & Pensiuni",
+      "chirii-auto": "Chirii auto",
+      "fitness": "Fitness",
+      "medical": "Medical",
+      "retail": "Retail",
+      "terenuri-sportive": "Terenuri sportive",
+      "spalatorii-auto": "Spălătorii Auto"
+    }
+  },
+  "about": {
+    "title": "Despre EasyReserv",
+    "paragraph1": "Am început cu o întrebare simplă: de ce e atât de complicat să faci o rezervare online? Când am conectat primul formular la un restaurant, am realizat că rezervarea e doar vârful aisbergului. Lipseau legăturile dintre rezervări, casă (POS), bucătărie, stocuri, contabilitate și rapoarte.",
+    "paragraph2": "De aici a pornit EasyReserv: o platformă All-in-One care aduce totul la un loc — rezervări și waitlist, POS fiscal, comenzi & KDS, stocuri & rețetare (COGS), rapoarte în timp real și automatizări. Am construit-o pentru echipe reale, cu go-live în zile, nu luni, integrare cu 1C și plăți, fără să schimbi hardware-ul.",
+    "paragraph3": "Astăzi optimizăm operațiuni în industrii diverse: restaurante și cafenele, saloane & barbershop, hoteluri & pensiuni, chirie auto, fitness & wellness, medical și retail. Misiunea noastră rămâne aceeași: mai puține sisteme, mai puține erori, decizii mai bune pe date reale – ca tu să vinzi mai mult și echipa să lucreze mai simplu."
+  },
+  "partners": {
+    "title": "Partenerii noștri",
+    "description": "Un ecosistem de încredere pentru plăți, contabilitate, hardware fiscal și comunicare."
+  },
+  "cta": {
+    "optimize_business": "Optimizează-ți afacerea chiar azi!",
+    "become_partner": "Devino partener",
+    "all_in_one": "All-in-One & rezultate",
+    "unlock_future": "Dezleagă viitorul managementului de business",
+    "unlock_description": "Treci la o platformă All-in-One pentru rezervări, POS, stocuri, rapoarte și automatizări. Simplifici fluxurile, reduci timpii morți și iei decizii pe date reale. Alătură-te companiilor care și-au crescut veniturile și controlul operațional cu EasyReserv.",
+    "start_journey": "Începe călătoria ta",
+    "request_demo": "Solicită demo"
+  },
+  "mobile_app": {
+    "title": "Aplicația mobilă EasyReserv",
+    "description": "Ia operațiunile cu tine, în teren sau în sală. Procesezi rezervări, emiți bonuri, urmărești comenzi și inventar, iar dashboard-urile îți arată vânzările și KPI-urile în timp real. Notificările te anunță când sunt întârzieri, comenzi gata sau stocuri pe cale să se termine. Funcționează pe iOS și Android, cu permisiuni pe roluri pentru ospătari, casieri, manageri sau tehnicieni.",
+    "available_on": "Disponibil pe"
+  },
+  "features": {
+    "restaurante": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Booking online + hartă mese, waitlist și confirmări automate → −20–35% no-shows." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Bon fiscal, split note, meniuri/combos, mod offline, imprimante multiple." },
+      "digital-kitchen": { "title": "Bucătărie digitală & Timere (KDS)", "content": "Tichete pe ecran, countdown per fel, alerte 'late' → −25% timp de servire." },
+      "inventory-cogs": { "title": "Stocuri & Rețetare (COGS)", "content": "Scădere automată la vânzare, rețetar și inventar ghidat → 0 erori la final." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Vânzări, marjă, rotație mese, timpi servire, comparații pe locații." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Confirmări/remindere, '5 min rămase', alerte stoc & 'late'." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "cafenele": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Pre-comenzi din mobil și ridicare la oră fixă, cozi mai scurte în orele de vârf." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Vânzare ultra-rapidă cu preset-uri; bon fiscal în <2 secunde." },
+      "operations": { "title": "Operațiuni & Pregătire", "content": "Ecran barista/patiserie, prioritizare automată pe comenzi rapide." },
+      "inventory-cogs": { "title": "Stocuri & Ingrediente", "content": "Dozare ingrediente, alerte 'low stock' pentru orele de vârf." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Vânzări pe oră/produse, waste, productivitate casieri." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Ready-for-pickup, happy hour, push la off-peak." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "saloane": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Programări cu selectare specialist/serviciu, pachete și abonamente." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Pachete/abonamente, vânzare produse retail, pontaj servicii." },
+      "operations": { "title": "Calendar operațional", "content": "Calendar operațional pe fotolii/săli, timp ocupat vs liber." },
+      "inventory-cogs": { "title": "Stocuri & Consum", "content": "Consum pe serviciu (vopsea, tratamente), inventar trasabil." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Venit/ora specialist, rate no-show, top servicii & CLV." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Reamintiri înainte/după, follow-up recurență." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "barbershop": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Programări cu selectare specialist/serviciu, pachete și abonamente." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Pachete/abonamente, vânzare produse retail, pontaj servicii." },
+      "operations": { "title": "Calendar operațional", "content": "Calendar operațional pe fotolii/săli, timp ocupat vs liber." },
+      "inventory-cogs": { "title": "Stocuri & Consum", "content": "Consum pe serviciu (vopsea, tratamente), inventar trasabil." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Venit/ora specialist, rate no-show, top servicii & CLV." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Reamintiri înainte/după, follow-up recurență." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "hotel": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Calendar camere, restricții smart (min-stay/late-checkout), cereri speciale." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Încasare camere + extra-servicii (mic dejun, spa), taxe locale din POS." },
+      "operations": { "title": "Housekeeping & Mentenanță", "content": "Taskboard housekeeping & mentenanță cu statusuri live." },
+      "inventory-cogs": { "title": "Stocuri & Consumabile", "content": "Consum pe cameră (mini-bar, consumabile), stocuri pe zone." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "ADR, RevPAR, ocupare, canale & pachete." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Pre-check-in, upsell (late checkout/spa), review post-sejur." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "chirii-auto": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Rezervare vehicul pe interval, extra-opțiuni (scaun copil, GPS), depozit." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Facturare cu depozit, extra-kilometri, asigurări și accesorii pe linie." },
+      "operations": { "title": "Planificare & Service", "content": "Planificare revizii/ITP, status disponibil/în service/închiriat." },
+      "inventory-cogs": { "title": "Stocuri & Piese", "content": "Piese/consumabile, stoc accesorii (lanțuri, scaune, suporturi)." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Utilizare flotă, venit/vehicul, cost/km, downtime." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Reminder ridicare/return, alerte depășire orar/kilometri." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "fitness": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Rezervări la clase, locuri limitate, listă de așteptare și check-in din aplicație." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Abonamente, freeze, top-up credit, PT/masaj pe bon." },
+      "operations": { "title": "Capacitate & Program", "content": "Capacitate sală, program antrenori, ocupare pe intervale." },
+      "inventory-cogs": { "title": "Stocuri & Consumabile", "content": "Stoc suplimente & proshop, consumabile spa." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Retenție, frecvență, încărcare clase, venit/abonat." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Reamintiri clase, freeze expirare, reactivare." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "medical": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Programări pe medic/specialitate/sală, chestionar pre-vizită și reamintiri." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Servicii compuse, coplată, tipuri de plată diverse pe același bon." },
+      "operations": { "title": "Flux pacient & Cabinet", "content": "Flux recepție → investigație → încasare, timp mediu per serviciu." },
+      "inventory-cogs": { "title": "Stocuri & Materiale medicale", "content": "Loturi/expirări, trasabilitate materiale & consumabile." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Venit/medic, servicii profitabile, timpi de așteptare." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Remindere vizită, pregătire analiză, follow-up." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "retail": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Sloturi de ridicare/instalare, programare consultanță în showroom." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Discounturi promo, bundle-uri, retururi și schimb pe bon." },
+      "operations": { "title": "Operațiuni zilnice", "content": "Taskuri zilnice pentru recepție marfă, facing, etichetare." },
+      "inventory-cogs": { "title": "Stocuri & Inventar", "content": "Coduri de bare, recepții rapide, inventare parțiale, FIFO." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Marjă pe SKU, rotație, shrink, coș mediu." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Stoc revenit, coș abandonat, cupoane segmentate." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid." },
+      "payments-accounting": { "title": "Plăți & Integrare soft de contabilitate", "content": "Plăți card/online, export 1C, reconciliere, documente fiscale." }
+    },
+    "terenuri-sportive": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Rezervare terenuri, terenuri multiple, antrenori, echipamente (mingi, rachete) cu orar clar." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Vânzare de ore, abonamente, apă, echipamente, accesorii direct din POS." },
+      "operations": { "title": "Operațiuni & Calendar", "content": "Calendar multi-teren, administrare antrenori, meciuri, turnee și închiriere nocturnă." },
+      "inventory-cogs": { "title": "Stocuri & Inventar", "content": "Gestionare echipamente, mingi, detergenți, accesorii, mentenanță teren." },
+      "real-time-reports": { "title": "Rapoarte & KPI", "content": "Rapoarte zilnice pe ocupare teren, venit/teren, abonamente active și retenție clienți." },
+      "automations": { "title": "Automatizări & Notificări", "content": "Confirmări automate, reamintiri, alerte vreme, și pachete promo (ex: Happy Hour)." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Ture, antrenori, staff întreținere, salarii și bonusuri în funcție de ore prestate." },
+      "payments-accounting": { "title": "Plăți & Contabilitate", "content": "Plată card, QR, cash, integrare contabilă, facturi automate pentru cluburi & persoane." }
+    },
+    "spalatorii-auto": {
+      "smart-reservations": { "title": "Rezervări inteligente (Web & Mobile)", "content": "Programare online pe rampă și tip de serviciu (exterior, interior, complet)." },
+      "fiscal-pos": { "title": "POS fiscal & comenzi rapide", "content": "Selectare servicii + extra (ceară, motor, tapițerie), bon fiscal, discounturi, promoții." },
+      "operations": { "title": "Calendar & Operațiuni", "content": "Planificare rampă, timp estimat, status ('în lucru', 'gata'), alocare personal." },
+      "inventory-cogs": { "title": "Stocuri & Rețetare (consumabile)", "content": "Scădere automată detergent, ceară, microfibre, filtre; alerte 'low stock'." },
+      "real-time-reports": { "title": "Rapoarte & KPI în timp real", "content": "Număr spălări, venit/rampă, consum/lucrare, top servicii, ore de vârf." },
+      "automations": { "title": "Automatizări & Notificări", "content": "SMS 'Mașina ta este gata', reminder programare, pachete recurente." },
+      "team-management": { "title": "Management echipă & permisiuni", "content": "Fiecare spălător își vede lucrarea, pontaj automat, comision per lucrare." },
+      "payments-accounting": { "title": "Plăți & Integrare contabilă", "content": "POS, QR, numerar, export 1C, reconciliere încasări zilnice." }
+    }
+  },
+  "faq_section": {
+    "title": "Ce este EasyReserv?",
+    "description": "EasyReserv este o platformă All-in-One pentru rezervări, POS fiscal, comenzi/KDS, stocuri & rețetare, rapoarte în timp real și automatizări. E construită pe fluxuri optimizate pe industrie (restaurante, cafenele/kiosk, beauty, hoteluri/pensiuni, chirii auto, fitness, medical, retail) și se integrează rapid cu 1C, plăți și hardware-ul existent.",
+    "items": [
+      {
+        "question": "Pot accesa EasyReserv atât pe web cât și pe dispozitive mobile?",
+        "answer": "Da, EasyReserv este disponibil atât ca aplicație web (desktop și tabletă) cât și ca aplicație mobilă nativă pentru iOS și Android. Poți accesa toate funcționalitățile platformei de pe orice dispozitiv, cu sincronizare în timp real între toate device-urile tale."
+      },
+      {
+        "question": "Cât durează implementarea platformei EasyReserv?",
+        "answer": "Implementarea EasyReserv durează între 2-5 zile în funcție de complexitatea afacerii tale. Echipa noastră te asistă la fiecare pas: configurare inițială, import date, training echipă și go-live. Nu trebuie să schimbi hardware-ul existent."
+      },
+      {
+        "question": "Se integrează EasyReserv cu sistemul meu de contabilitate?",
+        "answer": "Da, EasyReserv se integrează nativ cu principalele sisteme de contabilitate precum 1C, SAP și alte soluții populare. Exportul de facturi, vânzări și rapoarte financiare se face automat, eliminând introducerea manuală a datelor."
+      },
+      {
+        "question": "Oferă EasyReserv suport tehnic și training pentru echipa mea?",
+        "answer": "Absolut! Oferim suport tehnic 24/7 prin chat, email și telefon. La implementare, includem sesiuni de training pentru întreaga echipă: manageri, casieri, ospătari și bucătari. Plus acces la baza noastră de cunoștințe și tutoriale video."
+      },
+      {
+        "question": "Pe ce dispozitive pot folosi EasyReserv?",
+        "answer": "Web (desktop/laptop) și mobil (iOS/Android). Avem și extensii dedicate (ex. smartwatch pentru ospătari) și suport pentru imprimante/scanere compatibile."
+      },
+      {
+        "question": "Aveți POS fiscal disponibil?",
+        "answer": "Da. POS-ul EasyReserv emite bon fiscal, suportă split note, reduceri, mod offline și imprimante multiple. Se conectează cu stocurile și rapoartele în timp real."
+      },
+      {
+        "question": "Cum mă ajută pe industria mea?",
+        "answer": "Avem optimizări pe industrie: de la timere KDS și rotație mese în restaurante, la abonamente & programări în beauty/fitness, ocupare camere în hoteluri, tarifare pe interval la chirii auto, loturi/expirări în medical și coduri de bare în retail."
+      },
+      {
+        "question": "Trebuie să schimb hardware-ul?",
+        "answer": "De regulă, nu. Lucrăm cu tablete/PC-uri curente și imprimante compatibile. Dacă e nevoie, recomandăm modele testate de noi."
+      },
+      {
+        "question": "Se integrează cu 1C și plăți cu cardul?",
+        "answer": "Da. Export contabil în 1C, reconciliere documente și integrare cu procesatori de plată (online & la POS), plus SMS/Email pentru notificări."
+      },
+      {
+        "question": "Ce rapoarte oferă platforma?",
+        "answer": "Vânzări, marje, rotație mese, timpi de servire, productivitate angajați, KPI pe locații/perioade, COGS pe rețetă, utilizare resurse (vehicul/sală/aparat) – live."
+      },
+      {
+        "question": "Cum reduceți no-show-urile și întârzierile?",
+        "answer": "Cu confirmări & remindere automate, waitlist, alerte \"5 min rămase\", timere pe producție și notificări pentru comenzi gata/întârziate."
+      },
+      {
+        "question": "Ce planuri de preț aveți? (ex. Restaurante)",
+        "answer": "Abonament per locație + add-ons pe utilizator/modul. Pentru Restaurante: Basic €50, Standard €125, Pro €200, Enterprise la cerere – toate cu trial gratuit. (Pentru alte industrii, planurile apar după ce selectezi industria.)"
+      },
+      {
+        "question": "Datele mele sunt în siguranță?",
+        "answer": "Da. Acces pe roluri, audit log, criptare în tranzit, backupuri regulate și export de date la cerere. Tu ești proprietarul datelor tale."
+      },
+      {
+        "question": "Ce suport oferiți?",
+        "answer": "Onboarding asistat, training pentru echipă, suport prioritar pe email/chat/telefon și materiale de lucru (ghiduri & video)."
+      },
+      {
+        "question": "Pot migra ușor din alt sistem?",
+        "answer": "Da. Importăm meniuri/servicii, clienți, stocuri și istorice esențiale din fișiere sau prin integrări, cu verificări la pre-go-live."
+      },
+      {
+        "question": "Pot începe gratuit?",
+        "answer": "Da. Oferim perioadă de probă pe o locație ca să testezi fluxurile înainte de contractare."
+      },
+      {
+        "question": "Se poate personaliza pentru nevoile mele?",
+        "answer": "În afară de setările standard, avem add-ons și automatizări configurabile; pentru cerințe avansate, oferim proiecte Enterprise."
+      }
+    ]
+  },
+  "what_is_section": {
+    "title": "Ce este EasyReserv?",
+    "description": "EasyReserv este o soluție completă pentru gestionarea și optimizarea afacerii tale. Rezervări mobile, management angajați, rapoarte business, management inventar și multe alte funcționalități sunt disponibile. Poți economisi timp, crește vânzările, îmbunătăți experiența clienților, reduce costurile și crește productivitatea folosind platforma noastră.",
+    "faq": {
+      "q1": {
+        "question": "Pot accesa EasyReserv atât pe web cât și pe dispozitive mobile?",
+        "answer": "Da, EasyReserv este disponibil atât ca aplicație web (desktop și tabletă) cât și ca aplicație mobilă nativă pentru iOS și Android. Poți accesa toate funcționalitățile platformei de pe orice dispozitiv, cu sincronizare în timp real între toate device-urile tale."
+      },
+      "q2": {
+        "question": "Cât durează implementarea platformei EasyReserv?",
+        "answer": "Implementarea EasyReserv durează între 2-5 zile în funcție de complexitatea afacerii tale. Echipa noastră te asistă la fiecare pas: configurare inițială, import date, training echipă și go-live. Nu trebuie să schimbi hardware-ul existent."
+      },
+      "q3": {
+        "question": "Se integrează EasyReserv cu sistemul meu de contabilitate?",
+        "answer": "Da, EasyReserv se integrează nativ cu principalele sisteme de contabilitate precum 1C, SAP și alte soluții populare. Exportul de facturi, vânzări și rapoarte financiare se face automat, eliminând introducerea manuală a datelor."
+      },
+      "q4": {
+        "question": "Oferă EasyReserv suport tehnic și training pentru echipa mea?",
+        "answer": "Absolut! Oferim suport tehnic 24/7 prin chat, email și telefon. La implementare, includem sesiuni de training pentru întreaga echipă: manageri, casieri, ospătari și bucătari. Plus acces la baza noastră de cunoștințe și tutoriale video."
+      }
+    }
+  },
+  "about_page": {
+    "hero": {
+      "title_part1": "Cum se diferențiază ",
+      "title_highlight": "EasyReserv",
+      "title_part2": " pe piață?",
+      "description": "Platforma se configurează pentru afacerea ta în câteva ore: e suficient să creezi locația, să adaugi servicii sau meniu — și poți începe lucrul. Go-Live se realizează fără integrări complexe sau implementări îndelungate.",
+      "cta": "Solicită Demo"
+    },
+    "story": {
+      "title": "Povestea noastră",
+      "paragraph1": "Într-o seară de ianuarie 2023, Elena Roșca a pus întrebarea care a aprins fitilul: \"De ce în Chișinău e aproape imposibil să faci o rezervare online la restaurante?\"",
+      "paragraph2": "Răspunsul n-a fost un \"încă un formular\". Împreună cu Alexandru Iaroslavschi, am documentat pas cu pas cum ar trebui să arate procesul digital de rezervare: de la solicitare, confirmare și alocarea mesei, până la notificări și actualizarea automată a disponibilității. În timp ce mapam fluxul, ne-a lovit realitatea: rezervarea este doar începutul. POS-ul, bucătăria (KDS), stocurile, contabilitatea și rapoartele trăiau în insule separate.",
+      "paragraph3": "Așa s-a născut EasyReserv — ideea unei platforme care leagă rezervările de operațiuni în timp real, pentru ca echipele să lucreze mai repede și cu mai puține erori.",
+      "timeline_title": "Cronologie",
+      "timeline_day1": "Aprilie 2023",
+      "timeline_day1_text": "Primul flow de rezervare (solicitare → confirmare).",
+      "timeline_month3": "Iunie 2023",
+      "timeline_month3_text": "Începem web app-ul care centralizează datele (în paralel cu dezvoltarea mobile).",
+      "timeline_month8": "Noiembrie 2023",
+      "timeline_month8_text": "Prima versiune de Mobile App (beta) pentru clienți pilot.",
+      "timeline_month13": "Martie 2024",
+      "timeline_month13_text": "Mobile App în producție; în primele 48h, intrăm în Top 2 la rating în categoria ei.",
+      "timeline_month14": "Aprilie 2024",
+      "timeline_month14_text": "Integrare POS fiscal: bon, split note, reduceri, imprimante.",
+      "timeline_month18": "August 2024",
+      "timeline_month18_text": "Primul restaurant full-cycle în ecosistem (rezervări → POS → KDS → stocuri → rapoarte) cu ~30.000 € profit suplimentar după lansare.",
+      "timeline_month20": "Octombrie 2024",
+      "timeline_month20_text": "Extindem cu KDS & Timere, Stocuri & Rețetare (COGS), Rapoarte live, Automatizări & Notificări și integrări locale.",
+      "who_we_are_title": "Cine suntem azi",
+      "who_we_are_text": "EasyReserv este o platformă All-in-One care unește rezervări, POS, comenzi/KDS, stocuri & rețetare, rapoarte în timp real și automatizări — plus o platformă publică de listare a partnerilor & booking B2C, ca utilizatorii să descopere și să rezerve direct. Go-live în zile, nu luni, integrare 1C și plăți, compatibilitate cu hardware existent.",
+      "optimizations_title": "Optimizări pe industrie",
+      "optimizations_text": "Restaurante & cafenele/kiosk, saloane & barbershop, hoteluri & pensiuni, chirii auto, fitness & wellness, medical (clinici/cabinete), retail — fiecare cu fluxuri și KPI dedicate (timere KDS, abonamente, tarife pe interval, ocupare resurse, loturi/expirări, coduri de bare etc.).",
+      "impact_title": "Impact",
+      "impact_text": "40 locații în primul an • 4.600+ utilizatori • 80.000+ notificări/lună • 30%+ timp optimizat pentru echipe • 99.9% uptime.",
+      "mission_title": "Misiune",
+      "mission_text": "Să simplificăm operațiunile și să creștem profitabilitatea, legând rezervările de procesele zilnice și automatizând repetitivul, cu vizibilitate în timp real pentru decizii pe date — nu pe presupuneri.",
+      "start_journey_cta": "Începe călătoria ta"
+    },
+    "stats": {
+      "founded_label": "ÎNFIINȚAT",
+      "founded_value": "2023",
+      "professionals_label": "PROFESIONIȘTI DE RENUME",
+      "professionals_value": "15+",
+      "years_label": "ANI",
+      "widgets_label": "WIDGETURI EASYRESERV CREATE",
+      "widgets_value": "101+"
+    },
+    "why_choose": {
+      "title": "De ce să ne alegi?",
+      "reason1_title": "Simplificăm operațiunile",
+      "reason1_text": "All-in-One pentru rezervări, POS, KDS, stocuri, rapoarte și automatizări. Mai puține sisteme, mai puține erori, −30% timp operațional.",
+      "reason2_title": "Atragere & conversie clienți",
+      "reason2_text": "Platformă publică de listare & booking B2C, remindere anti no-show, loyalty și campanii. Mai multe rezervări, reveniri și vânzări.",
+      "reason3_title": "Decizii pe date reale",
+      "reason3_text": "KPI live (vânzări, COGS, timpi, rotație), alerte 'late'/'low stock' și rapoarte pe locații. Vizibilitate completă, acțiuni rapide.",
+      "reason4_title": "Implementare rapidă & suport local",
+      "reason4_text": "Go-live în zile, integrare 1C & plăți, compatibil cu hardware existent. Suport dedicat — de la onboarding la scalare."
+    },
+    "transform": {
+      "title": "Ești gata să-ți transformi afacerea?",
+      "paragraph1": "Alătură-te nouă și intră într-o nouă eră a eficienței și creșterii. Într-o lume în care schimbarea este singura constantă, să fii cu un pas înainte nu e o opțiune – e o necesitate.",
+      "paragraph2": "Hai să construim împreună un viitor mai bun pentru afacerea ta.",
+      "cta": "Află mai multe"
+    },
+    "features": {
+      "feature1_title": "Soluție completă",
+      "feature1_text": "De la rezervări la managementul echipei, îți oferim o soluție all-in-one pentru businessul tău.",
+      "feature2_title": "Securitatea datelor",
+      "feature2_text": "Datele tale sunt prioritatea noastră. Implementăm măsuri avansate de securitate pentru a le proteja.",
+      "feature3_title": "Inovație",
+      "feature3_text": "Îmbunătățim constant platforma pentru a rămâne înaintea schimbărilor din mediul de afaceri.",
+      "feature4_title": "Interfață prietenoasă",
+      "feature4_text": "Platforma este concepută pentru utilizare fără fricțiuni, atât de către proprietari, cât și de către clienții lor.",
+      "feature5_title": "Scalabilitate",
+      "feature5_text": "Pe măsură ce afacerea ta crește, crește și platforma. Suntem pregătiți să-ți susținem expansiunea.",
+      "feature6_title": "Suport 24/7",
+      "feature6_text": "Echipa noastră de suport este disponibilă non-stop pentru orice întrebare sau nelămurire."
+    },
+    "feel_difference": {
+      "title_line1": "Simte diferența",
+      "title_line2": "Astăzi!",
+      "cta": "Începe acum"
+    },
+    "optimize_cta": {
+      "title": "Începe să-ți optimizezi afacerea astăzi!",
+      "cta": "Devino partener"
+    }
+  },
+  "solutions_page": {
+    "hero": {
+      "title": "Crește-ți afacerea și",
+      "title_highlight": "eficiență",
+      "title_end": "în multiple industrii",
+      "description": "Fie că ai un restaurant, un salon sau orice alt tip de business, EasyReserv se adaptează nevoilor tale: rezervări, POS, stocuri, rapoarte și automatizări – totul într-o singură platformă.",
+      "cta": "Explorează planurile"
+    },
+    "hero_features": {
+      "feature1_title": "Eficiență în timp",
+      "feature1_description": "Concentrează-te pe livrarea serviciilor de calitate. Noi automatizăm pașii repetitivi și scurtăm timpii operaționali.",
+      "feature2_title": "Accesibilitate",
+      "feature2_description": "Ajungi la un public mai larg, inclusiv la persoane cu dizabilități, cu interfețe moderne și procese simple de rezervare.",
+      "feature3_title": "Control acces",
+      "feature3_description": "Controlează accesul angajaților în sistem prin roluri și permisiuni. Datele rămân în siguranță și respectă confidențialitatea."
+    },
+    "industries": {
+      "title": "Descoperă funcționalitățile care ne diferențiază pentru",
+      "restaurante": "Restaurante",
+      "cafenele": "Cafenele",
+      "saloane": "Saloane de frumusețe",
+      "barbershop": "Barbershopuri",
+      "hoteluri": "Hotele & Pensiuni",
+      "chirii_auto": "Chirii auto",
+      "fitness": "Fitness",
+      "medical": "Medical",
+      "retail": "Retail",
+      "spalatorii_auto": "Spălătorii auto"
+    },
+    "sections": {
+      "employee_management": "Managementul angajaților și al afacerii",
+      "business_insights": "Perspective de business și analitice",
+      "inventory_management": "Managementul stocurilor și al lanțului de aprovizionare",
+      "customer_engagement": "Implicarea clienților și marketing"
+    },
+    "restaurante": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Îți oferim instrumente ca să-ți gestionezi ușor echipa: planificarea turelor (ospătari, bucătari, bar), pontaj, performanță. Ai control complet."},
+        {"title": "Management financiar precis", "description": "Rămâi la zi cu încasările și plățile: gestiune de debit/credit, închideri corecte de zi, sănătate financiară clară pe locație."},
+        {"title": "Profiluri complete de clienți", "description": "Cunoaște-ți oaspeții și personalizează experiența: istoric rezervări, preferințe (mese, alergeni, vinuri), note pentru servire."},
+        {"title": "Configurare flexibilă a afacerii", "description": "Configurezi rapid restaurantul tău: săli/terase, plan de mese, roluri/permisiuni, fluxuri de lucru. Platforma se adaptează nevoilor tale."},
+        {"title": "Management meniuri și servicii", "description": "Creezi și actualizezi meniurile cu ușurință: categorii, prețuri, meniuri de prânz/promo, variante și opționale. Totul mereu la zi și atrăgător."},
+        {"title": "Stocare facilă a documentelor", "description": "Stochezi în siguranță documente importante: facturi, NIR-uri, contracte, dosare angajați. Task-urile administrative devin simple."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Vezi clar ce se întâmplă în restaurant: vânzări, marje, rotația meselor, timpi de servire, productivitate. Iei decizii pe date reale."},
+        {"title": "Gestionare fluentă a comenzilor", "description": "Optimizezi fluxul de comenzi din sală și livrare: preluare, transmitere la bucătărie/bar, urmărire status, predare rapidă — satisfacție mai mare a clienților."}
+      ],
+      "inventory_management": [
+        {"title": "Management eficient al stocurilor", "description": "Monitorizezi ingredientele fără efort: rețetar, scădere automată la vânzare, alerte 'low stock', inventare ghidate. Ai mereu ce trebuie pe stoc."},
+        {"title": "Managementul furnizorilor", "description": "Administrezi relațiile cu furnizorii și comanda de aprovizionare: liste de prețuri, comenzi, recepții — lanț de aprovizionare fluent."},
+        {"title": "Managementul flotei de transport", "description": "Dacă livrezi la domiciliu sau între locații, gestionezi eficient mașinile/curierii, astfel încât operațiunile să meargă lin."}
+      ],
+      "customer_engagement": [
+        {"title": "Instrument de marketing puternic", "description": "Crește vânzările cu funcțiile de marketing din aplicația mobilă: oferte, promoții, noutăți trimise direct pe telefonul clienților."},
+        {"title": "Marketing țintit", "description": "Folosești datele pentru a segmenta publicul (vârstă, interese, preferințe) și trimiți mesaje personalizate care cresc engagementul."},
+        {"title": "Rezervări simplificate", "description": "Administrezi rezervările ușor — atât pentru restaurant, cât și pentru clienți: confirmări, remindere, alocare la masă, experiență fluidă cap-coadă."}
+      ]
+    },
+    "cafenele": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Planifici turele barista/casier, pontaj și targeturi pe oră. Vizibilitate pe productivitate și timpi de servire în orele de vârf."},
+        {"title": "Management financiar precis", "description": "Închidere de zi corectă, evidență încasări/plăți, reconcilieri rapide. Vezi marja pe produs și costul ingredientelor în timp real."},
+        {"title": "Profiluri complete de clienți", "description": "Istoric comenzi (tip cafea, lapte, siropuri), preferințe & alergeni. Experiență personalizată la următoarea vizită."},
+        {"title": "Configurare flexibilă a punctului de vânzare", "description": "Case rapide, roluri & permisiuni, layout de produse pe ecran, preset-uri și shortcut-uri pentru top vânzări."},
+        {"title": "Meniu & servicii", "description": "Meniuri pe momente ale zilei (morning/afternoon), variante (mărime, lapte, shot extra), bundle-uri și oferte."},
+        {"title": "Stocare facilă documente", "description": "Facturi, NIR-uri, contracte furnizori și dosare angajați — păstrate sigur, ușor de găsit."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Vânzări pe oră/zi, top SKU, cost băutură, marjă, productivitate pe casier/barista. Decizii rapide pentru program și sortiment."},
+        {"title": "Gestionare fluentă a comenzilor", "description": "Flux sală–bar clar: comandă → preparare → 'ready for pickup'. Cozi mai scurte, predare rapidă, clienți mai mulțumiți."}
+      ],
+      "inventory_management": [
+        {"title": "Management eficient al stocurilor", "description": "Rețetar pe băuturi, scădere automată la vânzare, alerte 'low stock', inventare ghidate. Ții pierderile sub control."},
+        {"title": "Managementul furnizorilor", "description": "Comenzi de aprovizionare, liste de prețuri, recepții și trasabilitate. Ai ingredientele potrivite la timp."},
+        {"title": "Management flotă/transport (opțional)", "description": "Pentru locații multiple sau livrări: gestiune curieri, rute și transferuri între puncte."}
+      ],
+      "customer_engagement": [
+        {"title": "Instrument de marketing puternic", "description": "Promoții 'happy hour', campanii în orele mai libere, push/SMS cu oferte și noutăți — direct pe telefonul clientului."},
+        {"title": "Marketing țintit", "description": "Segmente pe frecvență, preferințe (espresso, latte, alternative vegane), cupoane personalizate care aduc reveniri."},
+        {"title": "Pre-comenzi & ridicare programată", "description": "Clientul comandă din timp și ridică la oră; tu netezești vârfurile și reduci aglomerația la tejghea."}
+      ]
+    },
+    "saloane": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Planifici programul pe specialiști (stilist, colorist, barber, cosmetician), ture, pontaj și comision. Ținte/bonusuri și vizibilitate pe performanță."},
+        {"title": "Management financiar precis", "description": "Închidere de zi corectă, evidență încasări/plăți, vânzări pe servicii & produse retail, rapoarte pe comisioane."},
+        {"title": "Profiluri complete de clienți", "description": "Istoric vizite, tehnici & nuanțe folosite, alergeni, poze înainte/după, preferințe. Experiență personalizată la fiecare revenire."},
+        {"title": "Configurare flexibilă a afacerii", "description": "Servicii, durate, timpi tampon, resurse (scaun/sală/aparat), prețuri diferențiate pe specialist. Roluri & permisiuni."},
+        {"title": "Meniu de servicii & pachete", "description": "Coafor, colorare, tratamente, manichiură/pedichiură, barbering, epilare, cosmetică – cu pachete și opționale (tratament, masaj scalp etc.)."},
+        {"title": "Stocare facilă documente", "description": "Contracte, consimțăminte, fișe client, facturi – stocate sigur, acces rapid când ai nevoie."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Venit/oră pe specialist, rata de ocupare, servicii profitabile, vânzare retail, CLV & frecvență vizite. Decizii pe date, nu pe intuiție."},
+        {"title": "Flux comenzi/servicii fluent", "description": "Programare → confirmare → execuție → încasare → recomandare/următoarea vizită. Mai puține întârzieri, clienți mai mulțumiți."}
+      ],
+      "inventory_management": [
+        {"title": "Consum pe serviciu (rețetar)", "description": "Scădere automată pentru vopsele, oxidant, tratamente, consumabile. Alerte 'low stock', inventare ghidate."},
+        {"title": "Managementul furnizorilor", "description": "Liste de prețuri, comenzi, recepții – ai materiale la timp și costuri sub control."},
+        {"title": "Logistică internă (multi-locație)", "description": "Transfer produse între saloane, trasabilitate lot/expirare pentru siguranță și conformitate."}
+      ],
+      "customer_engagement": [
+        {"title": "Programări & remindere automate", "description": "Confirmări prin SMS/Email/Push, reamintiri inteligente, reprogramare rapidă. No-show ↓ semnificativ."},
+        {"title": "Abonamente & pachete", "description": "Ședințe recurente (coafor, manichiură, tratamente), carduri cadou, punch-card. Recurență și venit stabil."},
+        {"title": "Marketing țintit", "description": "Campanii pe segmente (serviciu preferat, frecvență, zile scurse), recomandări post-serviciu, review & before/after."}
+      ]
+    },
+    "barbershop": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Planifici programul pe specialiști (stilist, colorist, barber, cosmetician), ture, pontaj și comision. Ținte/bonusuri și vizibilitate pe performanță."},
+        {"title": "Management financiar precis", "description": "Închidere de zi corectă, evidență încasări/plăți, vânzări pe servicii & produse retail, rapoarte pe comisioane."},
+        {"title": "Profiluri complete de clienți", "description": "Istoric vizite, tehnici & nuanțe folosite, alergeni, poze înainte/după, preferințe. Experiență personalizată la fiecare revenire."},
+        {"title": "Configurare flexibilă a afacerii", "description": "Servicii, durate, timpi tampon, resurse (scaun/sală/aparat), prețuri diferențiate pe specialist. Roluri & permisiuni."},
+        {"title": "Meniu de servicii & pachete", "description": "Coafor, colorare, tratamente, manichiură/pedichiură, barbering, epilare, cosmetică – cu pachete și opționale (tratament, masaj scalp etc.)."},
+        {"title": "Stocare facilă documente", "description": "Contracte, consimțăminte, fișe client, facturi – stocate sigur, acces rapid când ai nevoie."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Venit/oră pe specialist, rata de ocupare, servicii profitabile, vânzare retail, CLV & frecvență vizite. Decizii pe date, nu pe intuiție."},
+        {"title": "Flux comenzi/servicii fluent", "description": "Programare → confirmare → execuție → încasare → recomandare/următoarea vizită. Mai puține întârzieri, clienți mai mulțumiți."}
+      ],
+      "inventory_management": [
+        {"title": "Consum pe serviciu (rețetar)", "description": "Scădere automată pentru vopsele, oxidant, tratamente, consumabile. Alerte 'low stock', inventare ghidate."},
+        {"title": "Managementul furnizorilor", "description": "Liste de prețuri, comenzi, recepții – ai materiale la timp și costuri sub control."},
+        {"title": "Logistică internă (multi-locație)", "description": "Transfer produse între saloane, trasabilitate lot/expirare pentru siguranță și conformitate."}
+      ],
+      "customer_engagement": [
+        {"title": "Programări & remindere automate", "description": "Confirmări prin SMS/Email/Push, reamintiri inteligente, reprogramare rapidă. No-show ↓ semnificativ."},
+        {"title": "Abonamente & pachete", "description": "Ședințe recurente (coafor, manichiură, tratamente), carduri cadou, punch-card. Recurență și venit stabil."},
+        {"title": "Marketing țintit", "description": "Campanii pe segmente (serviciu preferat, frecvență, zile scurse), recomandări post-serviciu, review & before/after."}
+      ]
+    },
+    "hoteluri": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Planifici turele pentru recepție, housekeeping, restaurant/bar și mentenanță. Pontaj, roluri & permisiuni, task-uri zilnice și urmărirea performanței."},
+        {"title": "Management financiar precis", "description": "Închidere de zi, evidență încasări/plăți, taxe locale, rapoarte pe centre de profit (camere, mic dejun, SPA, bar/restaurant). Control pe solduri, avansuri și garanții."},
+        {"title": "Profiluri complete de oaspeți", "description": "Istoric sejururi, preferințe (tip pat, etaj, alergeni), observații speciale, motive de călătorie. Personalizare la check-in și oferte relevante la următoarea vizită."},
+        {"title": "Configurare flexibilă a proprietății", "description": "Tipuri de camere, tarife, politici (min-stay, late checkout), pachete (HB/FB), roluri & permisiuni pe echipă. Suport pentru multiple spații: camere, apartamente, săli, SPA."},
+        {"title": "Documente & contracte", "description": "Generare/stocare contracte corporate, facturi proforme, acorduri GDPR, fișe de cazare, declarații taxe — totul organizat și ușor de găsit."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Ocupare, ADR, RevPAR, venit/cameră, mix tarife, cheltuieli operaționale, performanță pe canale interne, segmentări (corporate, leisure, grupuri). Decizii zilnice pe date reale."},
+        {"title": "Flux comenzi/servicii fluent", "description": "De la rezervare la check-in, extra-servicii, consum minibar/restaurant, până la check-out și facturare — flux cap-coadă fără blocaje."}
+      ],
+      "inventory_management": [
+        {"title": "Consumabile & minibar", "description": "Stocuri pe cameră și pe punct de lucru (housekeeping, bar, bucătărie). Rețetar/consum pe produs, alerte 'low stock', transferuri între puncte, inventare ghidate."},
+        {"title": "Furnizori & achiziții", "description": "Liste de prețuri, comenzi, recepții, trasabilitate — ai consumabilele și produsele la timp, cu costuri ținute sub control."},
+        {"title": "Mentenanță & intervenții", "description": "Ticketing pentru defecțiuni, planări de revizii, istoric intervenții pe cameră/echipament. Timpul de remediere scade, experiența oaspeților crește."}
+      ],
+      "customer_engagement": [
+        {"title": "Rezervări & confirmări", "description": "Booking online direct, e-mailuri/SMS de confirmare și remindere, informări înainte de sosire (ore check-in, parcare, acces). No-show redus, oaspeți informați."},
+        {"title": "Pachete & upsell", "description": "Mic dejun, SPA, transfer, late checkout, decor aniversar — ca extra-servicii adăugate pe notă. Venitul pe cameră crește fără fricțiune."},
+        {"title": "Marketing țintit", "description": "Campanii pe segmente (corporate, cupluri, familii), voucher cadou, follow-up după plecare pentru review. Recurență și recomandări naturale."}
+      ]
+    },
+    "chirii_auto": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Planifici ture pentru agenți, operatori parcare și șoferi (delivery/pick-up), cu pontaj, roluri & permisiuni și targeturi pe locație."},
+        {"title": "Management financiar precis", "description": "Închideri de zi corecte, avansuri și depozite gestionate clar, facturi și chitanțe, reconciliere plăți și rapoarte pe centre de profit (închirieri, extra-servicii, penalități)."},
+        {"title": "Profiluri complete de clienți", "description": "KYC, date permis/pașaport, istoricul închirierilor, preferințe, incidente/penalități. Verificări rapide și sigure."},
+        {"title": "Configurare flexibilă a afacerii", "description": "Locații multiple, clase auto, politici (vârstă minimă, perioadă, franchise), tarife sezoniere/dinamice, roluri & permisiuni."},
+        {"title": "Documente & contracte", "description": "Contracte de închiriere, proces-verbal predare/primire, împuterniciri, polițe — generate, semnate electronic și stocate în siguranță."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Grad de utilizare pe vehicul/clasă, venit/km, cost/km, downtime, top extra-servicii, canale de rezervare, pierderi & debite. Decizii pe date, nu pe intuiție."},
+        {"title": "Flux comenzi fluent", "description": "Rezervare → preautorizare/depozit → predare (check-out) → monitorizare → return (check-in) → facturare/închidere. Mai puține blocaje, timp de operare mai mic."}
+      ],
+      "inventory_management": [
+        {"title": "Rezervări pe interval & tarifare dinamică", "description": "Disponibilitate în timp real, tarife pe sezon/zi/ore, kilometraj inclus, livrare/colecție, taxe de locație. Calendar clar de ocupare."},
+        {"title": "Mentenanță & daune", "description": "Planuri de revizie/ITP, alerte service, evidență piese/consumabile; dosare de daună cu poze/video, constatări și costuri. Cost/km sub control."},
+        {"title": "Consumabile & accesorii", "description": "Scaun copil, lanțuri, GPS, Wi-Fi — stocuri/transferuri, tarif pe zi și pe rezervare, inventar la predare și la return."},
+        {"title": "Telemetrie (opțional)", "description": "Integrare GPS pentru poziție, kilometraj, viteză/alerte; datele intră în fișa rezervării."}
+      ],
+      "customer_engagement": [
+        {"title": "Rezervări & confirmări", "description": "Booking online cu selecție de perioadă, clasă, asigurări și extra-opțiuni. Confirmări/remindere prin SMS/Email/Push, instrucțiuni de preluare."},
+        {"title": "Up-sell & cross-sell", "description": "Asigurări (CDW/LDW/Super), șofer adițional, roaming, livrare la adresă, fuel/full-to-full — adăugate simplu, pe notă."},
+        {"title": "Marketing țintit", "description": "Campanii pe segmente (corporate, turiști, local), cupoane și oferte sezoniere; follow-up pentru review și reînchiriere."}
+      ]
+    },
+    "fitness": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Gestionezi antrenorii, instructorii, recepționerii și terapeuții. Creezi ture, stabilești comisioane, urmărești participarea și performanța individuală."},
+        {"title": "Management financiar precis", "description": "Controlezi toate încasările: abonamente, servicii unice, extra-uri și vânzări retail (suplimente, echipamente). Rapoarte zilnice și închideri automate pe POS."},
+        {"title": "Profiluri complete de clienți", "description": "Vizualizezi istoricul antrenamentelor, abonamentele active, tipurile de clase preferate, obiectivele și progresul fiecărui client. Personalizarea devine simplă."},
+        {"title": "Configurare flexibilă a afacerii", "description": "Definire locații, săli, tipuri de clase, antrenori, servicii, abonamente, tarife și reguli de acces. Platforma se adaptează tipului tău de business: sală de fitness, wellness studio sau centru sportiv complet."},
+        {"title": "Documente și contracte", "description": "Contracte de membru, acorduri medicale și consimțăminte — generate automat și stocate electronic, accesibile instant."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Vezi în timp real vânzările, abonamentele expirate, frecvența vizitelor și ratele de retenție. Rapoartele te ajută să ajustezi programul, tarifele și campaniile."},
+        {"title": "Flux operațional fluent", "description": "De la prima înscriere până la reînnoirea abonamentului, totul se face digital: contract, plată, acces, raport. Timpul de procesare scade, satisfacția crește."}
+      ],
+      "inventory_management": [
+        {"title": "Stocuri și produse retail", "description": "Gestionezi vânzarea de suplimente, echipamente, accesorii și băuturi. Ai vizibilitate pe stocuri, alerte 'low stock' și inventare rapide."},
+        {"title": "Furnizori & achiziții", "description": "Ții evidența comenzilor și recepțiilor pentru consumabile (prosoape, soluții curățare, echipamente). Costuri predictibile și aprovizionare fără întreruperi."},
+        {"title": "Întreținerea echipamentelor", "description": "Planifici mentenanța și reviziile pe aparate, monitorizezi durata de utilizare și intervențiile efectuate."}
+      ],
+      "customer_engagement": [
+        {"title": "Programări & rezervări automate", "description": "Clienții rezervă locul la clase sau antrenamente 1:1 direct din aplicație. Confirmări și remindere automate — sălile se umplu, anulările scad."},
+        {"title": "Abonamente & freeze flexibil", "description": "Creezi abonamente adaptate: lunar, zilnic, pachet ședințe, acces full sau pe ore. Opțiune 'pauză' (freeze) și reactivare automată."},
+        {"title": "Loyalty & campanii de retenție", "description": "Recompense pentru participare constantă, puncte convertibile, oferte de reînnoire. Campanii de 'win-back' pentru membrii inactivi."},
+        {"title": "Marketing țintit", "description": "Campanii pe segmente: începători, avansați, femei, familii, wellness. Notificări push sau e-mail cu oferte personalizate și noutăți."}
+      ]
+    },
+    "medical": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Gestionezi programul medicilor, asistenților și personalului administrativ. Planifici ture, stabilești comisioane, vizibilitate completă pe ocupare și performanță."},
+        {"title": "Management financiar precis", "description": "Închideri de zi, evidență încasări/plăți, plăți parțiale, restanțe și reconciliere pe servicii, medici sau departamente. Integrare directă cu 1C pentru contabilitate fiscală."},
+        {"title": "Profiluri complete de pacienți", "description": "Fișe medicale digitale, istoric consultații, tratamente, rezultate de laborator, prescripții și observații. Totul centralizat într-un singur loc, cu acces controlat pe roluri."},
+        {"title": "Configurare flexibilă a clinicii", "description": "Definești cabinete, specializări, servicii medicale, durate și resurse (ecograf, laborator, echipă). Roluri și permisiuni personalizate pentru medici, recepție, laborator și contabilitate."},
+        {"title": "Documente și consimțăminte", "description": "Contracte, fișe de consimțământ, acorduri GDPR, trimiteri și rapoarte medicale — generate și stocate automat."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Accesezi rapoarte în timp real: număr consultații, venituri pe medic, grad de ocupare, servicii profitabile, frecvență pacienți și timp mediu de vizită."},
+        {"title": "Flux pacienți optimizat", "description": "De la programare online la confirmare, consultație, plată și emiterea documentelor medicale. Fără suprapuneri, fără întârzieri, fără fișe pierdute."}
+      ],
+      "inventory_management": [
+        {"title": "Evidență consum medical", "description": "Monitorizezi consumabilele pe serviciu, scădere automată la utilizare (seringi, mănuși, reactivi). Inventar ghidat și alerte 'low stock'."},
+        {"title": "Management furnizori și achiziții", "description": "Comenzi, recepții, facturi și trasabilitate completă pe produse medicale, cu respectarea normelor sanitare."},
+        {"title": "Trasabilitate & siguranță", "description": "Serii, loturi și date de expirare vizibile în sistem — conformitate totală la inspecții."}
+      ],
+      "customer_engagement": [
+        {"title": "Programări & notificări automate", "description": "Pacienții se programează online, aleg medicul, ora și serviciul. Confirmări și remindere automate prin SMS, e-mail sau notificări push."},
+        {"title": "Formulare & fișe digitale", "description": "Formulare de anamneză, chestionare de sănătate și fișe digitale completate înainte de consultație — reduc timpul petrecut la recepție."},
+        {"title": "Abonamente medicale & pachete", "description": "Crează pachete corporate, abonamente recurente sau pachete de analize — cu raportare automată și reînnoiri programate."},
+        {"title": "Campanii personalizate", "description": "Mesaje și notificări pentru controale periodice, vaccinări, analize preventive sau servicii noi. Crește retenția pacienților și gradul de revenire."}
+      ]
+    },
+    "retail": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Gestionezi casierii, vânzătorii și responsabilii de stoc. Creezi ture, pontaje și accese personalizate, cu vizibilitate completă pe vânzări per angajat și productivitate."},
+        {"title": "Management financiar precis", "description": "Control total asupra încasărilor, retururilor și discounturilor. Închidere de zi automată, evidență clară pentru numerar și plăți digitale, reconciliere integrată cu contabilitatea."},
+        {"title": "Profiluri de clienți și fidelizare", "description": "Creezi fișe de client cu istoric cumpărături, preferințe și cupoane active. Poți aplica reduceri personalizate, puncte de loialitate și campanii automate."},
+        {"title": "Configurare flexibilă a afacerii", "description": "Magazine single sau multi-locație, vânzare pe categorii, liste de prețuri și promoții dinamice. Setezi roluri, permisiuni și acces la nivel de echipă și produs."},
+        {"title": "Documente și facturare", "description": "Facturi, chitanțe, note de transfer, avize și NIR-uri — toate generate automat, fiscalizate și stocate în siguranță."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Vânzări pe produs, categorie, perioadă, marjă și adaos comercial. Rapoarte în timp real pe profit, pierderi, costuri de achiziție și rotația stocurilor."},
+        {"title": "Analitică avansată & predicție vânzări", "description": "Vizualizezi tendințele zilnice sau sezoniere, estimezi cererea și optimizezi achizițiile. Reduceri planificate strategic, nu instinctiv."}
+      ],
+      "inventory_management": [
+        {"title": "Inventar & stocuri în timp real", "description": "Monitorizare automată la vânzare și aprovizionare. Alerte 'low stock', transferuri între puncte și inventare rapide cu scanner."},
+        {"title": "Furnizori & achiziții", "description": "Gestionare completă a relațiilor cu furnizorii — comenzi, recepții, facturi și termene de plată. Ai vizibilitate totală pe costuri și livrări."},
+        {"title": "Traseabilitate completă", "description": "Serii, loturi, date de expirare și trasabilitate pe produs — ideal pentru retail alimentar, farmacii sau cosmetice."}
+      ],
+      "customer_engagement": [
+        {"title": "Campanii promoționale & oferte dinamice", "description": "Creezi promoții automate: 2+1, bundle-uri, discounturi sezoniere, happy hour sau reduceri pe stocuri care expiră."},
+        {"title": "Loyalty & puncte de recompensă", "description": "Sistem de fidelitate integrat — puncte, cupoane, carduri de membru. Clienții revin, tu crești valoarea medie a coșului."},
+        {"title": "Notificări și comunicare directă", "description": "SMS, e-mail sau push pentru oferte, produse noi și re-stocări. Automatizări care cresc revenirea în magazin."},
+        {"title": "Programări & click & collect", "description": "Pentru magazinele cu produse personalizate sau service: rezervare produs, ridicare la oră stabilită, flux integrat de comandă."}
+      ]
+    },
+    "spalatorii_auto": {
+      "employee_management": [
+        {"title": "Management eficient al personalului", "description": "Gestionezi ușor echipa — spălători, operatori, casieri, manageri. Planifici ture, urmărești productivitatea și bonurile pe angajat. Pontaj automat și raport de performanță per schimb."},
+        {"title": "Management financiar precis", "description": "Controlezi încasările zilnice, plățile cash sau card, serviciile gratuite/promo și costurile consumabilelor. Închidere de zi automată, raport fiscal și integrare cu 1C."},
+        {"title": "Profiluri clienți și flote corporate", "description": "Istoric comenzi, tipuri de servicii, vehicule, preferințe, frecvență. Pentru partenerii corporate — facturare lunară automată și rapoarte de utilizare pe flotă."},
+        {"title": "Configurare flexibilă a locației", "description": "Definire linii de spălare, tipuri de servicii (interior, exterior, complet, detailing), pachete și durate. Suport pentru abonamente, carduri preplătite și puncte de fidelitate."},
+        {"title": "Documente & contracte", "description": "Contracte corporate, procese-verbale, fișe de inspecție, rapoarte de lucru — generate și stocate digital."}
+      ],
+      "business_insights": [
+        {"title": "Insights bazate pe date", "description": "Rapoarte zilnice, săptămânale sau lunare: număr de comenzi, venituri, costuri de consumabile, profit/linie, timpul mediu per mașină, reveniri și clienți noi."},
+        {"title": "Optimizarea fluxului operațional", "description": "Vizibilitate în timp real asupra stării fiecărei linii (liberă, ocupată, în așteptare). Reducere timpi morți, coordonare eficientă între recepție și echipă."}
+      ],
+      "inventory_management": [
+        {"title": "Consumabile & stocuri", "description": "Monitorizezi automat consumul de soluții, detergenți, lavete și accesorii. Alerte 'low stock', inventar ghidat, raport de pierderi și trasabilitate completă."},
+        {"title": "Furnizori & achiziții", "description": "Comenzi automate către furnizori pe baza consumului mediu. Urmărești prețuri, termene și facturi într-un singur loc."},
+        {"title": "Întreținerea echipamentelor", "description": "Programare revizii, inspecții tehnice, filtre, pompe, perii — sistem de mentenanță preventivă cu notificări automate."}
+      ],
+      "customer_engagement": [
+        {"title": "Rezervări online & programări rapide", "description": "Clienții aleg data, ora și tipul serviciului direct din aplicație sau website. Confirmări automate, remindere și notificări la finalizarea serviciului."},
+        {"title": "Abonamente & carduri preplătite", "description": "Vânzare de abonamente flexibile (5, 10 sau 20 spălări) cu evidență automată a utilizărilor și discounturi de fidelitate."},
+        {"title": "Marketing & oferte dinamice", "description": "Campanii automate în orele mai libere (happy hour), oferte sezoniere (toamnă/iarna) și mesaje personalizate pentru clienți inactivi."},
+        {"title": "Feedback & recenzii", "description": "Formular de feedback direct în aplicație sau pe bonul fiscal. Rapoarte pe ratinguri și timpi de reacție."}
+      ]
+    },
+    "how_it_works": {
+      "title": "Cum funcționează",
+      "steps": [
+        {"title": "Selectează tipul afacerii tale", "description": "Alege industria în care activezi: restaurant, salon, fitness, hotel sau altele"},
+        {"title": "Alege modulul de abonament", "description": "Configurează pachetul potrivit pentru nevoile tale: Basic, Professional sau Enterprise"},
+        {"title": "Configurare simplificată", "description": "Setup rapid în câțiva pași: locații, servicii, personal și prețuri"},
+        {"title": "Activează rezervările online", "description": "Pornește sistemul de rezervări pentru clienții tăi prin web și aplicație mobilă"},
+        {"title": "Gestionează echipa", "description": "Adaugă angajați, setează roluri și urmărește performanța în timp real"}
+      ]
+    },
+    "business_types": {
+      "title": "Ce tip de afacere ai?",
+      "types": [
+        {"number": "01", "name": "RESTAURANTE", "description": "Gestionare rezervări, comenzi și mese fără efort"},
+        {"number": "02", "name": "CAFENELE", "description": "Sistem complet pentru comenzi rapide și management de cafenea"},
+        {"number": "03", "name": "SALOANE DE FRUMUSEȚE", "description": "Programări inteligente pentru saloane, spa-uri și clinici de înfrumusețare"},
+        {"number": "04", "name": "BARBERSHOPURI", "description": "Soluție completă pentru programări și management de barbershop"},
+        {"number": "05", "name": "HOTELE & PENSIUNI", "description": "Sistem complet pentru rezervări hoteliere și management cazare"},
+        {"number": "06", "name": "CHIRII AUTO", "description": "Platformă pentru rezervări și management închirieri auto"},
+        {"number": "07", "name": "FITNESS", "description": "Rezervări de cursuri și soluții de management pentru săli de sport"},
+        {"number": "08", "name": "MEDICAL", "description": "Managementul profesional al programărilor pentru cabinete medicale"},
+        {"number": "09", "name": "RETAIL", "description": "Sisteme moderne de rezervări și POS pentru magazine"},
+        {"number": "10", "name": "SPĂLĂTORII AUTO", "description": "Sistem de programări și management pentru spălătorii auto"}
+      ]
+    },
+    "benefits": {
+      "title": "Simplifică-ți operațiunile,",
+      "title_line2": "Amplifică-ți succesul",
+      "items": [
+        {"title": "Eficiență în timp", "description": "Cu rezervări mobile și management automat al angajaților, afacerea ta economisește ore întregi de muncă administrativă, permițând echipei să se concentreze pe oferirea unei experiențe excelente clienților."},
+        {"title": "Creștere a veniturilor", "description": "Datele și analizele din platformă te ajută să identifici noi oportunități de profit — de la optimizarea strategiilor de preț până la îmbunătățirea experienței clienților pentru a stimula revenirea acestora."},
+        {"title": "Experiență îmbunătățită pentru clienți", "description": "Prin aplicația mobilă intuitivă pentru rezervări și plăți, le oferi clienților tăi mai mult confort și satisfacție. Serviciile personalizate prin CRM consolidează relațiile și loialitatea."},
+        {"title": "Managementul stocurilor", "description": "Urmărește nivelul stocurilor în timp real, gestionează comenzile de aprovizionare și reducerea pierderilor, pentru a menține costurile sub control."},
+        {"title": "Acces multiplatformă", "description": "Accesează sistemul tău ERP atât din versiunea web, cât și din aplicația mobilă — flexibilitate completă pentru tine și pentru clienții tăi."},
+        {"title": "Plăți online integrate", "description": "Simplifică tranzacțiile prin opțiuni de plată online direct din aplicație, oferind clienților o metodă rapidă și sigură de a achita serviciile."}
+      ]
+    },
+    "what_is": {
+      "title": "Ce este EasyReserv?",
+      "description": "EasyReserv este o soluție completă pentru gestionarea și optimizarea afacerii tale. Rezervări mobile, management angajați, rapoarte business, management inventar și multe alte funcționalități sunt disponibile. Poți economisi timp, crește vânzările, îmbunătăți experiența clienților, reduce costurile și crește productivitatea folosind platforma noastră.",
+      "faq": [
+        {
+          "question": "Pot accesa EasyReserv atât pe web cât și pe dispozitive mobile?",
+          "answer": "Da, EasyReserv este disponibil atât ca aplicație web (desktop și tabletă) cât și ca aplicație mobilă nativă pentru iOS și Android. Poți accesa toate funcționalitățile platformei de pe orice dispozitiv, cu sincronizare în timp real între toate device-urile tale."
+        },
+        {
+          "question": "Cât durează implementarea platformei EasyReserv?",
+          "answer": "Implementarea EasyReserv durează între 2-5 zile în funcție de complexitatea afacerii tale. Echipa noastră te asistă la fiecare pas: configurare inițială, import date, training echipă și go-live. Nu trebuie să schimbi hardware-ul existent."
+        },
+        {
+          "question": "Se integrează EasyReserv cu sistemul meu de contabilitate?",
+          "answer": "Da, EasyReserv se integrează nativ cu principalele sisteme de contabilitate precum 1C, SAP și alte soluții populare. Exportul de facturi, vânzări și rapoarte financiare se face automat, eliminând introducerea manuală a datelor."
+        },
+        {
+          "question": "Oferă EasyReserv suport tehnic și training pentru echipa mea?",
+          "answer": "Absolut! Oferim suport tehnic 24/7 prin chat, email și telefon. La implementare, includem sesiuni de training pentru întreaga echipă: manageri, casieri, ospătari și bucătari. Plus acces la baza noastră de cunoștințe și tutoriale video."
+        }
+      ]
+    },
+    "cta_final": {
+      "title": "Începe să-ți optimizezi afacerea astăzi!",
+      "button": "Devino partener"
+    }
+  },
+  "pricing_page": {
+    "hero": {
+      "title_line1": "Alege excelența.",
+      "title_line2": "Alege",
+      "title_highlight": "EasyReserv.io",
+      "description": "Încearcă perioada de test gratuită și găsește abonamentul perfect pentru nevoile tale.",
+      "cta": "Începe acum"
+    },
+    "why_choose": {
+      "title": "De Ce Să Ne Alegi?",
+      "features": [
+        {
+          "icon": "/figmaAssets/icon-1.svg",
+          "title": "Simplifică Operațiunile",
+          "description": "Centralizăm și eficientizăm toate nevoile tale de rezervări, făcând afacerea ta mai eficientă.",
+          "number": "01",
+          "numberLeft": "left-[calc(50.00%_-_104px)]"
+        },
+        {
+          "icon": "/figmaAssets/icon.svg",
+          "title": "Atrage Clienți",
+          "description": "Platforma noastră te ajută să construiești relații puternice cu clienții, asigurând loialitatea lor.",
+          "number": "02",
+          "numberLeft": "left-[calc(50.00%_-_120px)]"
+        },
+        {
+          "icon": "/figmaAssets/icon.svg",
+          "title": "Depășește Competiția",
+          "description": "Folosește tehnologii de ultimă generație pentru a ridica managementul afacerii tale.",
+          "number": "03",
+          "numberLeft": "left-[calc(50.00%_-_120px)]"
+        },
+        {
+          "icon": "/figmaAssets/icon-3.svg",
+          "title": "Suport Dedicat",
+          "description": "Suntem alături de tine, oferind asistența și expertiza de care ai nevoie pentru a avea succes.",
+          "number": "04",
+          "numberLeft": "left-[calc(50.00%_-_130px)]"
+        }
+      ]
+    },
+    "subscription_options": {
+      "title": "Nu Ești Sigur Care Plan Este Potrivit Pentru Tine?",
+      "description": "Înțelegem că fiecare afacere este unică cu nevoi specifice. Dacă nu ești sigur care este planul potrivit pentru tine sau ai întrebări, echipa noastră este aici să te ajute. Oferim îndrumare personalizată pentru a te asigura că valorifici la maximum capabilitățile platformei.",
+      "cta": "Contactează-ne"
+    },
+    "roi_calculator": {
+      "title": "Abonamentul Tău Se Răscumpără Rapid",
+      "subtitle": "Vezi cât de repede investiția ta se transformă în profit",
+      "description": "În medie, un client într-un restaurant lasă între 200-400 lei. Cu EasyReserv.io, atragi mai mulți clienți și optimizezi operațiunile, astfel încât abonamentul să se răscumpere rapid.",
+      "industry": {
+        "restaurant": "Restaurante",
+        "cafe": "Cafenele",
+        "beauty_salon": "Saloane de Frumusețe",
+        "barbershop": "Frizerii",
+        "hotel": "Hotele & Pensiuni",
+        "car_rental": "Închirieri Auto",
+        "fitness": "Fitness & Sală",
+        "medical": "Servicii Medicale",
+        "retail": "Comerț cu Amănuntul",
+        "car_wash": "Spălătorii Auto",
+        "sports": "Sport & Terenuri"
+      },
+      "basic_label": "Plan Basic (50€/lună)",
+      "standard_label": "Plan Standard (125€/lună)",
+      "pro_label": "Plan Pro (200€/lună)",
+      "restaurant": {
+        "basic_text": "Cu doar 2-3 rezervări noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 5-6 rezervări noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 8-10 rezervări noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unui check mediu de 250-300 lei și o marjă de profit de 40%. Rezultatele pot varia în funcție de specificitățile restaurantului."
+      },
+      "cafe": {
+        "basic_text": "Cu doar 4-5 rezervări noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 10-12 rezervări noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 16-20 rezervări noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unui check mediu de 100-150 lei și o marjă de profit de 35%. Rezultatele pot varia în funcție de specificitățile cafenelei."
+      },
+      "beauty_salon": {
+        "basic_text": "Cu doar 2-3 programări noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 4-5 programări noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 6-8 programări noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unui serviciu mediu de 200-400 lei și o marjă de profit de 50%. Rezultatele pot varia în funcție de serviciile oferite."
+      },
+      "barbershop": {
+        "basic_text": "Cu doar 2-4 programări noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 5-8 programări noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 8-12 programări noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unui serviciu mediu de 100-200 lei și o marjă de profit de 60%. Rezultatele pot varia în funcție de serviciile oferite."
+      },
+      "hotel": {
+        "basic_text": "Cu doar 2-3 rezervări noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 4-5 rezervări noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 6-8 rezervări noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unei cazări medii de 400-800 lei/noapte și o marjă de profit de 30%. Rezultatele pot varia în funcție de sezon și tipul de cazare."
+      },
+      "car_rental": {
+        "basic_text": "Cu doar 1-2 închirieri noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 3-4 închirieri noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 5-6 închirieri noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unei închirieri medii de 500-1000 lei și o marjă de profit de 25%. Rezultatele pot varia în funcție de tipul vehiculului și durata închirierii."
+      },
+      "fitness": {
+        "basic_text": "Cu doar 2-3 abonamente noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 4-6 abonamente noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 6-8 abonamente noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unui abonament mediu de 150-300 lei/lună și o marjă de profit de 70%. Rezultatele pot varia în funcție de tipul de abonament."
+      },
+      "medical": {
+        "basic_text": "Cu doar 2-3 consultații noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 4-6 consultații noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 6-8 consultații noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unei consultații medii de 200-500 lei și o marjă de profit de 40%. Rezultatele pot varia în funcție de tipul de consultație și specialist."
+      },
+      "retail": {
+        "basic_text": "Cu doar 8-10 tranzacții noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 20-25 tranzacții noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 30-40 tranzacții noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unei tranzacții medii de 50-150 lei și o marjă de profit de 25%. Rezultatele pot varia în funcție de produsele vândute."
+      },
+      "car_wash": {
+        "basic_text": "Cu doar 6-8 spălări noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 15-18 spălări noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 25-30 spălări noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unei spălări medii de 80-150 lei și o marjă de profit de 45%. Rezultatele pot varia în funcție de tipul de spălare."
+      },
+      "sports": {
+        "basic_text": "Cu doar 3-4 rezervări de teren noi pe lună, abonamentul este acoperit",
+        "standard_text": "Cu doar 7-9 rezervări de teren noi pe lună, abonamentul este acoperit",
+        "pro_text": "Cu doar 12-15 rezervări de teren noi pe lună, abonamentul este acoperit",
+        "note": "Calculat pe baza unei rezervări medii de 150-300 lei/oră și o marjă de profit de 50%. Rezultatele pot varia în funcție de tipul de teren și durata rezervării."
+      },
+      "note_label": "Notă:",
+      "cta": "Începe perioada de probă gratuită",
+      "reservations_per_month": "rezervări/lună"
+    },
+    "cta": {
+      "title": "Acționează Înainte Să Fie Prea Târziu!",
+      "description": "Alătură-te miilor de afaceri care și-au transformat deja operațiunile cu EasyReserv. Începe astăzi și beneficiază de toate funcționalitățile premium!",
+      "cta": "Începe Acum"
+    },
+    "common": {
+      "per_month": "/lună",
+      "popular": "Popular",
+      "most_popular": "Cel mai popular",
+      "custom": "La cerere",
+      "custom_price": "Preț personalizat",
+      "select_plan": "Alege planul",
+      "contact_us": "Contactează",
+      "contact_us_full": "Contactează-ne",
+      "start_free_trial": "Începe perioada de test gratuită",
+      "select_industry": "Selectează industria",
+      "compare_plans": "Compară planurile",
+      "pricing_plans_for": "Planuri de abonament pentru",
+      "save_with_annual": "Economisește cu plata anuală",
+      "save_10_percent": "ECONOMISEȘTE 10%",
+      "what_you_get": "Ce primești",
+      "see_all_features": "Vezi toate caracteristicile",
+      "hide_features": "Ascunde caracteristicile",
+      "included": "Inclus",
+      "add_on": "Add-on",
+      "priority": "Prioritar"
+    },
+    "industries": {
+      "Restaurante": "Restaurante",
+      "Cafenele": "Cafenele",
+      "Saloane de frumusețe": "Saloane de frumusețe",
+      "Barbershopuri": "Barbershopuri",
+      "Hotele & Pensiuni": "Hotele & Pensiuni",
+      "Chirii auto": "Chirii auto",
+      "Fitness": "Fitness",
+      "Medical": "Medical",
+      "Retail": "Retail",
+      "Spălătorii auto": "Spălătorii auto",
+      "Tenis/Padel/Fotbal": "Tenis/Padel/Fotbal",
+      "restaurante": "Restaurante",
+      "cafenele": "Cafenele",
+      "saloane_barbershop": "Saloane de frumusețe & Barbershopuri",
+      "hotele": "Hotele & Pensiuni",
+      "chirii_auto": "Chirii auto",
+      "fitness": "Fitness",
+      "medical": "Medical",
+      "retail": "Retail",
+      "spalatorii_auto": "Spălătorii auto",
+      "tenis_padel_fotbal": "Tenis/Padel/Fotbal"
+    },
+    "plans": {
+      "cafenele": {
+        "basic": {
+          "name": "Basic",
+          "description": "Perfect pentru cafenele mici și simple",
+          "features": [
+            "2 utilizatori incluși",
+            "POS Basic personalizabil",
+            "Gestionare cash simplificată",
+            "Meniu digital static",
+            "Analiză simplă și KPI-uri"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Mai mulți angajați, planificare ture, analiză",
+          "features": [
+            "Toate din Basic",
+            "Utilizatori adiționali (5€/utilizator)",
+            "Gestionare angajați și pontaj",
+            "Layout POS personalizat",
+            "Meniu dinamic și produse variabile",
+            "Profile clienți și istoric comenzi",
+            "Marketing Push/SMS și Happy Hour"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Control costuri, stocuri și automatizare",
+          "features": [
+            "Toate din Standard",
+            "Gestionare inventar și rețetare",
+            "Scădere automată stocuri",
+            "Alerte stoc redus și inventariere",
+            "Rețetare băuturi și cost porție",
+            "Segmentare avansată și cupoane",
+            "Rapoarte PDF și export"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Multi-locație, integrare fiscală, automatizare AI",
+          "features": [
+            "Toate din Pro",
+            "2 utilizatori scalabili",
+            "Multi-locație și flotă curierat",
+            "Integrare 1C cu fiscalizare",
+            "Automatizare marketing AI",
+            "Backup extern și stocare extinsă"
+          ]
+        }
+      },
+      "spalatorii_auto": {
+        "basic": {
+          "name": "Basic",
+          "description": "Pentru spălătorii auto mici",
+          "features": [
+            "1 utilizator inclus",
+            "Rezervare online și walk-in Basic",
+            "Servicii personalizate statice",
+            "Gestionare financiară simplificată",
+            "Rapoarte simple"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Gestionare echipe și clienți",
+          "features": [
+            "Toate din Basic",
+            "2 utilizatori + 5€/utilizator adițional",
+            "Gestionare angajați și pontaj",
+            "Rezervare cu calendar",
+            "Prețuri per caroserie/lucrări",
+            "CRM clienți și istoric auto",
+            "Promoții SMS și Reamintiri"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Stocuri, comenzi mobile și automatizare",
+          "features": [
+            "Toate din Standard",
+            "3 utilizatori incluși",
+            "Rezervare cu prioritate",
+            "Pachete promo și upselling",
+            "Comenzi Pickup/mobile cu geolocație",
+            "Inventar consumabile și alerte",
+            "Push, Reamintiri și segmentare"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Flotă mobilă, integrare fiscală, AI",
+          "features": [
+            "Toate din Pro",
+            "3+ utilizatori scalabili",
+            "Redistribuire automată rezervări",
+            "Gestionare flotă mobilă și rute",
+            "AI propunere prețuri",
+            "Integrare 1C și PowerBI",
+            "Campanii cu trigger-uri și loialitate"
+          ]
+        }
+      },
+      "hotele": {
+        "basic": {
+          "name": "Basic",
+          "description": "Pensiuni/Boutique ≤ 20 camere",
+          "features": [
+            "3 utilizatori incluși",
+            "Calendar disponibilitate și matrice camere",
+            "Check-in/Check-out cu folio",
+            "Tipuri camere și tarife de bază",
+            "Housekeeping: status cameră și sarcini",
+            "POS la recepție și facturare"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Hotel mic-mediu 21-60 camere",
+          "features": [
+            "Toate din Basic",
+            "6 utilizatori + 5€/utilizator adițional",
+            "Împărțire/combinare rezervări și mutare camere",
+            "Pachete (cazare + servicii)",
+            "Aplicație mobilă Housekeeping",
+            "CRM și marketing email/SMS",
+            "ADR, RevPAR și rapoarte extinse"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Hotel 61-150 camere",
+          "features": [
+            "Toate din Standard",
+            "10 utilizatori incluși",
+            "Booking Engine pe site",
+            "Ticketing servicii cu SLA",
+            "Garanții card/preautorizări",
+            "Pick-up, ritm și prognoză",
+            "Segmentare și campanii automate"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "150+ camere sau Multi-proprietate",
+          "features": [
+            "Toate din Pro",
+            "Utilizatori nelimitați",
+            "Channel Manager (OTA integrat)",
+            "Asistent AI recomandări dinamice",
+            "Dashboard multi-proprietate",
+            "SSO, audit avansat și API webhooks",
+            "Control chei și self check-in kiosk"
+          ]
+        }
+      },
+      "chirii_auto": {
+        "basic": {
+          "name": "Basic",
+          "description": "Micro/local ≤ 25 mașini",
+          "features": [
+            "2 utilizatori incluși",
+            "Rezervare web/telefon și calendar",
+            "Contracte cu semnătură electronică",
+            "Tarife sezoniere simple",
+            "Catalog vehicule și status",
+            "Facturi și chitanțe"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "26-80 mașini",
+          "features": [
+            "Toate din Basic",
+            "5 utilizatori + 5€/utilizator adițional",
+            "Depozite și preautorizări card",
+            "Service și întreținere planificată",
+            "Check-in/out cu foto și checklist",
+            "Booking Engine pe site",
+            "CRM și reamintiri email/SMS"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "81-250 mașini",
+          "features": [
+            "Toate din Standard",
+            "10 utilizatori incluși",
+            "Dynamic pricing și prognoză",
+            "Paritate tarife și allotment",
+            "Telematică/GPS tracking (add-on)",
+            "Campanii segmentate B2B/B2C",
+            "Rapoarte yield per clasă"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "250+ mașini/multi-birou",
+          "features": [
+            "Toate din Pro",
+            "Utilizatori nelimitați",
+            "Channel Manager OTA integrat",
+            "Asistent AI dynamic pricing",
+            "Telematică/GPS inclus",
+            "Dashboard multi-birou/țară",
+            "API/Integrări și ERP"
+          ]
+        }
+      },
+      "fitness": {
+        "basic": {
+          "name": "Basic",
+          "description": "Studio mic până la ~100 membri",
+          "features": [
+            "2 utilizatori incluși",
+            "Înscriere la cursuri și antrenamente personale",
+            "Înregistrare membru (cod/QR)",
+            "Abonamente și carduri",
+            "Profil membru și istoric",
+            "POS la recepție și facturare"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "100-250 membri activi",
+          "features": [
+            "Toate din Basic",
+            "5 utilizatori + 5€/utilizator adițional",
+            "Program antrenori și pontaj",
+            "Reamintiri SMS și segmente membri",
+            "Card recurent auto-reînnoire",
+            "Inventar produse și alerte",
+            "Rapoarte MRR/ARR și performanță"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "250-500 membri activi",
+          "features": [
+            "Toate din Standard",
+            "10 utilizatori incluși",
+            "Liste așteptare și antifraudă",
+            "Calcul comisioane antrenamente/cursuri",
+            "Dunning automat și reîncercare plăți",
+            "Aplicație membru cu branding",
+            "Rapoarte churn și cohorte"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "500+ membri/multi-locație",
+          "features": [
+            "Toate din Pro",
+            "Utilizatori nelimitați",
+            "Multi-locație și SSO",
+            "Aplicație white-label (brand sală)",
+            "AI scor risc churn",
+            "Dashboard multi-locație/țară",
+            "API prioritar și DRM video"
+          ]
+        }
+      },
+      "tenis_padel_fotbal": {
+        "basic": {
+          "name": "Basic",
+          "description": "1-2 terenuri/sală mică",
+          "features": [
+            "2 utilizatori incluși",
+            "Rezervare pe sloturi flexibile",
+            "Setări specific sport",
+            "Profil membru și istoric",
+            "Plăți online și facturare",
+            "Widget rezervare pe site"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "3-6 terenuri",
+          "features": [
+            "Toate din Basic",
+            "5 utilizatori + 5€/utilizator adițional",
+            "Prețuri peak/off-peak",
+            "Rezervări recurente și abonamente",
+            "Închiriere echipament",
+            "Rezervare antrenor și comisioane",
+            "Calendar întreținere terenuri"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "7-12 terenuri/multi-sport",
+          "features": [
+            "Toate din Standard",
+            "10 utilizatori incluși",
+            "Liste așteptare și auto-completare",
+            "Replanificare automată pe vreme",
+            "Căutare partener și pachete multi-sport",
+            "Organizare turnee și ligi",
+            "Aplicație jucători cu branding"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "12+ terenuri/multi-locație",
+          "features": [
+            "Toate din Pro",
+            "Utilizatori nelimitați",
+            "Control acces și iluminat IoT",
+            "Aplicație white-label (brand club)",
+            "Rapoarte heatmap multi-site",
+            "Integrare fiscală și ERP",
+            "API prioritar și webhooks"
+          ]
+        }
+      },
+      "medical": {
+        "starter": {
+          "name": "Starter",
+          "description": "Cabinet individual/micro-clinică (1-3 medici)",
+          "features": [
+            "3 utilizatori incluși",
+            "Programări online/telefon",
+            "Calendar multi-medic",
+            "Fișă pacient și istoric medical",
+            "POS la recepție și facturare",
+            "Confirmări email"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Clinică mică (4-10 medici)",
+          "features": [
+            "Toate din Starter",
+            "6 utilizatori + 5€/utilizator adițional",
+            "Template-uri pe specialități",
+            "Rețete și trimiteri",
+            "Checkin cabinet și reamintiri SMS",
+            "CRM pacienți și campanii reamintiri",
+            "Solicitări analize și rezultate"
+          ]
+        },
+        "business": {
+          "name": "Business",
+          "description": "Clinică medie (11-30 medici)",
+          "features": [
+            "Toate din Standard",
+            "12 utilizatori incluși",
+            "Decontări cu corporații/asigurări",
+            "Pontaj ture și comisioane",
+            "Dunning automat și pachete medicale",
+            "Portal rezultate pacient",
+            "Ecrane sală așteptare"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Rețea/Spital privat (31+ medici)",
+          "features": [
+            "Toate din Business",
+            "Utilizatori nelimitați",
+            "Integrare LIS (HL7) și PACS (DICOM)",
+            "Rețetă electronică și SIUI/CNAS",
+            "Aplicație white-label pacient",
+            "SSO, backup extern și audit avansat",
+            "API prioritar și webhooks"
+          ]
+        }
+      },
+      "saloane_barbershop": {
+        "basic": {
+          "name": "Basic",
+          "description": "1 specialist, salon mic",
+          "features": [
+            "1 specialist inclus",
+            "Programare online și walk-in manual",
+            "Gestionare servicii simplă",
+            "CRM clienți de bază",
+            "Plăți manuale",
+            "Rapoarte simple"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "2 specialiști, automatizare de bază",
+          "features": [
+            "Toate din Basic",
+            "2 utilizatori + 5€/utilizator adițional",
+            "Calendar cu confirmare SMS",
+            "Pachete promo și abonamente",
+            "Gestionare personal și ture",
+            "Vânzare produse și inventariere",
+            "POS și bon fiscal"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "4 specialiști, loialitate avansată",
+          "features": [
+            "Toate din Standard",
+            "4 utilizatori incluși",
+            "Alocare automată și notificări Push",
+            "Upselling și pachete personalizate",
+            "Bonusuri și card loialitate",
+            "Inventar per cabine",
+            "Marketing segmentat și cupoane"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "5+ specialiști, multi-locație",
+          "features": [
+            "Toate din Pro",
+            "5+ utilizatori scalabili",
+            "Integrare calendar Google/Apple",
+            "AI propuneri servicii și recomandări",
+            "Rezervare din social media și QR",
+            "Export PowerBI/1C și rețea POS",
+            "Segmente dinamice omnicanal"
+          ]
+        }
+      },
+      "retail": {
+        "basic": {
+          "name": "Basic",
+          "description": "Boutique/un magazin (până la 1 POS)",
+          "features": [
+            "2 utilizatori (Admin, Casier)",
+            "Vânzare POS și bon fiscal",
+            "Retur, schimb, storno",
+            "Reduceri simple",
+            "Catalog produse (SKU, variante)",
+            "Profil client și istoric cumpărături"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Magazin mic-mediu (1-3 POS)",
+          "features": [
+            "Toate din Basic",
+            "5 utilizatori + 5€/utilizator adițional",
+            "Multi-POS (max 3) și mod offline",
+            "Recepție marfă și comenzi furnizori",
+            "Transfer între locații și inventariere",
+            "Card loialitate și campanii SMS/Email",
+            "Top SKU, marje, bon mediu"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Magazin mare/multi-POS (4-8 POS)",
+          "features": [
+            "Toate din Standard",
+            "10 utilizatori incluși",
+            "Multi-POS (max 8) și FIFO/LOT",
+            "Click & Collect, depozit unificat",
+            "Segmente RFM și cupoane personalizate",
+            "Pontaj, ture, obiective vânzări",
+            "Prognoză cerere și dashboard avansat"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Rețea multi-magazin/omnicanal",
+          "features": [
+            "Toate din Pro",
+            "Utilizatori nelimitați",
+            "POS-uri nelimitate și WMS light",
+            "Marketplace-uri (eMAG, Amazon)",
+            "Integrare curierat și AWB centralizat",
+            "SSO, audit avansat și API prioritar",
+            "Dashboard multi-magazin și 1C/ERP"
+          ]
+        }
+      },
+      "restaurante": {
+        "basic": {
+          "name": "Basic",
+          "description": "Perfect pentru locații mici și simple",
+          "features": [
+            "1 Admin, 1 Hostess",
+            "Acceptare/Respingere rezervări",
+            "Creare/Modificare rezervări noi",
+            "CRUD Angajați",
+            "1 articol marketing/lună",
+            "Targeting Push/SMS"
+          ]
+        },
+        "standard": {
+          "name": "Standard",
+          "description": "Mai mulți angajați, dashboarduri, planificare ture, analiză simplă",
+          "features": [
+            "Toate din Basic",
+            "1 Admin, 1 Hostess, 2 Ospătari",
+            "Gestionare meniu",
+            "Adăugare/Activare promoții",
+            "Gestionare program",
+            "Gestionare stoc & furnizori",
+            "Ture/concedii/pontaj"
+          ]
+        },
+        "pro": {
+          "name": "Pro",
+          "description": "Control complet pe operațiuni, stocuri și automatizări",
+          "features": [
+            "Toate din Standard",
+            "3 Admini, 3 Hostes, 5 Ospătari",
+            "Management stocuri & rețetar complet",
+            "Scădere automată stoc la vânzare",
+            "Alerte low stock & inventare",
+            "Rețetar băuturi & cost/porție",
+            "Segmentare avansată & cupoane",
+            "Rapoarte PDF & exporturi"
+          ]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Personalizabil",
+          "features": [
+            "Toate din Pro",
+            "Roluri utilizatori nelimitate",
+            "Targeting avansat",
+            "Gestionare multi-locații",
+            "Acces API",
+            "Suport White label"
+          ]
+        }
+      }
+    },
+    "comparison": {
+      "categories": {
+        "user_roles": "Roluri Utilizatori",
+        "reservations": "Rezervări & Mese",
+        "inventory": "Management Stocuri",
+        "reports": "Rapoarte",
+        "staff": "Staff Management",
+        "delivery": "Livrare & Transport",
+        "marketing": "Marketing Tools"
+      },
+      "features": {
+        "admin": "Admin",
+        "hostess": "Hostess",
+        "waiter": "Waiter",
+        "cook": "Cook",
+        "courier": "Curier",
+        "unlimited": "Nelimitat",
+        "accept_reject": "Accept/Reject rezervări",
+        "calendar_access": "Calendar Access",
+        "create_modify": "Create New/Modify",
+        "pre_order": "Pre-order",
+        "recipe_auto": "Rețetar/scădere automată",
+        "crud_supplier": "CRUD Supplier/Order/History",
+        "sales_reservations": "Vânzări & rezervări",
+        "kpi_employees": "KPI angajați/productivitate",
+        "cost_margin": "Cost/Marjă produs",
+        "crud_employee": "CRUD Employee",
+        "shifts_holidays": "Ture/vacanțe/pontaj",
+        "check_in_out": "Intrare/Ieșire",
+        "delivery_orders": "Comenzi livrare",
+        "courier_app": "Curier App",
+        "routes_allocation": "Rute/alocare curieri",
+        "crud_articles": "CRUD Articole",
+        "targeting_push": "Targeting Push/SMS",
+        "advanced_segmentation": "Segmentare avansată",
+        "per_month": "/lună"
+      }
+    }
+  },
+  "blog_page": {
+    "title": "Poveștile noastre",
+    "featured_article": "Articol Recomandat",
+    "search_placeholder": "Caută articole...",
+    "categories": {
+      "all": "Toate",
+      "use_case": "Use Case",
+      "news": "News",
+      "updates": "Updates",
+      "entertainment": "Divertisment"
+    },
+    "sort": {
+      "newest": "Cele mai noi",
+      "oldest": "Cele mai vechi"
+    },
+    "no_results": "Nu au fost găsite articole care să corespundă criteriilor de căutare.",
+    "load_more": "Încarcă mai multe",
+    "no_articles_yet": "Încă nu sunt articole disponibile. Revino în curând pentru conținut nou!"
+  },
+  "seo": {
+    "home_title": "EasyReserv.io — Platformă all-in-one POS și Rezervări",
+    "home_description": "Automatizezi rezervările, POS, fluxurile operaționale și rapoartele. Integrezi plăți, contabilitate, notificări și livrare — fără schimbare de hardware.",
+    "about_title": "Despre Noi — EasyReserv.io | Misiunea noastră",
+    "about_description": "Aflați povestea EasyReserv.io: cum ajutăm afacerile să automatizeze operațiunile, să crească eficiența și să îmbunătățească experiența clienților.",
+    "solutions_title": "Soluții Multi-Industrie — EasyReserv.io",
+    "solutions_description": "Soluții personalizate pentru restaurante, saloane de înfrumusețare, chirie auto, fitness, spălătorii auto, terenuri sportive și alte industrii.",
+    "pricing_title": "Prețuri și Planuri — EasyReserv.io | De la 50€/lună",
+    "pricing_description": "Planuri flexibile pentru afaceri de toate dimensiunile. Începe cu 50€/lună, fără costuri ascunse. Trial gratuit 14 zile.",
+    "contact_title": "Contact — EasyReserv.io | Demo și Suport",
+    "contact_description": "Contactează echipa EasyReserv pentru demo personalizat, suport tehnic sau întrebări despre platformă. Răspundem în maxim 24 de ore.",
+    "policies_title": "Politici — EasyReserv.io | Termeni și Confidențialitate",
+    "policies_description": "Politica de confidențialitate, politica cookie și termenii și condițiile platformei EasyReserv.io. Protecția datelor conform GDPR.",
+    "blog_title": "Blog — EasyReserv.io | Ghiduri și Resurse Business",
+    "blog_description": "Articole despre managementul afacerilor, automatizare, tips & tricks pentru restaurante, saloane, fitness și alte industrii."
+  },
+  "hardware": {
+    "hero_title": "Hardware & Echipamente",
+    "hero_description": "Integrare completă cu aparate fiscale certificate și printere POS profesionale. EasyReserv.io funcționează perfect cu echipamentele tale existente.",
+    "feature_rapid_integration": "Integrare Rapidă",
+    "feature_rapid_integration_desc": "Conectare automată și configurare simplă în câteva minute",
+    "feature_compliance": "100% Conformitate",
+    "feature_compliance_desc": "Toate dispozitivele sunt certificate FISC și respectă legislația fiscală",
+    "feature_support": "Suport Tehnic Dedicat",
+    "feature_support_desc": "Echipa noastră vă ajută cu instalarea și configurarea echipamentelor",
+    "fiscal_devices_title": "Aparate Fiscale Certificate FISC",
+    "fiscal_devices_description": "Compatibilitate 100% cu case de marcat fiscale de la cei mai mari producători",
+    "fiscal_certified": "Certificat FISC",
+    "fiscal_datecs_desc": "Soluție completă pentru case de marcat fiscale certificate FISC",
+    "fiscal_tremol_desc": "Aparate fiscale moderne cu conectivitate avansată",
+    "compatible_models": "Modele compatibile:",
+    "pos_printers_title": "Printere POS Profesionale",
+    "pos_printers_description": "Imprimare rapidă și fiabilă pentru bonuri fiscale, chitanțe și comenzi",
+    "pos_hprt_desc": "Printere termice de înaltă calitate pentru chitanțe și bonuri fiscale",
+    "pos_epson_desc": "Printere POS fiabile cu conectivitate versatilă",
+    "pos_star_desc": "Soluții profesionale pentru imprimare rapidă și precisă",
+    "android_tablets_title": "Tablete POS Android",
+    "android_tablets_description": "Transformă orice tabletă Android într-un sistem POS complet funcțional",
+    "android_feature_native": "Integrare Nativă Android",
+    "android_feature_native_desc": "EasyReserv.io funcționează perfect pe tablete Android, oferind o experiență fluidă și intuitivă pentru ospătari și personal. Compatibil cu Samsung, Huawei, Lenovo și alte branduri populare.",
+    "android_feature_mobility": "Mobilitate și Flexibilitate",
+    "android_feature_mobility_desc": "Ospătarii pot lua comenzi direct la masă, pot verifica disponibilitatea produselor în timp real și pot procesa plăți instant. Sistemul funcționează offline și sincronizează automat când conexiunea este disponibilă.",
+    "android_feature_connectivity": "Conectivitate Completă",
+    "android_feature_connectivity_desc": "Conectare prin WiFi sau 4G/5G, integrare cu printere termice prin Bluetooth, sincronizare automată cu sistemul central POS și conectivitate cu aparate fiscale certificate FISC.",
+    "android_important_factor": "Factor Important",
+    "android_important_desc": "Integrarea cu tablete Android este esențială pentru restaurante moderne. Reduce timpul de așteptare, elimină erorile de comunicare și crește satisfacția clienților prin comenzi rapide și precise.",
+    "android_specs_title": "Specificații Recomandate",
+    "android_spec_os": "Android 8.0+ (recomandat Android 10+)",
+    "android_spec_screen": "Ecran 8-10 inch (rezoluție min 1280x800)",
+    "android_spec_ram": "RAM minim 2GB (recomandat 4GB+)",
+    "android_spec_wifi": "WiFi și/sau 4G/5G connectivity",
+    "android_spec_bluetooth": "Bluetooth 4.0+ pentru printere",
+    "cta_title": "Ai nevoie de ajutor cu echipamentele?",
+    "cta_description": "Echipa noastră te poate ajuta să alegi și să configurezi echipamentele potrivite pentru afacerea ta.",
+    "cta_contact": "Contactează-ne",
+    "cta_solutions": "Vezi Soluții Software"
+  },
+  "cookie_consent": {
+    "title": "Respectăm confidențialitatea ta",
+    "description": "Folosim cookie-uri pentru a îmbunătăți experiența ta pe site și pentru a analiza traficul. Cookie-urile esențiale sunt necesare pentru funcționarea site-ului, în timp ce cookie-urile de analiză ne ajută să înțelegem cum folosești platforma.",
+    "accept_all": "Acceptă toate",
+    "reject_all": "Refuză toate",
+    "customize": "Personalizează",
+    "save_preferences": "Salvează preferințele",
+    "essential": "Esențiale",
+    "essential_desc": "Necesare pentru funcționarea site-ului",
+    "analytics": "Analiză",
+    "analytics_desc": "Ne ajută să înțelegem cum folosești site-ul",
+    "settings_title": "Setări Cookie",
+    "settings_desc": "Gestionează preferințele tale de cookie",
+    "learn_more": "Află mai multe",
+    "cookie_policy": "Politica Cookie"
+  }
+}

@@ -1,0 +1,47 @@
+Ce este EasyReserv?
+
+EasyReserv este o platformă All-in-One pentru rezervări, POS fiscal, comenzi/KDS, stocuri & rețetare, rapoarte în timp real și automatizări. E construită pe fluxuri optimizate pe industrie (restaurante, cafenele/kiosk, beauty, hoteluri/pensiuni, chirii auto, fitness, medical, retail) și se integrează rapid cu 1C, plăți și hardware-ul existent.
+
+Întrebări frecvente (propunere acordion)
+
+Pe ce dispozitive pot folosi EasyReserv?
+Web (desktop/laptop) și mobil (iOS/Android). Avem și extensii dedicate (ex. smartwatch pentru ospătari) și suport pentru imprimante/scanere compatibile.
+
+Aveți POS fiscal disponibil?
+Da. POS-ul EasyReserv emite bon fiscal, suportă split note, reduceri, mod offline și imprimante multiple. Se conectează cu stocurile și rapoartele în timp real.
+
+Cum mă ajută pe industria mea?
+Avem optimizări pe industrie: de la timere KDS și rotație mese în restaurante, la abonamente & programări în beauty/fitness, ocupare camere în hoteluri, tarifare pe interval la chirii auto, loturi/expirări în medical și coduri de bare în retail.
+
+Cât durează implementarea (go-live)?
+De la 1 zi pentru o singură locație până la 1–2 săptămâni pentru rețele (import meniuri/servicii, utilizatori, stocuri, training).
+
+Trebuie să schimb hardware-ul?
+De regulă, nu. Lucrăm cu tablete/PC-uri curente și imprimante compatibile. Dacă e nevoie, recomandăm modele testate de noi.
+
+Se integrează cu 1C și plăți cu cardul?
+Da. Export contabil în 1C, reconciliere documente și integrare cu procesatori de plată (online & la POS), plus SMS/Email pentru notificări.
+
+Ce rapoarte oferă platforma?
+Vânzări, marje, rotație mese, timpi de servire, productivitate angajați, KPI pe locații/perioade, COGS pe rețetă, utilizare resurse (vehicul/sală/aparat) – live.
+
+Cum reduceți no-show-urile și întârzierile?
+Cu confirmări & remindere automate, waitlist, alerte „5 min rămase”, timere pe producție și notificări pentru comenzi gata/întârziate.
+
+Ce planuri de preț aveți? (ex. Restaurante)
+Abonament per locație + add-ons pe utilizator/modul. Pentru Restaurante: Basic €50, Standard €125, Pro €200, Enterprise la cerere – toate cu trial gratuit. (Pentru alte industrii, planurile apar după ce selectezi industria.)
+
+Datele mele sunt în siguranță?
+Da. Acces pe roluri, audit log, criptare în tranzit, backupuri regulate și export de date la cerere. Tu ești proprietarul datelor tale.
+
+Ce suport oferiți?
+Onboarding asistat, training pentru echipă, suport prioritar pe email/chat/telefon și materiale de lucru (ghiduri & video).
+
+Pot migra ușor din alt sistem?
+Da. Importăm meniuri/servicii, clienți, stocuri și istorice esențiale din fișiere sau prin integrări, cu verificări la pre-go-live.
+
+Pot începe gratuit?
+Da. Oferim perioadă de probă pe o locație ca să testezi fluxurile înainte de contractare.
+
+Se poate personaliza pentru nevoile mele?
+În afară de setările standard, avem add-ons și automatizări configurabile; pentru cerințe avansate, oferim proiecte Enterprise.

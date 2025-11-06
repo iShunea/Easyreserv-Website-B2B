@@ -1,0 +1,89 @@
+Perfect, Alexandru. 🛒
+Mai jos este textul complet pentru industria Retail (magazine mici, buticuri, francize locale, mini-marketuri, farmacii, florării etc.), în același format profesional folosit la celelalte verticale din EasyReserv.
+
+⸻
+
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Gestionezi casierii, vânzătorii și responsabilii de stoc. Creezi ture, pontaje și accese personalizate, cu vizibilitate completă pe vânzări per angajat și productivitate.
+
+Management financiar precis
+Control total asupra încasărilor, retururilor și discounturilor. Închidere de zi automată, evidență clară pentru numerar și plăți digitale, reconciliere integrată cu contabilitatea.
+
+Profiluri de clienți și fidelizare
+Creezi fișe de client cu istoric cumpărături, preferințe și cupoane active. Poți aplica reduceri personalizate, puncte de loialitate și campanii automate.
+
+Configurare flexibilă a afacerii
+Magazine single sau multi-locație, vânzare pe categorii, liste de prețuri și promoții dinamice. Setezi roluri, permisiuni și acces la nivel de echipă și produs.
+
+Documente și facturare
+Facturi, chitanțe, note de transfer, avize și NIR-uri — toate generate automat, fiscalizate și stocate în siguranță.
+
+⸻
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Vânzări pe produs, categorie, perioadă, marjă și adaos comercial. Rapoarte în timp real pe profit, pierderi, costuri de achiziție și rotația stocurilor.
+
+Analitică avansată & predicție vânzări
+Vizualizezi tendințele zilnice sau sezoniere, estimezi cererea și optimizezi achizițiile. Reduceri planificate strategic, nu instinctiv.
+
+⸻
+
+Managementul stocurilor și aprovizionării
+
+Inventar & stocuri în timp real
+Monitorizare automată la vânzare și aprovizionare. Alerte „low stock”, transferuri între puncte și inventare rapide cu scanner.
+
+Furnizori & achiziții
+Gestionare completă a relațiilor cu furnizorii — comenzi, recepții, facturi și termene de plată. Ai vizibilitate totală pe costuri și livrări.
+
+Traseabilitate completă
+Serii, loturi, date de expirare și trasabilitate pe produs — ideal pentru retail alimentar, farmacii sau cosmetice.
+
+⸻
+
+Implicarea clienților și marketing
+
+Campanii promoționale & oferte dinamice
+Creezi promoții automate: 2+1, bundle-uri, discounturi sezoniere, happy hour sau reduceri pe stocuri care expiră.
+
+Loyalty & puncte de recompensă
+Sistem de fidelitate integrat — puncte, cupoane, carduri de membru. Clienții revin, tu crești valoarea medie a coșului.
+
+Notificări și comunicare directă
+SMS, e-mail sau push pentru oferte, produse noi și re-stocări. Automatizări care cresc revenirea în magazin.
+
+Programări & click & collect
+Pentru magazinele cu produse personalizate sau service: rezervare produs, ridicare la oră stabilită, flux integrat de comandă.
+
+⸻
+
+Operațiuni specifice retail
+
+POS fiscal rapid & intuitiv
+Interfață tactilă, coduri de bare, căutare instant și vânzare combinată (produse + servicii). Integrare completă cu imprimante, cântare și case fiscale.
+
+Multi-locație & transferuri
+Coordonezi toate magazinele dintr-un singur dashboard. Transferuri automate între puncte, prețuri diferențiate pe regiuni.
+
+Comenzi B2B și vânzări corporate
+Parteneriate cu firme, discounturi B2B, facturare automată și gestiune conturi clienți mari.
+
+Integrare cu 1C & contabilitate
+Sincronizare automată a vânzărilor, stocurilor și facturilor. Rapoarte contabile fără intervenție manuală.
+
+⸻
+
+Micro-impact (de comunicat pe pagină)
+	•	Pierderi ↓ 40% prin trasabilitate și control stocuri în timp real
+	•	Timp de inventar ↓ 70% cu scanner automat și alerte
+	•	Vânzări ↑ cu promoții și fidelizare automată
+	•	Costuri administrative ↓ prin facturare și contabilitate automatizată
+	•	Expansiune ușoară datorită gestionării multi-locație
+
+⸻
+
+Dorești să ți-l structurez pentru frontend sub format modular (ex. <section> + <h3> + <p> pentru React/Next) sau îl generăm în format JSON/i18n pentru integrarea directă în selectorul „Alege industria” din pagina /Solutions?

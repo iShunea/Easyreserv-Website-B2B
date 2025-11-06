@@ -1,0 +1,88 @@
+Politica de confidențialitate
+POLITICA DE CONFIDENȚIALITATE INFORMAȚII PRIVIND PROTECȚIA DATELOR PERSONALE
+Pentru Shunea IT-Projects SRL („EasyReserv.io”) confidențialitatea dumneavoastră și securitatea datelor dumneavoastră cu caracter personal sunt foarte importante, așa că colectăm și gestionăm datele dumneavoastră personale cu cea mai mare atenție și luăm măsuri specifice pentru a le păstra în siguranță.
+
+Mai jos veți găsi principalele informații despre prelucrarea de către EasyReserv.io a datelor dumneavoastră cu caracter personal în legătură cu navigarea dumneavoastră pe https://easyreserv.io, https://app.easyreserv.io/login și aplicația mobilă EasyReserv.io, utilizarea serviciilor oferite. Pentru informații detaliate despre modul în care EasyReserv.io vă gestionează datele personale, vă rugăm să citiți mai departe.
+
+Aceste informații sunt furnizate, în conformitate cu prevederile Legii nr. 133 din 08 iulie 2011 privind protecţia datelor cu caracter personal. (denumită în continuare „Lege”), către utilizatorii (în continuare: „Utilizatori” sau „Utilizator”) ai site-ului în versiune desktop și mobilă, aplicației web în versiune desktop și a oricărei aplicații mobile aferente serviciului (denumită în continuare: „Site-ul, Aplicația Web și Aplicația Mobilă”) deținută de „Shunea - IT Projects” SRL, Operator de date (în continuare: „Operator de date”), și are scopul de a descrie metodele de gestionare a Site-ului, Aplicației Web și Aplicației Mobile cu referire la prelucrarea datelor cu caracter personal, precum și de a permite Utilizatorii site-ului, aplicației Web și aplicației Mobile să cunoască scopurile și metodele de prelucrare a datelor cu caracter personal de către Operatorul de date în cazul conferirii acestora.
+
+După cum se specifică în Termenii și Condițiile de utilizare, serviciile oferite de Administratorul/Operatorul și Parteneri se adresează persoanelor cu vârsta peste 18 ani. În cazul în care Administratorul ia cunoștință de prelucrarea datelor minorilor sub 18 ani fără acordul valabil al părinților sau al unui tutore legal, își rezervă dreptul de a întrerupe unilateral utilizarea serviciului oferit, precum și de a anula date dobândite.
+
+Vă rugăm să citiți, de asemenea, și „Termenii și Condițiile de utilizare” ale platformei „EasyReserv.io”, care conțin informații detaliate despre condițiile referitoare la serviciile noastre.
+
+PRINCIPII APLICABILE PRELUCRĂRII DATELOR PERSONALE
+Operatorul de date, în temeiul și în sensul Regulamentului, anunță că legislația menționată mai sus prevede protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și că o astfel de prelucrare se va baza pe principiile corectitudinii, legalității, transparenței și protecţia confidenţialităţii şi a drepturilor fundamentale.
+
+DEFINIȚII
+Utilizator/abonat - orice persoană fizică sau juridică în capacitate deplină de exercițiu care vizitează şi/sau interacționează cu site-ul https://easyreserv.io, sau/și aplicație web https://app.easyreserv.io sau/și aplicația mobilă “EasyReserv.io” (găsită pe App Store / Google Play Market) numită “platformă” inclusiv în scop de consultanță, rezervare sau achiziționare de servicii; a stabili, modifica sau anula rezervări sau/și programări la Partenerii înscriși pe platforma EasyReserv.io sau, după caz, în scopul de a deveni Partener prin încheierea unui contract/acord electronic cu „Shunea - IT Projects SRL” și deținerea unui cont business pe platfroma EasyReserv.io/ potențialii beneficiari de servicii care sunt interesați să achiziționeze serviciile prezentate pe platformă;
+
+Utilizatorul care dorește, de asemenea, să rezerve sau să primească notificări din partea localurilor partenere trebuie să se înregistreze, creându-și pagina de Utilizator.
+
+Datele personale necesare pentru înregistrarea utilizatorului sunt:
+
+Nume Prenume,
+Adresa de e-mail,
+Număr de telefon,
+Zi de naștere,
+Gen
+Date referitoare la modul în care utilizați platforma, de exemplu comportamentul/preferinţele/obişnuințele dumneavoastră în cadrul platformei, precum și orice alte categorii de date pe care le furnizați în mod direct în contextul plasării unei rezervări sau în orice alt mod care rezultă din utilizarea platformei.
+
+Termenii care nu sunt definiți în această Politică de confidențialitate au același înțeles ca cel descris în Termenii și condițiile de utilizare.
+
+Ce date personale colectăm? Colectarea datelor de navigare.
+
+Sistemele informatice și procedurile tehnice și software care stau la baza funcționării Site-ului, Aplicației Web și Aplicației Mobile dobândesc, în timpul funcționării normale, unele date cu caracter personal a căror transmitere este implicită în mecanismele și protocoalele de acces și funcționare în uz pe Internet.
+
+De fiecare dată când Utilizatorul se conecteaza la platformă și de fiecare dată când apelează sau solicită conținut, datele de acces sunt stocate pe sistemele noastre, sub formă de fișiere de date tabulare sau liniare.
+
+Aceste date pot fi utilizate de către Operatorul de Date în scopul exclusiv de a obține informații statistice anonime cu privire la utilizarea platformei pentru a identifica paginile preferate de către Utilizatori și, prin urmare, pentru a oferi conținut din ce în ce mai adecvat și pentru a verifica funcționarea corectă a acestuia. La solicitarea Autorității, datele ar putea fi utilizate pentru a constata răspunderea în cazul unor ipotetice infracțiuni informatice împotriva platformei „Easyreserv.io” sau a Utilizatorilor acestuia.
+
+În plus, categoriile de date cu caracter personal pe care „EasyReserv.io” le colectează și le prelucrează atunci când navighezi sau faci rezervări pe aplicație sunt următoarele:
+
+Colectăm datele personale necesare pentru a finaliza și efectua rezervarea dumneavoastră pe aplicația „EasyReserv.io”, cum ar fi numele și prenumele, adresa de e-mail, adresa, telefonul;
+Colectăm datele personale necesare pentru a finaliza și efectua rezervarea dumneavoastră pe aplicația „EasyReserv.io”, cum ar fi numele și prenumele, adresa de e-mail, adresa, telefonul;
+Pentru înregistrarea contului dumneavoastră „EasyReserv.io” , colectăm numele și prenumele dumneavoastră, adresa de e-mail, parola și data nașterii. Dacă sunteți utilizator înregistrat, colectăm informații despre accesul dvs. în zona rezervată. Cu acordul dvs. expres, prin analiza datelor dvs. personale putem prelucra informații cu privire la interesele și preferințele dvs. cu privire la serviciile noastre, în scopul pentru a prezenta propuneri și oferte pe masura gusturilor dumneavoastra.
+
+Informații despre profilare, motoarele de căutare și datele despre locație. Colectăm informații despre navigarea dvs. pe aplicația „EasyReserv.io” cum ar fi paginile/ecranele pe care le vizitați și modul în care interacționați cu o singură pagină/ecran și salvăm aceste informații pe serverele noastre. Doar cu acordul dumneavoastră, Operatorul de date va putea să vă personalizeze experiența ca utilizator înregistrat folosind aceste informații, analizate și prin procese automate precum crearea de profiluri, pentru a vă oferi avansuri și oferte în concordanță cu gusturile dumneavoastră și pentru a vă trimite comunicări comerciale personalizate, conform intereselor tale. Aceste comunicări vor avea loc exclusiv în modul pe care l-ați ales.
+
+Atunci când utilizați aplicația „EasyReserv.io” cu funcția activă de detectare a locației, platforma poate colecta și procesa informații despre locația curentă a Utilizatorului. Aceste date sunt prelucrate într-un format care permite identificarea personală a Utilizatorului înregistrat și sunt utilizate pentru a permite trimiterea de comunicări promoționale personalizate pe baza locurilor înregistrate de serviciul de localizare. Aceste informații despre locația utilizatorului nu sunt schimbate cu terți, iar serviciile menționate mai sus pot fi activate sau dezactivate de către Utilizator în orice moment, accesând setările dispozitivului său. Datele de localizare, folosite pentru a oferi Utilizatorilor înregistrați comunicații promoționale orientate către domeniile de interes, vor fi păstrate pe o perioadă care nu depășește 12 luni de la ultima geolocalizare efectuată.
+
+METODA DE TRATARE ȘI PĂSTRARE A DATELOR PERSONALE
+Operatorul de date se asigură că datele cu caracter personal sunt prelucrate în deplină conformitate cu Legea nr.133, în format hârtie și/sau electronic, tot cu ajutorul unor proceduri automatizate. Prelucrarea poate fi efectuată și prin instrumente automate concepute pentru a stoca, gestiona și transmite datele.
+
+Datele colectate și prelucrate vor fi protejate cu metode fizice și logice astfel încât să minimizeze riscurile de acces neautorizat, diseminare, pierdere și distrugere a datelor, Prelucrarea datelor nu va dura mai mult decât este necesar pentru a satisface scopurile pentru care au fost colectate.
+
+Persoana interesată va avea dreptul în orice moment și rapid și ușor să revoce consimțământul pentru prelucrare și să solicite anularea datelor sale personale, prin transmiterea unei comunicări către Operatorul de date la adresa: easyreserv@ishunea.io. În urma solicitării de anulare de către Utilizator, toate datele personale ale acestuia vor fi șterse, fără a aduce atingere stocării ulterioare impuse de obligațiile de reglementare.
+
+Operatorul de date raportează că Utilizatorul care a solicitat anularea de pe platformă poate primi comunicări ulterioare de la Operatorul de date într-un mod limitat după această solicitare, aceasta datorită timpului necesar sistemelor Controlorului pentru a procesa procedura de dezabonare și anulare. În orice caz, Operatorul de Date se asigură că în termen de maximum zece zile de la cererea de anulare, Utilizatorul nu va mai primi nicio comunicare ulterioară, iar datele acesteia vor fi anulate decât dacă există alte obligații normative.
+
+În cazul în care o cerere de anulare nu este primită de către Operatorul de date, datele personale vor fi păstrate pe o perioada care nu va depăși 2 (doi) ani, cu efect de la data ultimei accesari pe platforma „EasyReserv.io” de către Utilizator. Datele colectate cu ocazia achiziționării de servicii sau bunuri de pe aplicația „EasyReserv.io” sunt prelucrate până la îndeplinirea tuturor formalităților administrative și contabile, prin urmare vor fi păstrate pe o perioadă de cel mult 10 (zece) ani în condițiile fiscale, conform legislației locale.
+
+Cine va prelucra datele dvs.? Destinatarii datelor cu caracter personal
+
+Datele dumneavoastră cu caracter personal sunt prelucrate de personal instruit corespunzător de „Shunea - IT Projects” SRL în calitate de Operator de date. Mai mult, pentru nevoi organizatorice și funcționale legate de furnizarea de servicii pe www.easyreserv.io, datele dumneavoastră pot fi prelucrate și de furnizorii noștri. Acestea din urmă au fost evaluate și alese de „Shunea - IT Projects” SRL pentru fiabilitatea și competența lor dovedită și vă prelucrează datele în calitate de Procesatori de date în numele „Shunea - IT Projects” SRL.
+
+Datele cu caracter personal colectate pot fi prelucrate de subiecți sau categorii de subiecți care acționează ca procesatori de date. Mai mult, pentru unele servicii, datele pot fi dezvăluite companiilor care colaborează sau utilizează serviciile Operatorului de Date cu singura intenţie de a furniza serviciile solicitate de Utilizator. În aceste cazuri, Partenerii sunt proprietari autonomi, prin urmare Proprietarul nu este responsabil pentru prelucrarea datelor de către aceștia. De asemenea, Operatorul de date nu este responsabil pentru conținutul și respectarea legislației privind protecția datelor cu caracter personal de către site-uri, aplicații, platforme care nu sunt administrate de către Operatorul de date.
+
+DREPTURILE PĂRȚII INTERESATE
+Utilizatorul, în calitate de parte interesată, are dreptul de a-și exercita drepturi specifice referitoare la datele sale personale. În special, persoana interesată are dreptul de a obține:
+
+confirmarea existenței sau nu a datelor cu caracter personal care îl privesc, chiar dacă nu sunt încă înregistrate, într-o formă concisă, transparentă, inteligibilă și ușor accesibilă, cu un limbaj simplu și clar;
+originea datelor cu caracter personal;
+scopurile și metodele de tratament;
+interesele legitime urmărite de către Operatorul de date sau de către terți;
+orice destinatari sau orice categorii de destinatari ai datelor cu caracter personal;
+perioada de păstrare a datelor cu caracter personal;
+detaliile de identificare ale Operatorului de Date, Managerilor, oricărui Reprezentant desemnat și Responsabilului cu Protecția Datelor (așa-numitul DPO);
+subiecții și categoriile de subiecți cărora le pot fi comunicate datele cu caracter personal sau care pot afla despre acestea în calitate de reprezentant desemnat în stat, directori sau agenți;
+capacitatea de a depune o plângere la o autoritate de supraveghere;
+actualizarea, rectificarea sau, atunci când este interesat, integrarea datelor;
+anularea, transformarea în formă anonimă sau blocarea datelor prelucrate cu încălcarea legii, inclusiv a celor care nu trebuie păstrate în scopul pentru care datele au fost colectate sau prelucrate ulterior;
+limitarea prelucrării;
+portabilitatea datelor cu caracter personal care îl privesc către un alt Operator de date.
+DEȚINĂTORUL TRATĂRII ȘI RESPONSABIL PENTRU PROTECȚIA DATELOR PERSONALE
+Pentru a-și exercita drepturile de la punctul anterior, persoana interesată poate contacta în orice moment Operatorul de Date și/sau Responsabilul cu Protecția Datelor pentru orice comunicări privind prelucrarea Datelor cu Caracter Personal, sau pentru a cunoaște lista actualizată a oricăror Procesatori de Procesare de Date desemnați de către Companie, prin transmiterea unei comunicări către persoanele de contact enumerate mai jos:
+
+Operatorul de date: „Shunea - IT Projects” SRL (iShunea Tech Solutions) easyreserv@ishunea.io.
+
+SCHIMBĂRI

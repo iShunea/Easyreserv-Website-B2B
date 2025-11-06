@@ -1,0 +1,119 @@
+Conținut pentru acordion (dinamic pe industrie)
+
+Acordionul păstrează aceleași 8 titluri. Sub fiecare, textul se schimbă în funcție de industrie. Mai jos, 1 frază/feature per industrie (gata de pus).
+
+1) Rezervări inteligente (Web & Mobile)
+
+Restaurante: Booking online + hartă mese, waitlist și confirmări automate → −20–35% no-shows.
+
+Cafenele/Kiosk: Pre-comenzi din mobil și ridicare la oră fixă, cozi mai scurte în orele de vârf.
+
+Saloane & Barbershop: Programări cu selectare specialist/serviciu, pachete și abonamente.
+
+Hoteluri & Pensiuni: Calendar camere, restricții smart (min-stay/late-checkout), cereri speciale.
+
+Chirie Auto: Rezervare vehicul pe interval, extra-opțiuni (scaun copil, GPS), depozit.
+
+Fitness & Wellness: Rezervări la clase, locuri limitate, listă de așteptare și check-in din aplicație.
+
+Medical: Programări pe medic/specialitate/sală, chestionar pre-vizită și reamintiri.
+
+Retail: Sloturi de ridicare/instalare, programare consultanță în showroom.
+
+2) POS fiscal & comenzi rapide
+
+Restaurante: Bon fiscal, split note, meniuri/combos, mod offline, imprimante multiple.
+
+Cafenele/Kiosk: Vânzare ultra-rapidă cu preset-uri; bon fiscal în <2 secunde.
+
+Saloane & Barbershop: Pachete/abonamente, vânzare produse retail, pontaj servicii.
+
+Hoteluri & Pensiuni: Încasare camere + extra-servicii (mic dejun, spa), taxe locale din POS.
+
+Chirie Auto: Facturare cu depozit, extra-kilometri, asigurări și accesorii pe linie.
+
+Fitness & Wellness: Abonamente, freeze, top-up credit, PT/masaj pe bon.
+
+Medical: Servicii compuse, coplată, tipuri de plată diverse pe același bon.
+
+Retail: Discounturi promo, bundle-uri, retururi și schimb pe bon.
+
+3) Bucătărie digitală & Timere (KDS) / Operațiuni
+
+Restaurante: Tichete pe ecran, countdown per fel, alerte „late” → −25% timp de servire.
+
+Cafenele/Kiosk: Ecran barista/patiserie, prioritizare automată pe comenzi rapide.
+
+Saloane & Barbershop: Calendar operațional pe fotolii/săli, timp ocupat vs liber.
+
+Hoteluri & Pensiuni: Taskboard housekeeping & mentenanță cu statusuri live.
+
+Chirie Auto: Planificare revizii/ITP, status disponibil/în service/închiriat.
+
+Fitness & Wellness: Capacitate sală, program antrenori, ocupare pe intervale.
+
+Medical: Flux recepție → investigație → încasare, timp mediu per serviciu.
+
+Retail: Taskuri zilnice pentru recepție marfă, facing, etichetare.
+
+4) Stocuri & Rețetare (COGS)
+
+Restaurante: Scădere automată la vânzare, rețetar și inventar ghidat → 0 erori la final.
+
+Cafenele/Kiosk: Dozare ingrediente, alerte „low stock” pentru orele de vârf.
+
+Saloane & Barbershop: Consum pe serviciu (vopsea, tratamente), inventar trasabil.
+
+Hoteluri & Pensiuni: Consum pe cameră (mini-bar, consumabile), stocuri pe zone.
+
+Chirie Auto: Piese/consumabile, stoc accesorii (lanțuri, scaune, suporturi).
+
+Fitness & Wellness: Stoc suplimente & proshop, consumabile spa.
+
+Medical: Loturi/expirări, trasabilitate materiale & consumabile.
+
+Retail: Coduri de bare, recepții rapide, inventare parțiale, FIFO.
+
+5) Rapoarte & KPI în timp real
+
+Restaurante: Vânzări, marjă, rotație mese, timpi servire, comparatii pe locații.
+
+Cafenele/Kiosk: Vânzări pe oră/produse, waste, productivitate casieri.
+
+Saloane & Barbershop: Venit/ora specialist, rate no-show, top servicii & CLV.
+
+Hoteluri & Pensiuni: ADR, RevPAR, ocupare, canale & pachete.
+
+Chirie Auto: Utilizare flotă, venit/vehicul, cost/km, downtime.
+
+Fitness & Wellness: Retenție, frecvență, încărcare clase, venit/abonat.
+
+Medical: Venit/medic, servicii profitabile, timpi de așteptare.
+
+Retail: Marjă pe SKU, rotație, shrink, coș mediu.
+
+6) Automatizări & Notificări
+
+Restaurante: Confirmări/remindere, „5 min rămase”, alerte stoc & „late”.
+
+Cafenele/Kiosk: Ready-for-pickup, happy hour, push la off-peak.
+
+Saloane & Barbershop: Reamintiri înainte/după, follow-up recurență.
+
+Hoteluri & Pensiuni: Pre-check-in, upsell (late checkout/spa), review post-sejur.
+
+Chirie Auto: Reminder ridicare/return, alerte depășire orar/kilometri.
+
+Fitness & Wellness: Reamintiri clase, freeze expirare, reactivare.
+
+Medical: Remindere vizită, pregătire analiză, follow-up.
+
+Retail: Stoc revenit, coș abandonat, cupoane segmentate.
+
+7) Management echipă & permisiuni
+
+Toate industriile: Roluri/permisiuni, ture, targeturi, audit log, onboarding rapid.
+
+8) Plăți & Integrare soft de contabilitate
+
+Toate industriile: Plăți card/online, export 1C, reconciliere, documente fiscale.

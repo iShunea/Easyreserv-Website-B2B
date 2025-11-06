@@ -1,0 +1,35 @@
+Cookie Policy for EasyReserv.io Platform
+Effective Date: 18th of October 2023
+
+This Cookie Policy outlines how cookies and similar technologies are used on the website of EasyReserv.io Platform ('we,' 'us,' or 'our'). By using our website, you consent to the use of cookies as described in this policy.
+
+What Are Cookies?
+Cookies are small text files that are stored on your device (computer, tablet, smartphone) when you visit a website. They are widely used to enhance your browsing experience and provide certain functionalities. Cookies are commonly used to store your preferences, track website usage, and perform various other tasks related to user interaction and analytics.
+
+How We Use Cookies?
+We use cookies for the following purposes:
+
+Essential Cookies: These cookies are necessary for the proper functioning of our website. They enable core functionalities such as secure login, navigation, and access to specific areas of the site. Without these cookies, the website may not function as intended.
+Authentication: We use cookies to determine whether or not you've signed in to Pixieset and to keep you signed in during visits as you access different pages.
+Security: We use cookies to enable and support security features, prevent fraud and detect malicious activity.
+Preferences and Features: We use cookies to enable features, personalize your content and remember your preferences.
+Analytics Cookies: We use analytics cookies to gather information about how visitors use our website. This helps us understand user preferences, identify areas for improvement, and optimize the website's performance. The data collected is aggregated and anonymized.
+Google Analytics: We use Google Analytics to help measure how users interact with our websites - https://policies.google.com/privacy
+Facebook: We use Facebook Pixels and Custom Audiences to deliver targeted advertisements to individuals who visit our websites - https://www.facebook.com/policy.php
+New Relic: We use New Relic to monitor the performance and errors of our applications - https://newrelic.com/termsandconditions/privacy
+Cloudflare: We use Cloudflare to provide application security - https://www.cloudflare.com/privacypolicy
+Google Ads: We use Google Ads to deliver targeted advertisements to individuals that look for the services Pixieset offers - https://policies.google.com/privacy
+Functionality Cookies: These cookies allow the website to remember choices you make (such as your username, language, or region) and provide enhanced, personalized features. They can also be used to remember changes you make to text size, fonts, and other customizable elements.
+Advertising and Marketing Cookies: We do not use advertising cookies to track your browsing behavior across different websites for the purpose of delivering targeted advertisements.
+Third-Party Cookies
+We may also allow third-party service providers to set cookies on our website for the purposes outlined above. These providers may include analytics, advertising, and social media companies. Please note that we have no control over the cookies set by these third parties.
+
+Managing Cookies
+Most web browsers allow you to control and manage your cookie preferences. You can usually adjust your browser settings to decline cookies, delete existing cookies, or receive notifications when new cookies are sent to your device. Keep in mind that disabling cookies may impact the functionality and user experience of our website.
+
+Updates to this Cookie Policy
+We may update this Cookie Policy from time to time to reflect changes in technology, legal requirements, or our practices. We encourage you to review this policy periodically for any updates. The 'Effective Date' at the top of the policy indicates when the latest version was implemented.
+
+Contact Information
+If you have any questions, concerns, or requests related to this Cookie Policy, please contact us at easyreserv@ishunea.io.
+

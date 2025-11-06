@@ -1,0 +1,92 @@
+Perfect, Alexandru. 👨‍⚕️
+Mai jos ai textul complet pentru industria Medicală (clinici, cabinete, laboratoare, centre de sănătate) — scris coerent, în același format cu celelalte industrii EasyReserv, axat pe digitalizare, optimizare și control operațional.
+
+⸻
+
+Managementul angajaților și al afacerii
+
+Management eficient al personalului
+Gestionezi programul medicilor, asistenților și personalului administrativ. Planifici ture, stabilești comisioane, vizibilitate completă pe ocupare și performanță.
+
+Management financiar precis
+Închideri de zi, evidență încasări/plăți, plăți parțiale, restanțe și reconciliere pe servicii, medici sau departamente. Integrare directă cu 1C pentru contabilitate fiscală.
+
+Profiluri complete de pacienți
+Fișe medicale digitale, istoric consultații, tratamente, rezultate de laborator, prescripții și observații. Totul centralizat într-un singur loc, cu acces controlat pe roluri.
+
+Configurare flexibilă a clinicii
+Definești cabinete, specializări, servicii medicale, durate și resurse (ecograf, laborator, echipă). Roluri și permisiuni personalizate pentru medici, recepție, laborator și contabilitate.
+
+Documente și consimțăminte
+Contracte, fișe de consimțământ, acorduri GDPR, trimiteri și rapoarte medicale — generate și stocate automat.
+
+⸻
+
+Perspective de business și analitice
+
+Insights bazate pe date
+Accesezi rapoarte în timp real: număr consultații, venituri pe medic, grad de ocupare, servicii profitabile, frecvență pacienți și timp mediu de vizită.
+
+Flux pacienți optimizat
+De la programare online la confirmare, consultație, plată și emiterea documentelor medicale. Fără suprapuneri, fără întârzieri, fără fișe pierdute.
+
+⸻
+
+Managementul stocurilor și aprovizionării
+
+Evidență consum medical
+Monitorizezi consumabilele pe serviciu, scădere automată la utilizare (seringi, mănuși, reactivi). Inventar ghidat și alerte „low stock”.
+
+Management furnizori și achiziții
+Comenzi, recepții, facturi și trasabilitate completă pe produse medicale, cu respectarea normelor sanitare.
+
+Trasabilitate & siguranță
+Serii, loturi și date de expirare vizibile în sistem — conformitate totală la inspecții.
+
+⸻
+
+Relația cu pacienții și marketing
+
+Programări & notificări automate
+Pacienții se programează online, aleg medicul, ora și serviciul. Confirmări și remindere automate prin SMS, e-mail sau notificări push.
+
+Formulare & fișe digitale
+Formulare de anamneză, chestionare de sănătate și fișe digitale completate înainte de consultație — reduc timpul petrecut la recepție.
+
+Abonamente medicale & pachete
+Crează pachete corporate, abonamente recurente sau pachete de analize — cu raportare automată și reînnoiri programate.
+
+Campanii personalizate
+Mesaje și notificări pentru controale periodice, vaccinări, analize preventive sau servicii noi. Crește retenția pacienților și gradul de revenire.
+
+⸻
+
+Operațiuni specifice pentru clinici și cabinete
+
+Calendar și planificare resurse
+Programări inteligente pe cabinete și echipamente. Evită suprapunerile și optimizează timpii de consultație.
+
+Flux consultație complet
+Programare → preluare pacient → consultație → emitere rețetă & bon fiscal → reprogramare automată.
+
+POS & facturare integrată
+Emitere bonuri și facturi, plăți prin POS sau online, conectare directă cu sistemul fiscal și export către 1C.
+
+Telemedicină (opțional)
+Consultații video securizate, cu fișă medicală și atașare documente. Ideal pentru clinici moderne sau pacienți la distanță.
+
+Multi-locație
+Administrezi mai multe filiale dintr-un singur panou. Rapoarte consolidate și control centralizat.
+
+⸻
+
+Micro-impact (de comunicat pe pagină)
+	•	Timp de înregistrare ↓ 70% prin fișe digitale și confirmări automate
+	•	Erori administrative ↓ cu flux complet digital și acces controlat
+	•	Venituri ↑ prin pachete și abonamente recurente
+	•	No-show ↓ 40% prin notificări automate și remindere
+	•	Conformitate totală cu normele medicale și fiscale (GDPR, ANSP, 1C)
+
+⸻
+
+Vrei să ți-l structurez direct în format JSON/i18n pentru selectorul „Alege industria” din /Solutions, sau în blocuri cu <section> / <h3> / <p> pentru implementarea rapidă în React?

@@ -1,0 +1,117 @@
+Ce e NOU - Multi-Language Support
+Website-ul acum poate afișa articole în 3 limbi: EN/RO/RU. Backend-ul trimite automat conținutul în limba cerută.
+
+📝 Endpoint-uri pentru Blog (Multi-Language)
+1. Lista de articole (Blog Index)
+// Românește (default)
+const response = await fetch('http://backend-url/api/blog/articles?page=1&perPage=10');
+// Engleză
+const response = await fetch('http://backend-url/api/blog/articles?page=1&perPage=10&lang=en');
+// Rusă
+const response = await fetch('http://backend-url/api/blog/articles?page=1&perPage=10&lang=ru');
+const data = await response.json();
+// data.articles = array cu articole în limba selectată
+// data.total = număr total articole
+// data.page = pagina curentă
+// data.perPage = articole per pagină
+Parametri disponibili:
+
+page - numărul paginii (default: 1)
+perPage - articole per pagină (default: 10)
+category - filtrare: use_case, news, updates, entertainment
+featured - doar articole featured: true
+lang - limba: en, ro, ru (default: ro)
+Exemplu răspuns:
+
+{
+  "success": true,
+  "articles": [
+    {
+      "id": "Blog/article-slug",
+      "title": "Titlul în limba selectată",
+      "slug": "article-slug",
+      "excerpt": "Descriere scurtă max 200 caractere...",
+      "image": "https://r2-url/image.jpg",
+      "category": "use_case",
+      "author": {
+        "name": "EasyReserv Team",
+        "avatar": null
+      },
+      "publishedAt": "2025-01-23",
+      "displayDate": "23 ianuarie 2025",
+      "featured": true
+    }
+  ],
+  "total": 25,
+  "page": 1,
+  "perPage": 10
+}
+2. Articol individual (Blog Detail Page)
+// Slug din lista de articole
+const slug = 'article-slug';
+// Românește (default)
+const response = await fetch(`http://backend-url/api/blog/articles/${slug}`);
+// Engleză
+const response = await fetch(`http://backend-url/api/blog/articles/${slug}?lang=en`);
+// Rusă
+const response = await fetch(`http://backend-url/api/blog/articles/${slug}?lang=ru`);
+const data = await response.json();
+// data.article = obiect complet cu conținut HTML în limba selectată
+Exemplu răspuns:
+
+{
+  "success": true,
+  "article": {
+    "id": "Blog/article-slug",
+    "title": "Titlul complet în limba selectată",
+    "slug": "article-slug",
+    "excerpt": "Descriere scurtă...",
+    "image": "https://r2-url/image.jpg",
+    "category": "use_case",
+    "author": {
+      "name": "EasyReserv Team",
+      "bio": "Echipa EasyReserv - Experți în soluții de rezervare pentru HoReCa",
+      "avatar": null
+    },
+    "publishedAt": "2025-01-23",
+    "displayDate": "23 ianuarie 2025",
+    "featured": true,
+    "content": "<p>Conținut HTML COMPLET în limba selectată...</p><h2>Subtitlu</h2>...",
+    "readTime": "5 min",
+    "tags": ["Use Case"],
+    "relatedArticles": [
+      {
+        "id": "...",
+        "title": "...",
+        "slug": "...",
+        "excerpt": "...",
+        "image": "...",
+        "category": "use_case"
+      }
+    ]
+  }
+}
+Important:
+
+content vine ca HTML gata de afișat - folosește dangerouslySetInnerHTML (React) sau v-html (Vue)
+Conținutul include toate secțiunile: intro, subheadings, conclusion - toate în limba selectată
+Heading-ul "Conclusion" se traduce automat: "Conclusion" (EN), "Concluzie" (RO), "Заключение" (RU)
+3. Articol Featured (pentru Hero Section)
+// Românește (default)
+const response = await fetch('http://backend-url/api/blog/featured');
+// Engleză
+const response = await fetch('http://backend-url/api/blog/featured?lang=en');
+// Rusă
+const response = await fetch('http://backend-url/api/blog/featured?lang=ru');
+const data = await response.json();
+// data.article = articolul featured (același format ca la #2)
+Returnează articolul marcat cu featured: true, sau cel mai recent dacă nu există niciunul featured.
+
+🎯 Categorii de Blog
+Backend-ul mapează automat categoriile:
+
+Categorie EasyReserv	Afișat ca
+use_case	Use Case
+news	News
+updates	Updates
+entertainment	Entertainment

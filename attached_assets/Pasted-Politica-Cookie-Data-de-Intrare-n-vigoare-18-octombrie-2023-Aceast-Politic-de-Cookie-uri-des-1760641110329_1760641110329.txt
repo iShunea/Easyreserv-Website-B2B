@@ -1,0 +1,36 @@
+Politica Cookie
+Data de Intrare în vigoare: 18 octombrie 2023
+
+Această Politică de Cookie-uri descrie modul în care cookie-urile și tehnologiile similare sunt utilizate pe site-ul Platformei EasyReserv.io ('noi,' 'ne' sau 'noastre'). Prin utilizarea site-ului nostru web, vă dați consimțământul pentru utilizarea cookie-urilor așa cum este descrisă în această politică.
+
+Ce Sunt Cookie-urile?
+Cookie-urile sunt fișiere text mici care sunt stocate pe dispozitivul dvs. (computer, tabletă, smartphone) atunci când vizitați un site web. Ele sunt folosite în mod larg pentru a îmbunătăți experiența de navigare și pentru a furniza anumite funcționalități. Cookie-urile sunt folosite în mod obișnuit pentru a stoca preferințele dvs., pentru a urmări utilizarea site-ului web și pentru a îndeplini diverse alte sarcini legate de interacțiunea utilizatorului și analize.
+
+Cum Folosim Cookie-urile?
+Utilizăm cookie-urile în următoarele scopuri:
+
+Cookie-uri Esențiale: Aceste cookie-uri sunt necesare pentru buna funcționare a site-ului nostru web. Ele permit funcționalități de bază, cum ar fi autentificarea securizată, navigarea și accesul la zone specifice ale site-ului. Fără aceste cookie-uri, site-ul poate să nu funcționeze așa cum este prevăzut.
+Autentificare: Folosim cookie-uri pentru a determina dacă ați efectuat autentificarea în Pixieset și pentru a vă menține autentificat în timpul vizitelor în timp ce accesați diferite pagini.
+Securitate: Folosim cookie-uri pentru a permite și susține caracteristicile de securitate, pentru a preveni fraudarea și pentru a detecta activitățile dăunătoare.
+Preferințe și Caracteristici: Folosim cookie-uri pentru a activa caracteristici, pentru a personaliza conținutul și pentru a vă reține preferințele.
+Cookie-uri de Analiză: Folosim cookie-uri de analiză pentru a aduna informații despre modul în care vizitatorii utilizează site-ul nostru web. Acest lucru ne ajută să înțelegem preferințele utilizatorilor, să identificăm zone pentru îmbunătățire și să optimizăm performanța site-ului. Datele colectate sunt agregate și anonimizate.
+Google Analytics: Folosim Google Analytics pentru a măsura modul în care utilizatorii interacționează cu site-urile noastre - https://policies.google.com/privacy
+Facebook: Folosim Pixelii și Audiențele Personalizate de Facebook pentru a furniza publicitate țintită persoanelor care vizitează site-urile noastre - https://www.facebook.com/policy.php
+New Relic: Folosim New Relic pentru a monitoriza performanța și erorile aplicațiilor noastre - https://newrelic.com/termsandconditions/privacy
+Cloudflare: Folosim Cloudflare pentru a asigura securitatea aplicațiilor - https://www.cloudflare.com/privacypolicy
+Google Ads: Folosim Google Ads pentru a furniza publicitate țintită persoanelor care caută serviciile oferite de Pixieset - https://policies.google.com/privacy
+Cookie-uri de Funcționalitate: Aceste cookie-uri permit site-ului să-și amintească alegerile pe care le faceți (cum ar fi numele de utilizator, limba sau regiunea) și să furnizeze funcționalități îmbunătățite și personalizate. Ele pot fi folosite și pentru a reține modificările pe care le faceți la dimensiunea textului, fonturi și alte elemente personalizabile.
+Cookie-uri de Publicitate și Marketing: Nu folosim cookie-uri de publicitate pentru a urmări comportamentul de navigare pe diferite site-uri web în scopul furnizării de publicitate țintită.
+Cookie-uri de la Părți Terțe
+Putem permite, de asemenea, Părților Terțe și/sau Partenerilor să seteze cookie-uri pe site-ul nostru pentru scopurile descrise mai sus. Acești Parteneri pot include companii de analiză, publicitate și rețele sociale. Vă rugăm să rețineți că nu avem control asupra cookie-urilor setate de acești Parteneri.
+
+Administrarea Cookie-urilor
+Cele mai multe browsere web vă permit să controlați și să gestionați preferințele dvs. legate de cookie-uri. De obicei, puteți ajusta setările browserului pentru a respinge cookie-urile, pentru a șterge cookie-urile existente sau pentru a primi notificări atunci când sunt trimise cookie-uri noi pe dispozitivul dvs. Rețineți că dezactivarea cookie-urilor poate afecta funcționalitatea și experiența utilizatorului pe site-ul nostru.
+
+Actualizări ale Acestei Politici de Cookie-uri
+Putem actualiza această Politică de Cookie-uri de la timp la timp pentru a reflecta schimbările în tehnologie, cerințele legale sau practicile noastre. Vă încurajăm să revizuiți această politică periodic pentru eventuale actualizări. Data 'Intrare în vigoare' de la începutul politicii indică momentul implementării celei mai recente versiuni.
+
+Informații de Contact
+Dacă aveți întrebări, preocupări sau solicitări legate de această Politică Cookie-uri, vă rugăm să ne contactați la easyreserv@ishunea.io.
+
+Prin continuarea utilizării site-ului nostru web, sunteți de acord cu utilizarea cookie-urilor așa cum este descrisă în această politică.

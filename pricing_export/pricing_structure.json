@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0",
+  "description": "EasyReserv.io - Pricing Plans Structure for Web App Import",
+  "pricing_tiers": {
+    "basic": {
+      "tier_name": "Basic",
+      "tier_id": "basic",
+      "is_popular": false,
+      "button_variant": "outline"
+    },
+    "standard": {
+      "tier_name": "Standard",
+      "tier_id": "standard",
+      "is_popular": false,
+      "button_variant": "outline"
+    },
+    "pro": {
+      "tier_name": "Pro",
+      "tier_id": "pro",
+      "is_popular": true,
+      "button_variant": "default"
+    },
+    "enterprise": {
+      "tier_name": "Enterprise",
+      "tier_id": "enterprise",
+      "is_popular": false,
+      "button_variant": "outline",
+      "custom_pricing": true
+    }
+  },
+  "industry_pricing": {
+    "restaurante": {
+      "industry_key": "restaurante",
+      "industry_names": {
+        "ro": "Restaurante",
+        "en": "Restaurants",
+        "ru": "Рестораны"
+      },
+      "monthly_prices": {
+        "basic": 50,
+        "standard": 95,
+        "pro": 155,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "cafenele": {
+      "industry_key": "cafenele",
+      "industry_names": {
+        "ro": "Cafenele",
+        "en": "Cafes",
+        "ru": "Кафе"
+      },
+      "monthly_prices": {
+        "basic": 39,
+        "standard": 79,
+        "pro": 129,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "saloane_barbershop": {
+      "industry_key": "saloane_barbershop",
+      "industry_names": {
+        "ro": "Saloane de frumusețe / Barbershopuri",
+        "en": "Beauty Salons / Barbershops",
+        "ru": "Салоны красоты / Барбершопы"
+      },
+      "monthly_prices": {
+        "basic": 45,
+        "standard": 85,
+        "pro": 139,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "hotele": {
+      "industry_key": "hotele",
+      "industry_names": {
+        "ro": "Hotele & Pensiuni",
+        "en": "Hotels & Guesthouses",
+        "ru": "Отели & Гостевые дома"
+      },
+      "monthly_prices": {
+        "basic": 55,
+        "standard": 105,
+        "pro": 169,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "chirii_auto": {
+      "industry_key": "chirii_auto",
+      "industry_names": {
+        "ro": "Chirii Auto",
+        "en": "Car Rentals",
+        "ru": "Аренда автомобилей"
+      },
+      "monthly_prices": {
+        "basic": 49,
+        "standard": 99,
+        "pro": 159,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "fitness": {
+      "industry_key": "fitness",
+      "industry_names": {
+        "ro": "Fitness",
+        "en": "Fitness",
+        "ru": "Фитнес"
+      },
+      "monthly_prices": {
+        "basic": 45,
+        "standard": 89,
+        "pro": 145,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "medical": {
+      "industry_key": "medical",
+      "industry_names": {
+        "ro": "Medical",
+        "en": "Medical",
+        "ru": "Медицинский"
+      },
+      "monthly_prices": {
+        "basic": 59,
+        "standard": 115,
+        "pro": 185,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "retail": {
+      "industry_key": "retail",
+      "industry_names": {
+        "ro": "Retail",
+        "en": "Retail",
+        "ru": "Розничная торговля"
+      },
+      "monthly_prices": {
+        "basic": 45,
+        "standard": 89,
+        "pro": 145,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "spalatorii_auto": {
+      "industry_key": "spalatorii_auto",
+      "industry_names": {
+        "ro": "Spălătorii Auto",
+        "en": "Car Washes",
+        "ru": "Автомойки"
+      },
+      "monthly_prices": {
+        "basic": 35,
+        "standard": 75,
+        "pro": 125,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    },
+    "tenis_padel_fotbal": {
+      "industry_key": "tenis_padel_fotbal",
+      "industry_names": {
+        "ro": "Tenis/Padel/Fotbal",
+        "en": "Sports Fields",
+        "ru": "Спортивные площадки"
+      },
+      "monthly_prices": {
+        "basic": 39,
+        "standard": 79,
+        "pro": 129,
+        "enterprise": null
+      },
+      "annual_discount": 0.10
+    }
+  },
+  "value_types": {
+    "boolean": {
+      "true": "✓ Included",
+      "false": "Not included"
+    },
+    "string": "Feature value or limitation",
+    "add_on": "Available as paid add-on"
+  }
+}
