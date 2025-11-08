@@ -1,0 +1,1512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>undefined | EasyReserv.io</title>
+  <meta name="description" content="undefined">
+  <link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+/* EasyReserv.io Pricing Export Styles */
+/* Standalone CSS for exported pricing pages */
+
+/* Reset & Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background-color: #ffffff;
+  color: #282828;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Container */
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 0;
+  border-bottom: 1px solid #e5e7eb;
+  margin-bottom: 48px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #282828;
+}
+
+.nav {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.industry-select {
+  padding: 10px 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: white;
+  font-size: 16px;
+  font-family: 'Onest', sans-serif;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.industry-select:hover {
+  border-color: #3B82F6;
+}
+
+.industry-select:focus {
+  outline: none;
+  border-color: #3B82F6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  margin-bottom: 64px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  color: #282828;
+}
+
+.hero .highlight {
+  color: #3B82F6;
+}
+
+.hero-description {
+  font-size: 18px;
+  color: rgba(40, 40, 40, 0.7);
+  max-width: 800px;
+  margin: 0 auto 40px;
+}
+
+.industry-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #282828;
+  margin-top: 48px;
+}
+
+/* Billing Toggle */
+.billing-toggle {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 48px;
+}
+
+.toggle-btn {
+  padding: 12px 24px;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  background: white;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Onest', sans-serif;
+  cursor: pointer;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.toggle-btn:hover {
+  border-color: #3B82F6;
+  background: rgba(59, 130, 246, 0.05);
+}
+
+.toggle-btn.active {
+  border-color: #3B82F6;
+  background: #3B82F6;
+  color: white;
+}
+
+.save-badge-small {
+  padding: 4px 8px;
+  background: #10b981;
+  color: white;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* Pricing Grid */
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto 80px;
+}
+
+/* Pricing Card */
+.pricing-card {
+  background: #f9fafb;
+  border: 2px solid #e5e7eb;
+  border-radius: 20px;
+  padding: 32px 24px;
+  position: relative;
+  transition: all 0.3s;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.pricing-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  border-color: #3B82F6;
+}
+
+.pricing-card.popular {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+  border-color: #3B82F6;
+  border-width: 3px;
+}
+
+.pricing-card.popular::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(135deg, #3B82F6, #2563eb);
+  border-radius: 20px;
+  z-index: -1;
+  opacity: 0.1;
+}
+
+/* Badge */
+.badge {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(135deg, #3B82F6, #2563eb);
+  color: white;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.pricing-card h3 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #282828;
+}
+
+.pricing-card .description {
+  font-size: 14px;
+  color: rgba(40, 40, 40, 0.6);
+  margin-bottom: 24px;
+  min-height: 40px;
+}
+
+/* Price Container */
+.price-container {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.price {
+  font-size: 48px;
+  font-weight: 700;
+  color: #282828;
+  line-height: 1;
+}
+
+.period {
+  font-size: 18px;
+  color: rgba(40, 40, 40, 0.5);
+}
+
+.save-badge {
+  background: #10b981;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+/* CTA Button */
+.cta-button {
+  display: inline-block;
+  width: 100%;
+  padding: 14px 24px;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-bottom: 24px;
+  border: none;
+  font-family: 'Onest', sans-serif;
+}
+
+.cta-button.primary {
+  background: linear-gradient(135deg, #3B82F6, #2563eb);
+  color: white;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.cta-button.primary:hover {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4);
+  transform: translateY(-2px);
+}
+
+.cta-button.secondary {
+  background: white;
+  color: #3B82F6;
+  border: 2px solid #3B82F6;
+}
+
+.cta-button.secondary:hover {
+  background: #eff6ff;
+  transform: translateY(-2px);
+}
+
+/* Features */
+.features {
+  flex: 1;
+}
+
+.features-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: #282828;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-size: 15px;
+  color: rgba(40, 40, 40, 0.8);
+}
+
+.features li svg {
+  flex-shrink: 0;
+  color: #10b981;
+  margin-top: 2px;
+}
+
+/* CTA Section */
+.cta-section {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+  border-radius: 24px;
+  padding: 64px 32px;
+  text-align: center;
+  margin-bottom: 64px;
+}
+
+.cta-section h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #282828;
+  margin-bottom: 16px;
+}
+
+.cta-section p {
+  font-size: 18px;
+  color: rgba(40, 40, 40, 0.7);
+  max-width: 700px;
+  margin: 0 auto 32px;
+}
+
+.cta-section .cta-button {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 32px 0;
+  border-top: 1px solid #e5e7eb;
+  color: rgba(40, 40, 40, 0.6);
+}
+
+.footer-lang {
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 32px;
+  }
+  
+  .industry-title {
+    font-size: 24px;
+  }
+  
+  .pricing-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .billing-toggle {
+    flex-direction: column;
+  }
+  
+  .header {
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .cta-section {
+    padding: 40px 24px;
+  }
+  
+  .cta-section h2 {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 24px;
+  }
+  
+  .price {
+    font-size: 36px;
+  }
+  
+  .pricing-card {
+    padding: 24px 16px;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .billing-toggle,
+  .industry-select,
+  .cta-button {
+    display: none;
+  }
+  
+  .pricing-card {
+    break-inside: avoid;
+  }
+}
+
+    .industry-section {
+      margin-bottom: 80px;
+      scroll-margin-top: 100px;
+    }
+    
+    .industry-heading {
+      font-size: 32px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 48px;
+      color: #1a1a1a;
+    }
+    
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+      margin-bottom: 48px;
+    }
+    
+    .nav-link {
+      padding: 8px 16px;
+      background: #f3f4f6;
+      border-radius: 8px;
+      text-decoration: none;
+      color: #4b5563;
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+    
+    .nav-link:hover {
+      background: #3B82F6;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="logo">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+          <rect width="40" height="40" rx="8" fill="#3B82F6"/>
+          <path d="M12 20L18 26L28 14" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span>EasyReserv.io</span>
+      </div>
+    </header>
+
+    <section class="hero">
+      <h1>Alege excelența. Alege <span class="highlight">EasyReserv.io</span></h1>
+      <p class="hero-description">Încearcă perioada de test gratuită și găsește abonamentul perfect pentru nevoile tale.</p>
+    </section>
+
+    <div class="billing-toggle" data-testid="billing-toggle">
+      <button class="toggle-btn active" data-billing="monthly" data-testid="button-monthly">
+        Lunar
+      </button>
+      <button class="toggle-btn" data-billing="annually" data-testid="button-annually">
+        Anual
+        <span class="discount-badge">Economisești 10%</span>
+      </button>
+    </div>
+
+    <nav class="nav-links">
+      
+        <a href="#restaurante" class="nav-link">restaurante</a>
+      
+        <a href="#cafenele" class="nav-link">cafenele</a>
+      
+        <a href="#saloane_barbershop" class="nav-link">saloane_barbershop</a>
+      
+        <a href="#hotele" class="nav-link">hotele</a>
+      
+        <a href="#chirii_auto" class="nav-link">chirii_auto</a>
+      
+        <a href="#fitness" class="nav-link">fitness</a>
+      
+        <a href="#medical" class="nav-link">medical</a>
+      
+        <a href="#retail" class="nav-link">retail</a>
+      
+        <a href="#spalatorii_auto" class="nav-link">spalatorii_auto</a>
+      
+        <a href="#tenis_padel_fotbal" class="nav-link">tenis_padel_fotbal</a>
+      
+    </nav>
+
+    
+    <div class="industry-section" id="restaurante">
+      <h2 class="industry-heading">restaurante</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€50</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€540</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=1f900d0c-5ea1-49a0-bfb7-eb2411e5eb0a" 
+            class="cta-button monthly-button"
+            data-monthly-plan="1f900d0c-5ea1-49a0-bfb7-eb2411e5eb0a"
+            data-annual-plan="b2f7e4a1-8c3d-4f9b-a6e2-7d5c9f1a4b8e"
+            data-testid="button-subscribe-restaurante-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€125</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1350</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=0a4eb8ea-e0a0-49bc-aae9-8774f0693f33" 
+            class="cta-button monthly-button"
+            data-monthly-plan="0a4eb8ea-e0a0-49bc-aae9-8774f0693f33"
+            data-annual-plan="c9d3a8f5-2e7b-4c1a-9f6d-8e4b7a2c5f9d"
+            data-testid="button-subscribe-restaurante-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€200</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€2160</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=a5c8d9f2-3b4e-4a7c-8d1f-2e9b6c4a8f3d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="a5c8d9f2-3b4e-4a7c-8d1f-2e9b6c4a8f3d"
+            data-annual-plan="d4a7f9c2-5b8e-4d3a-a1f7-9c6e2b4d8a5f"
+            data-testid="button-subscribe-restaurante-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="cafenele">
+      <h2 class="industry-heading">cafenele</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€50</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€540</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=bb45bdc1-8804-48f1-983c-87d2368d555c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="bb45bdc1-8804-48f1-983c-87d2368d555c"
+            data-annual-plan="777a2240-3199-4b3a-993e-965652ac71f0"
+            data-testid="button-subscribe-cafenele-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€125</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1350</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=a6479e33-f8a2-4783-8502-b1033e89a1ee" 
+            class="cta-button monthly-button"
+            data-monthly-plan="a6479e33-f8a2-4783-8502-b1033e89a1ee"
+            data-annual-plan="065f8e16-ac70-4bba-95c2-7acb0ff91783"
+            data-testid="button-subscribe-cafenele-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€200</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€2160</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=931cbc5b-cf1f-4379-a333-42ce1d22bb5d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="931cbc5b-cf1f-4379-a333-42ce1d22bb5d"
+            data-annual-plan="036df0c8-1b57-4482-9057-ccde656754b0"
+            data-testid="button-subscribe-cafenele-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="saloane_barbershop">
+      <h2 class="industry-heading">saloane_barbershop</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€40</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€432</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=d74fa21b-cb9c-4aba-bbb7-c7b90f38c867" 
+            class="cta-button monthly-button"
+            data-monthly-plan="d74fa21b-cb9c-4aba-bbb7-c7b90f38c867"
+            data-annual-plan="6d80c96b-b79d-41d8-a53b-02fdde0bde73"
+            data-testid="button-subscribe-saloane_barbershop-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€85</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€918</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=0f3c1e8b-5c03-4f9f-ae44-bd06df44b09d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="0f3c1e8b-5c03-4f9f-ae44-bd06df44b09d"
+            data-annual-plan="7a4f1c9c-f86a-4f06-85dd-18b01f654494"
+            data-testid="button-subscribe-saloane_barbershop-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€140</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1512</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=6ddb53eb-9a0f-4e1d-b2e9-91aecbdd7d23" 
+            class="cta-button monthly-button"
+            data-monthly-plan="6ddb53eb-9a0f-4e1d-b2e9-91aecbdd7d23"
+            data-annual-plan="f0e1ac5c-33a3-44a0-80df-4f5b2e1c3d8a"
+            data-testid="button-subscribe-saloane_barbershop-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="hotele">
+      <h2 class="industry-heading">hotele</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€79</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€853</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=7f5ed7da-5200-427e-aece-f503ffe7b15d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="7f5ed7da-5200-427e-aece-f503ffe7b15d"
+            data-annual-plan="117ae90d-c4d7-4b21-990e-e921b9053cb1"
+            data-testid="button-subscribe-hotele-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€149</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1609</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=8c994caf-8e21-46b5-8e6f-9aa7e26de6dd" 
+            class="cta-button monthly-button"
+            data-monthly-plan="8c994caf-8e21-46b5-8e6f-9aa7e26de6dd"
+            data-annual-plan="6acd0e21-d44a-4339-86de-6e447c874d03"
+            data-testid="button-subscribe-hotele-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€249</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€2689</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=e21eb5f5-ddba-4f49-8ee3-c55e1e316367" 
+            class="cta-button monthly-button"
+            data-monthly-plan="e21eb5f5-ddba-4f49-8ee3-c55e1e316367"
+            data-annual-plan="2a65e4f1-a5b7-4e21-81de-f0b9a4074e20"
+            data-testid="button-subscribe-hotele-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="chirii_auto">
+      <h2 class="industry-heading">chirii_auto</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€59</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€637</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=5c78a3f2-d9e4-4b1a-8f6c-2e9b7d4a1c5f" 
+            class="cta-button monthly-button"
+            data-monthly-plan="5c78a3f2-d9e4-4b1a-8f6c-2e9b7d4a1c5f"
+            data-annual-plan="7d9e4a3f-8c2b-4f5a-9e1d-6c8a7b2f4e9c"
+            data-testid="button-subscribe-chirii_auto-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€119</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1285</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=8a4f2e9b-6c3d-4a7f-9e1b-5d8c7a2f4e9b" 
+            class="cta-button monthly-button"
+            data-monthly-plan="8a4f2e9b-6c3d-4a7f-9e1b-5d8c7a2f4e9b"
+            data-annual-plan="4a8f2e7c-9b3d-4a6f-8e1b-5c7d9a2f4e8b"
+            data-testid="button-subscribe-chirii_auto-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€199</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€2149</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=9e7c4a2f-5b8d-4e3a-a1f6-8c9e2b4d7a5f" 
+            class="cta-button monthly-button"
+            data-monthly-plan="9e7c4a2f-5b8d-4e3a-a1f6-8c9e2b4d7a5f"
+            data-annual-plan="6c9e4a7f-8d2b-4e3a-9f1c-7a8e2b4d5f9c"
+            data-testid="button-subscribe-chirii_auto-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="fitness">
+      <h2 class="industry-heading">fitness</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€49</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€529</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=2a9f4e8c-7d3b-4a6f-9e1b-5c8d7a2f4e9b" 
+            class="cta-button monthly-button"
+            data-monthly-plan="2a9f4e8c-7d3b-4a6f-9e1b-5c8d7a2f4e9b"
+            data-annual-plan="5f9a2e8c-7d3b-4a6f-9e1b-6c8d7a2f4e9b"
+            data-testid="button-subscribe-fitness-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€99</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1069</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=6e8a4f2c-9d3b-4a7f-8e1c-5b9d7a2f4e8c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="6e8a4f2c-9d3b-4a7f-8e1c-5b9d7a2f4e8c"
+            data-annual-plan="8e9a4f2c-7d3b-4a6f-9e1c-5b8d7a2f4e9c"
+            data-testid="button-subscribe-fitness-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€149</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1609</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=9c8e4a7f-8d2b-4e3a-9f1c-7a8e2b4d5f9c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="9c8e4a7f-8d2b-4e3a-9f1c-7a8e2b4d5f9c"
+            data-annual-plan="7c9e4a8f-9d2b-4e3a-8f1c-6a7e2b4d5f9c"
+            data-testid="button-subscribe-fitness-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="medical">
+      <h2 class="industry-heading">medical</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€49</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€529</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=3a7f2e9c-8d4b-4f6a-9e1c-5b8d7a2f4e9b" 
+            class="cta-button monthly-button"
+            data-monthly-plan="3a7f2e9c-8d4b-4f6a-9e1c-5b8d7a2f4e9b"
+            data-annual-plan="4f8a2e9c-7d3b-4a6f-9e1b-5c8d7a2f4e9b"
+            data-testid="button-subscribe-medical-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€99</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1069</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=8e4a7f2c-9d3b-4a6f-8e1b-5c7d9a2f4e8c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="8e4a7f2c-9d3b-4a6f-8e1b-5c7d9a2f4e8c"
+            data-annual-plan="7e9a4f2c-8d3b-4a6f-9e1c-5b8d7a2f4e9c"
+            data-testid="button-subscribe-medical-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€199</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€2149</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=9c7e4a2f-8d5b-4e3a-9f1c-6a8e2b4d7f9c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="9c7e4a2f-8d5b-4e3a-9f1c-6a8e2b4d7f9c"
+            data-annual-plan="8c9e4a7f-9d2b-4e3a-8f1c-6a7e2b4d5f9c"
+            data-testid="button-subscribe-medical-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="retail">
+      <h2 class="industry-heading">retail</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€49</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€529</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=4a8f2e9c-7d3b-4a6f-9e1b-5c8d7a2f4e9b" 
+            class="cta-button monthly-button"
+            data-monthly-plan="4a8f2e9c-7d3b-4a6f-9e1b-5c8d7a2f4e9b"
+            data-annual-plan="6f8a2e9c-7d3b-4a6f-9e1b-5c8d7a2f4e9b"
+            data-testid="button-subscribe-retail-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€99</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1069</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=7e8a4f2c-9d3b-4a7f-8e1c-5b9d7a2f4e8c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="7e8a4f2c-9d3b-4a7f-8e1c-5b9d7a2f4e8c"
+            data-annual-plan="9e8a4f2c-7d3b-4a6f-9e1c-5b8d7a2f4e9c"
+            data-testid="button-subscribe-retail-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€159</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1717</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=8c9e4a7f-8d2b-4e3a-9f1c-7a8e2b4d5f9c" 
+            class="cta-button monthly-button"
+            data-monthly-plan="8c9e4a7f-8d2b-4e3a-9f1c-7a8e2b4d5f9c"
+            data-annual-plan="8c7e4a9f-9d2b-4e3a-8f1c-6a7e2b4d5f9c"
+            data-testid="button-subscribe-retail-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="spalatorii_auto">
+      <h2 class="industry-heading">spalatorii_auto</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€35</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€378</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=ebe3b1ba-a954-40a9-8512-c0409695ae34" 
+            class="cta-button monthly-button"
+            data-monthly-plan="ebe3b1ba-a954-40a9-8512-c0409695ae34"
+            data-annual-plan="58c0d764-c8b7-47fb-9a9d-b3a8a5f5fd0a"
+            data-testid="button-subscribe-spalatorii_auto-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€75</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€810</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=af9a40d5-6882-4bcb-8601-c35cc5d5e6ff" 
+            class="cta-button monthly-button"
+            data-monthly-plan="af9a40d5-6882-4bcb-8601-c35cc5d5e6ff"
+            data-annual-plan="86c01eff-d7e3-4c1f-bd23-10ad372f6663"
+            data-testid="button-subscribe-spalatorii_auto-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€125</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1350</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=2536ae4b-9797-4b72-9eed-6796e97448ce" 
+            class="cta-button monthly-button"
+            data-monthly-plan="2536ae4b-9797-4b72-9eed-6796e97448ce"
+            data-annual-plan="56b9d32d-fad5-438f-a652-5cb6a7ea0ffc"
+            data-testid="button-subscribe-spalatorii_auto-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="industry-section" id="tenis_padel_fotbal">
+      <h2 class="industry-heading">tenis_padel_fotbal</h2>
+      <div class="pricing-grid">
+        <!-- Basic Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Basic</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€39</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€421</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=3a7f2e9c-8d4b-4f6a-9e1c-5b8d7a2f4e9d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="3a7f2e9c-8d4b-4f6a-9e1c-5b8d7a2f4e9d"
+            data-annual-plan="4f8a2e9c-7d3b-4a6f-9e1b-5c8d7a2f4e9d"
+            data-testid="button-subscribe-tenis_padel_fotbal-basic">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Standard Plan -->
+        <div class="pricing-card featured">
+          <div class="popular-badge">Cel mai popular</div>
+          <div class="card-header">
+            <h3 class="plan-name">Standard</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€79</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€853</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=8e4a7f2c-9d3b-4a6f-8e1b-5c7d9a2f4e8d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="8e4a7f2c-9d3b-4a6f-8e1b-5c7d9a2f4e8d"
+            data-annual-plan="7e9a4f2c-8d3b-4a6f-9e1c-5b8d7a2f4e9d"
+            data-testid="button-subscribe-tenis_padel_fotbal-standard">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-card">
+          <div class="card-header">
+            <h3 class="plan-name">Pro</h3>
+            <p class="plan-description"></p>
+          </div>
+          <div class="price-container">
+            <div class="price monthly-price active">
+              <span class="amount">€129</span>
+              <span class="period">/lună</span>
+            </div>
+            <div class="price annual-price">
+              <span class="amount">€1393</span>
+              <span class="period">/an</span>
+            </div>
+          </div>
+          <a 
+            href="https://app.easyreserv.io/register?planId=9c7e4a2f-8d5b-4e3a-9f1c-6a8e2b4d7f9d" 
+            class="cta-button monthly-button"
+            data-monthly-plan="9c7e4a2f-8d5b-4e3a-9f1c-6a8e2b4d7f9d"
+            data-annual-plan="8c9e4a7f-9d2b-4e3a-8f1c-6a7e2b4d5f9d"
+            data-testid="button-subscribe-tenis_padel_fotbal-pro">
+            Începe perioada gratuită
+          </a>
+          <ul class="features-list">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <footer style="text-align: center; padding: 40px 20px; color: #666; border-top: 1px solid #e5e7eb;">
+      <p><strong>EasyReserv.io</strong> - Prețuri & Planuri de abonament</p>
+      <p style="margin-top: 8px; font-size: 14px;">Încearcă perioada de test gratuită și găsește abonamentul perfect pentru nevoile tale.</p>
+    </footer>
+  </div>
+
+  <script>
+    const toggleButtons = document.querySelectorAll('[data-billing]');
+    const monthlyPrices = document.querySelectorAll('.monthly-price');
+    const annualPrices = document.querySelectorAll('.annual-price');
+    const ctaButtons = document.querySelectorAll('.cta-button');
+
+    toggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const billing = btn.dataset.billing;
+        
+        toggleButtons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        if (billing === 'monthly') {
+          monthlyPrices.forEach(p => p.classList.add('active'));
+          annualPrices.forEach(p => p.classList.remove('active'));
+          ctaButtons.forEach(button => {
+            const monthlyPlan = button.dataset.monthlyPlan;
+            if (monthlyPlan) {
+              button.href = `https://app.easyreserv.io/register?planId=${monthlyPlan}`;
+            }
+          });
+        } else {
+          monthlyPrices.forEach(p => p.classList.remove('active'));
+          annualPrices.forEach(p => p.classList.add('active'));
+          ctaButtons.forEach(button => {
+            const annualPlan = button.dataset.annualPlan;
+            if (annualPlan) {
+              button.href = `https://app.easyreserv.io/register?planId=${annualPlan}`;
+            }
+          });
+        }
+      });
+    });
+
+    // Smooth scrolling for navigation links
+    document.querySelectorAll('.nav-link').forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const targetId = link.getAttribute('href');
+        const target = document.querySelector(targetId);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

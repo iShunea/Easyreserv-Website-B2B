@@ -9,7 +9,11 @@ This directory contains **standalone HTML exports** of all EasyReserv.io pricing
 ```
 pricing_export/
 ├── html/
-│   ├── ro/           # Romanian pricing pages
+│   ├── full_page_ro.html    # Complete pricing page (all industries) RO
+│   ├── full_page_en.html    # Complete pricing page (all industries) EN
+│   ├── full_page_ru.html    # Complete pricing page (all industries) RU
+│   ├── index.html           # Navigation page
+│   ├── ro/                  # Individual industry pages (Romanian)
 │   │   ├── restaurante.html
 │   │   ├── cafenele.html
 │   │   ├── hotele.html
@@ -20,30 +24,36 @@ pricing_export/
 │   │   ├── fitness.html
 │   │   ├── medical.html
 │   │   └── retail.html
-│   ├── en/           # English pricing pages
+│   ├── en/                  # Individual industry pages (English)
 │   │   └── ... (same files)
-│   └── ru/           # Russian pricing pages
+│   └── ru/                  # Individual industry pages (Russian)
 │       └── ... (same files)
 ├── styles/
-│   └── pricing-export.css  # Standalone CSS
+│   └── pricing-export.css   # Standalone CSS
 ├── scripts/
-│   └── generate-export.ts  # Export generation script
-└── README.md         # This file
+│   ├── generate-export.ts       # Individual pages generator
+│   └── generate-full-page.ts    # Complete page generator
+└── README.md                # This file
 ```
 
 ## 🎯 What's Included
 
 ### ✅ Complete Pricing Information
 - **10 Industries**: All supported business types
-- **4 Plans per Industry**: Basic, Standard, Pro, Enterprise
+- **3 Plans per Industry**: Basic, Standard, Pro
 - **2 Billing Options**: Monthly and Annual (with 10% discount)
 - **54 Unique Plan IDs**: Hardcoded for direct registration links
 
+### ✅ Two Export Types
+1. **Full Page Exports** (`full_page_*.html`) - All 10 industries on one page with navigation
+2. **Individual Exports** (`ro/`, `en/`, `ru/`) - Separate page per industry
+
 ### ✅ Interactive Features
 - **Billing Toggle**: Switch between monthly and annual pricing
-- **Industry Selector**: Navigate between different industries
+- **Industry Navigation**: Jump links to different industries (full page) or dropdown selector (individual)
 - **Registration Links**: Direct links to `app.easyreserv.io/register?planId={uuid}`
 - **Responsive Design**: Works on mobile, tablet, and desktop
+- **Smooth Scrolling**: Animated navigation between sections
 
 ### ✅ Multilingual Support
 - **Romanian (RO)**: Full translation
@@ -100,8 +110,19 @@ Upload the `html/` directory to any static hosting:
 
 ## 🔄 Regenerate Exports
 
+### Regenerate Individual Pages (30 files)
 ```bash
 npx tsx pricing_export/scripts/generate-export.ts
+```
+
+### Regenerate Full Pages (3 files - all industries)
+```bash
+npx tsx pricing_export/scripts/generate-full-page.ts
+```
+
+### Regenerate Everything
+```bash
+npx tsx pricing_export/scripts/generate-export.ts && npx tsx pricing_export/scripts/generate-full-page.ts
 ```
 
 ## 📝 Notes
@@ -112,9 +133,19 @@ npx tsx pricing_export/scripts/generate-export.ts
 - **SEO Friendly**: Semantic HTML with meta tags
 - **Cross-Browser**: Works in all modern browsers
 
+## 📦 Export Files Summary
+
+| Export Type | Files | Size | Description |
+|-------------|-------|------|-------------|
+| **Full Pages** | 3 files | ~46KB each | All 10 industries on one page |
+| **Individual Pages** | 30 files | ~39KB each | One industry per page |
+| **Navigation** | 1 file | ~13KB | Index with links to all exports |
+| **Total** | **34 HTML files** | ~1.5MB | Complete standalone export |
+
 ---
 
 **Generated on**: November 8, 2024  
-**Total Files**: 30 HTML pages  
+**Total Files**: 34 HTML pages (3 full + 30 individual + 1 index)  
 **Languages**: Romanian, English, Russian  
-**Industries**: 10 supported sectors
+**Industries**: 10 supported sectors  
+**Plan IDs**: 54 unique UUIDs
