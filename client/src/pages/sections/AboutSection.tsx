@@ -26,6 +26,7 @@ const calculateYearsSince2023 = (): string => {
 export const AboutSection = (): JSX.Element => {
   const { t } = useTranslation();
   const [selectedIndustry, setSelectedIndustry] = React.useState("restaurante");
+  const [selectedPartnerCategory, setSelectedPartnerCategory] = React.useState("restaurante");
   const [openAccordion, setOpenAccordion] = React.useState("smart-reservations");
 
   const industries = [
@@ -41,6 +42,91 @@ export const AboutSection = (): JSX.Element => {
     { value: "terenuri-sportive", label: t("features_section.industries.terenuri-sportive") },
     { value: "spalatorii-auto", label: t("features_section.industries.spalatorii-auto") },
   ];
+
+  const partnersByIndustry = {
+    restaurante: [
+      { name: "Pegas Restaurant", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Royal Ranch", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Atypic", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Château Vartely", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "MOJO Restobar", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+      { name: "Osho Bar & Kitchen", logo: "/figmaAssets/osho-logo.jpg" },
+      { name: "Restaurant Anchiano", logo: "/figmaAssets/anchiano-logo.jpg" },
+      { name: "PUER", logo: "/figmaAssets/puar-logo.jpg" },
+      { name: "What The Food?", logo: "/figmaAssets/wtf-logo.jpg" },
+      { name: "513", logo: "/figmaAssets/513-logo.png" },
+    ],
+    cafenele: [
+      { name: "Starbucks Moldova", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Tucano Coffee", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Urban Coffee", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Café Central", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Coffee Molka", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    saloane: [
+      { name: "Beauty Zone", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Glamour Studio", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Style & Beauty", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Elite Salon", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Beauty House", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    barbershop: [
+      { name: "Barber Club", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Gentleman's Cut", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Classic Barber", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Urban Barber", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "The Barbershop", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    hotel: [
+      { name: "Radisson Blu", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Nobil Luxury Boutique Hotel", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Courtyard by Marriott", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Bristol Central Park", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "City Park Hotel", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    "chirii-auto": [
+      { name: "Economy Rent a Car", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Sixt Moldova", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Auto Rent", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Premium Cars", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Drive & Go", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    fitness: [
+      { name: "World Class", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "FitCurves", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Sport Life", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Fitness Academy", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Power Gym", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    medical: [
+      { name: "Medpark", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Clinica Sante", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Medcenter", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Dentist Pro", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Health Plus", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    retail: [
+      { name: "Linella", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Nr.1", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Green Hills", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Fidesco", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Metro", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    "terenuri-sportive": [
+      { name: "Sport Arena", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Football Zone", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Tennis Club", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Multisport Complex", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Play & Win", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+    "spalatorii-auto": [
+      { name: "Auto Wash Pro", logo: "/figmaAssets/pegas-logo.png" },
+      { name: "Clean Car", logo: "/figmaAssets/royal-ranch-logo.jpg" },
+      { name: "Wash & Go", logo: "/figmaAssets/atypic-logo.jpg" },
+      { name: "Premium Car Wash", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
+      { name: "Express Wash", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
+    ],
+  };
 
   const topStats = [
     { label: t("stats.founded"), value: t("stats.founded_value") },
@@ -255,116 +341,50 @@ export const AboutSection = (): JSX.Element => {
       <div className="w-full py-16 md:py-24">
         <Container>
           <div className="col-span-12 flex flex-col items-center gap-12">
-            <div className="flex flex-col items-center gap-4 text-center">
+            <div className="flex flex-col items-center gap-6 text-center">
               <h2 className="[font-family:'Onest',Helvetica] font-bold text-[#282828] text-4xl md:text-5xl tracking-[0] leading-[52.8px]">
                 {t("partners.title")}
               </h2>
               <p className="[font-family:'Onest',Helvetica] font-normal text-[#282828] text-lg tracking-[-0.36px] leading-[27px] max-w-3xl">
                 {t("partners.description")}
               </p>
+              
+              {/* Category Filter */}
+              <div className="flex flex-wrap items-center justify-center gap-3 mt-4">
+                {industries.map((industry) => (
+                  <button
+                    key={industry.value}
+                    onClick={() => setSelectedPartnerCategory(industry.value)}
+                    data-testid={`filter-partners-${industry.value}`}
+                    className={`px-5 py-2.5 rounded-full transition-all duration-200 [font-family:'Onest',Helvetica] font-semibold text-sm ${
+                      selectedPartnerCategory === industry.value
+                        ? "bg-[#2d2c65] text-white shadow-md"
+                        : "bg-[#2d2c650d] text-[#2d2c65] hover:bg-[#2d2c6520] border border-[#28282833]"
+                    }`}
+                  >
+                    {industry.label}
+                  </button>
+                ))}
+              </div>
             </div>
 
             <div className="w-full grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/pegas-logo.png"
-                  alt="Pegas Restaurant"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  Pegas Restaurant
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/royal-ranch-logo.jpg"
-                  alt="Royal Ranch"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  Royal Ranch
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/atypic-logo.jpg"
-                  alt="Atypic - Taste that matters"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  Atypic
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/chateau-vartely-logo.jpg"
-                  alt="Chateau Vartely"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  Château Vartely
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/mojo-restobar-logo.jpg"
-                  alt="MOJO Restobar"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  MOJO Restobar
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/osho-logo.jpg"
-                  alt="Osho Bar and Kitchen"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  Osho Bar & Kitchen
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/anchiano-logo.jpg"
-                  alt="Restaurant Anchiano"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  Restaurant Anchiano
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/puar-logo.jpg"
-                  alt="PUER"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  PUER
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/wtf-logo.jpg"
-                  alt="What The Food?"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  What The Food?
-                </span>
-              </div>
-              <div className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300">
-                <img
-                  src="/figmaAssets/513-logo.png"
-                  alt="513"
-                  className="h-16 w-auto object-contain"
-                />
-                <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                  513
-                </span>
-              </div>
+              {partnersByIndustry[selectedPartnerCategory as keyof typeof partnersByIndustry]?.map((partner, index) => (
+                <div
+                  key={index}
+                  data-testid={`partner-card-${index}`}
+                  className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300"
+                >
+                  <img
+                    src={partner.logo}
+                    alt={partner.name}
+                    className="h-16 w-auto object-contain"
+                  />
+                  <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
+                    {partner.name}
+                  </span>
+                </div>
+              ))}
             </div>
           </div>
         </Container>
