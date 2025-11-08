@@ -7,8 +7,8 @@ import { CheckCircle2, Zap, Shield, Cpu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 
-import fiscalDevice1 from "@assets/image_1761678236453.png";
-import fiscalDevice2 from "@assets/image_1761678211155.png";
+import fiscalDevice1 from "@assets/datecs-dp25-mev_161_1762628217268.jpg";
+import fiscalDevice2 from "@assets/Tremol_S21_Grey_800px-800x800_1762628129366.jpg";
 import posPrinter1 from "@assets/stock_images/thermal_receipt_prin_f8a95a09.jpg";
 import posPrinter2 from "@assets/stock_images/epson_tm-t88v_therma_37f4b362.jpg";
 import posPrinter3 from "@assets/stock_images/star_micronics_tsp10_6a719bc3.jpg";
