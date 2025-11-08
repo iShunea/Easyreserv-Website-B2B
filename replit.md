@@ -4,6 +4,18 @@
 
 EasyReserv.io is a full-stack web application designed as an ERP (Enterprise Resource Planning) solution for restaurant management. The platform aims to empower business owners with tools for employee management, mobile reservations, business insights, and inventory management, accessible anytime, anywhere. It focuses on providing a responsive user interface to streamline reservation management and enhance operational efficiency within the restaurant industry. The project includes a B2B landing page, a B2B Backend API, and an Admin Panel, all deployed under the `business.easyreserv.io` domain.
 
+### Multilingual System
+
+**Language Auto-Detection:**
+- Automatic browser/device language detection on first visit
+- Supported languages: Romanian (ro), Russian (ru), English (en)
+- Fallback to English for all other languages
+- Manual language selection is cached in localStorage and takes priority over auto-detection
+- Detection logic:
+  1. First check localStorage for manual selection (highest priority)
+  2. If no manual selection, detect browser language via `navigator.language`
+  3. Map detected language: `ro` → Romanian, `ru` → Russian, all others → English
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.

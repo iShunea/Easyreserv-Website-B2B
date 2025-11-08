@@ -19,7 +19,19 @@ const translations: Record<Language, Record<string, any>> = {
 
 export const LanguageProvider = ({ children }: { children: ReactNode }) => {
   const [location, setLocation] = useLocation();
-  const [language, setLanguageState] = useState<Language>('ro');
+  const [language, setLanguageState] = useState<Language>(() => {
+    const savedLang = localStorage.getItem('preferred-language') as Language;
+    if (savedLang && (savedLang === 'ro' || savedLang === 'ru' || savedLang === 'en')) {
+      return savedLang;
+    }
+    
+    const browserLang = navigator.language || navigator.languages?.[0] || 'en';
+    const langCode = browserLang.toLowerCase().split('-')[0];
+    
+    if (langCode === 'ro') return 'ro';
+    if (langCode === 'ru') return 'ru';
+    return 'en';
+  });
   const [translationsLoaded, setTranslationsLoaded] = useState(false);
 
   useEffect(() => {
@@ -53,16 +65,25 @@ export const LanguageProvider = ({ children }: { children: ReactNode }) => {
     } else {
       const savedLang = localStorage.getItem('preferred-language') as Language;
       
-      if (savedLang && (savedLang === 'ru' || savedLang === 'en')) {
+      if (savedLang && (savedLang === 'ro' || savedLang === 'ru' || savedLang === 'en')) {
         setLanguageState(savedLang);
         const currentPath = location || '/';
-        const newPath = `/${savedLang}${currentPath}`;
+        const newPath = savedLang === 'ro' ? currentPath || '/' : `/${savedLang}${currentPath}`;
         setLocation(newPath);
       } else {
-        setLanguageState('ro');
-        if (savedLang !== 'ro') {
-          localStorage.setItem('preferred-language', 'ro');
-        }
+        const browserLang = navigator.language || navigator.languages?.[0] || 'en';
+        const langCode = browserLang.toLowerCase().split('-')[0];
+        
+        let detectedLang: Language = 'en';
+        if (langCode === 'ro') detectedLang = 'ro';
+        else if (langCode === 'ru') detectedLang = 'ru';
+        
+        setLanguageState(detectedLang);
+        localStorage.setItem('preferred-language', detectedLang);
+        
+        const currentPath = location || '/';
+        const newPath = detectedLang === 'ro' ? currentPath || '/' : `/${detectedLang}${currentPath}`;
+        setLocation(newPath);
       }
     }
   }, [location, setLocation]);
