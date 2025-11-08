@@ -77,7 +77,10 @@
   },
   "partners": {
     "title": "Our partners",
-    "description": "A trusted ecosystem for payments, accounting, fiscal hardware and communication."
+    "description": "A trusted ecosystem for payments, accounting, fiscal hardware and communication.",
+    "looking_for_you": "We're looking for you as a partner!",
+    "become_partner_message": "Together we can build a stronger ecosystem for this industry.",
+    "click_below": "Click the 'Become a partner' button below"
   },
   "cta": {
     "optimize_business": "Optimize your business today!",

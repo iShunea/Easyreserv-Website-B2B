@@ -77,7 +77,10 @@
   },
   "partners": {
     "title": "Partenerii noștri",
-    "description": "Un ecosistem de încredere pentru plăți, contabilitate, hardware fiscal și comunicare."
+    "description": "Un ecosistem de încredere pentru plăți, contabilitate, hardware fiscal și comunicare.",
+    "looking_for_you": "Suntem în căutarea ta ca partener!",
+    "become_partner_message": "Împreună putem construi un ecosistem mai puternic pentru această industrie.",
+    "click_below": "Apasă mai jos pe butonul 'Devino partener'"
   },
   "cta": {
     "optimize_business": "Optimizează-ți afacerea chiar azi!",

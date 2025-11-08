@@ -56,76 +56,16 @@ export const AboutSection = (): JSX.Element => {
       { name: "What The Food?", logo: "/figmaAssets/wtf-logo.jpg" },
       { name: "513", logo: "/figmaAssets/513-logo.png" },
     ],
-    cafenele: [
-      { name: "Starbucks Moldova", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Tucano Coffee", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Urban Coffee", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Café Central", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Coffee Molka", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    saloane: [
-      { name: "Beauty Zone", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Glamour Studio", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Style & Beauty", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Elite Salon", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Beauty House", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    barbershop: [
-      { name: "Barber Club", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Gentleman's Cut", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Classic Barber", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Urban Barber", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "The Barbershop", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    hotel: [
-      { name: "Radisson Blu", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Nobil Luxury Boutique Hotel", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Courtyard by Marriott", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Bristol Central Park", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "City Park Hotel", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    "chirii-auto": [
-      { name: "Economy Rent a Car", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Sixt Moldova", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Auto Rent", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Premium Cars", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Drive & Go", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    fitness: [
-      { name: "World Class", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "FitCurves", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Sport Life", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Fitness Academy", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Power Gym", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    medical: [
-      { name: "Medpark", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Clinica Sante", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Medcenter", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Dentist Pro", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Health Plus", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    retail: [
-      { name: "Linella", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Nr.1", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Green Hills", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Fidesco", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Metro", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    "terenuri-sportive": [
-      { name: "Sport Arena", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Football Zone", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Tennis Club", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Multisport Complex", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Play & Win", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
-    "spalatorii-auto": [
-      { name: "Auto Wash Pro", logo: "/figmaAssets/pegas-logo.png" },
-      { name: "Clean Car", logo: "/figmaAssets/royal-ranch-logo.jpg" },
-      { name: "Wash & Go", logo: "/figmaAssets/atypic-logo.jpg" },
-      { name: "Premium Car Wash", logo: "/figmaAssets/chateau-vartely-logo.jpg" },
-      { name: "Express Wash", logo: "/figmaAssets/mojo-restobar-logo.jpg" },
-    ],
+    cafenele: [],
+    saloane: [],
+    barbershop: [],
+    hotel: [],
+    "chirii-auto": [],
+    fitness: [],
+    medical: [],
+    retail: [],
+    "terenuri-sportive": [],
+    "spalatorii-auto": [],
   };
 
   const topStats = [
@@ -368,24 +308,40 @@ export const AboutSection = (): JSX.Element => {
               </div>
             </div>
 
-            <div className="w-full grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
-              {partnersByIndustry[selectedPartnerCategory as keyof typeof partnersByIndustry]?.map((partner, index) => (
-                <div
-                  key={index}
-                  data-testid={`partner-card-${index}`}
-                  className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300"
-                >
-                  <img
-                    src={partner.logo}
-                    alt={partner.name}
-                    className="h-16 w-auto object-contain"
-                  />
-                  <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
-                    {partner.name}
-                  </span>
+            {partnersByIndustry[selectedPartnerCategory as keyof typeof partnersByIndustry]?.length > 0 ? (
+              <div className="w-full grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                {partnersByIndustry[selectedPartnerCategory as keyof typeof partnersByIndustry].map((partner, index) => (
+                  <div
+                    key={index}
+                    data-testid={`partner-card-${index}`}
+                    className="flex flex-col items-center justify-center gap-4 p-6 bg-white border border-gray-200 rounded-lg hover:shadow-lg transition-shadow duration-300"
+                  >
+                    <img
+                      src={partner.logo}
+                      alt={partner.name}
+                      className="h-16 w-auto object-contain"
+                    />
+                    <span className="[font-family:'Onest',Helvetica] font-semibold text-[#282828] text-sm text-center">
+                      {partner.name}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className="w-full flex flex-col items-center justify-center gap-6 py-16 px-8">
+                <div className="text-center max-w-2xl">
+                  <h3 className="[font-family:'Onest',Helvetica] font-bold text-[#282828] text-2xl md:text-3xl mb-4">
+                    {t("partners.looking_for_you")}
+                  </h3>
+                  <p className="[font-family:'Onest',Helvetica] font-normal text-[#282828] text-lg leading-[27px] mb-2">
+                    {t("partners.become_partner_message")}
+                  </p>
+                  <p className="[font-family:'Onest',Helvetica] font-semibold text-[#2d2c65] text-lg">
+                    ↓ {t("partners.click_below")}
+                  </p>
                 </div>
-              ))}
-            </div>
+              </div>
+            )}
           </div>
         </Container>
       </div>
