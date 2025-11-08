@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EasyReserv.io Pricing Export - Index</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 24px;
+      padding: 48px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+    
+    h1 {
+      text-align: center;
+      font-size: 42px;
+      margin-bottom: 16px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    
+    .subtitle {
+      text-align: center;
+      font-size: 18px;
+      color: #666;
+      margin-bottom: 48px;
+    }
+    
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+    
+    .stat {
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      padding: 24px;
+      border-radius: 16px;
+      text-align: center;
+    }
+    
+    .stat-value {
+      font-size: 36px;
+      font-weight: 700;
+      color: #667eea;
+    }
+    
+    .stat-label {
+      font-size: 14px;
+      color: #666;
+      margin-top: 8px;
+    }
+    
+    .section {
+      margin-bottom: 48px;
+    }
+    
+    .section h2 {
+      font-size: 28px;
+      margin-bottom: 24px;
+      color: #333;
+    }
+    
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    
+    .card {
+      background: #f9fafb;
+      border: 2px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 20px;
+      transition: all 0.3s;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      border-color: #667eea;
+    }
+    
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    
+    .flag {
+      font-size: 28px;
+    }
+    
+    .card-title {
+      font-size: 18px;
+      font-weight: 600;
+      color: #333;
+    }
+    
+    .card-meta {
+      font-size: 14px;
+      color: #666;
+    }
+    
+    .footer {
+      text-align: center;
+      padding-top: 32px;
+      border-top: 2px solid #e5e7eb;
+      color: #666;
+      font-size: 14px;
+    }
+    
+    .badge {
+      display: inline-block;
+      padding: 4px 12px;
+      background: #667eea;
+      color: white;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-left: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎯 EasyReserv.io Pricing Export</h1>
+    <p class="subtitle">Standalone HTML pricing pages for all industries and languages</p>
+    
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-value">30</div>
+        <div class="stat-label">HTML Pages</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">10</div>
+        <div class="stat-label">Industries</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">3</div>
+        <div class="stat-label">Languages</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">54</div>
+        <div class="stat-label">Plan IDs</div>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>🇷🇴 Romanian (RO)</h2>
+      <div class="grid">
+        <a href="ro/restaurante.html" class="card">
+          <div class="card-header">
+            <span class="flag">🍽️</span>
+            <span class="card-title">Restaurante</span>
+          </div>
+          <div class="card-meta">€50 - €200/month</div>
+        </a>
+        
+        <a href="ro/cafenele.html" class="card">
+          <div class="card-header">
+            <span class="flag">☕</span>
+            <span class="card-title">Cafenele</span>
+          </div>
+          <div class="card-meta">€50 - €200/month</div>
+        </a>
+        
+        <a href="ro/saloane_barbershop.html" class="card">
+          <div class="card-header">
+            <span class="flag">💇</span>
+            <span class="card-title">Saloane & Barbershop</span>
+          </div>
+          <div class="card-meta">€40 - €140/month</div>
+        </a>
+        
+        <a href="ro/hotele.html" class="card">
+          <div class="card-header">
+            <span class="flag">🏨</span>
+            <span class="card-title">Hotele & Pensiuni</span>
+          </div>
+          <div class="card-meta">€79 - €249/month</div>
+        </a>
+        
+        <a href="ro/chirii_auto.html" class="card">
+          <div class="card-header">
+            <span class="flag">🚗</span>
+            <span class="card-title">Chirii Auto</span>
+          </div>
+          <div class="card-meta">€59 - €199/month</div>
+        </a>
+        
+        <a href="ro/spalatorii_auto.html" class="card">
+          <div class="card-header">
+            <span class="flag">🚿</span>
+            <span class="card-title">Spălătorii Auto</span>
+            <span class="badge">Cheapest</span>
+          </div>
+          <div class="card-meta">€35 - €125/month</div>
+        </a>
+        
+        <a href="ro/tenis_padel_fotbal.html" class="card">
+          <div class="card-header">
+            <span class="flag">⚽</span>
+            <span class="card-title">Tenis/Padel/Fotbal</span>
+          </div>
+          <div class="card-meta">€39 - €129/month</div>
+        </a>
+        
+        <a href="ro/fitness.html" class="card">
+          <div class="card-header">
+            <span class="flag">💪</span>
+            <span class="card-title">Fitness</span>
+          </div>
+          <div class="card-meta">€49 - €149/month</div>
+        </a>
+        
+        <a href="ro/medical.html" class="card">
+          <div class="card-header">
+            <span class="flag">🏥</span>
+            <span class="card-title">Medical</span>
+          </div>
+          <div class="card-meta">€49 - €199/month</div>
+        </a>
+        
+        <a href="ro/retail.html" class="card">
+          <div class="card-header">
+            <span class="flag">🛒</span>
+            <span class="card-title">Retail</span>
+          </div>
+          <div class="card-meta">€49 - €159/month</div>
+        </a>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>🇬🇧 English (EN)</h2>
+      <div class="grid">
+        <a href="en/restaurante.html" class="card">
+          <div class="card-header">
+            <span class="flag">🍽️</span>
+            <span class="card-title">Restaurants</span>
+          </div>
+          <div class="card-meta">€50 - €200/month</div>
+        </a>
+        
+        <a href="en/cafenele.html" class="card">
+          <div class="card-header">
+            <span class="flag">☕</span>
+            <span class="card-title">Cafes</span>
+          </div>
+          <div class="card-meta">€50 - €200/month</div>
+        </a>
+        
+        <a href="en/saloane_barbershop.html" class="card">
+          <div class="card-header">
+            <span class="flag">💇</span>
+            <span class="card-title">Beauty Salons & Barbershops</span>
+          </div>
+          <div class="card-meta">€40 - €140/month</div>
+        </a>
+        
+        <a href="en/hotele.html" class="card">
+          <div class="card-header">
+            <span class="flag">🏨</span>
+            <span class="card-title">Hotels & Guesthouses</span>
+          </div>
+          <div class="card-meta">€79 - €249/month</div>
+        </a>
+        
+        <a href="en/chirii_auto.html" class="card">
+          <div class="card-header">
+            <span class="flag">🚗</span>
+            <span class="card-title">Car Rentals</span>
+          </div>
+          <div class="card-meta">€59 - €199/month</div>
+        </a>
+        
+        <a href="en/spalatorii_auto.html" class="card">
+          <div class="card-header">
+            <span class="flag">🚿</span>
+            <span class="card-title">Car Washes</span>
+            <span class="badge">Cheapest</span>
+          </div>
+          <div class="card-meta">€35 - €125/month</div>
+        </a>
+        
+        <a href="en/tenis_padel_fotbal.html" class="card">
+          <div class="card-header">
+            <span class="flag">⚽</span>
+            <span class="card-title">Sports Fields</span>
+          </div>
+          <div class="card-meta">€39 - €129/month</div>
+        </a>
+        
+        <a href="en/fitness.html" class="card">
+          <div class="card-header">
+            <span class="flag">💪</span>
+            <span class="card-title">Fitness</span>
+          </div>
+          <div class="card-meta">€49 - €149/month</div>
+        </a>
+        
+        <a href="en/medical.html" class="card">
+          <div class="card-header">
+            <span class="flag">🏥</span>
+            <span class="card-title">Medical</span>
+          </div>
+          <div class="card-meta">€49 - €199/month</div>
+        </a>
+        
+        <a href="en/retail.html" class="card">
+          <div class="card-header">
+            <span class="flag">🛒</span>
+            <span class="card-title">Retail</span>
+          </div>
+          <div class="card-meta">€49 - €159/month</div>
+        </a>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>🇷🇺 Russian (RU)</h2>
+      <div class="grid">
+        <a href="ru/restaurante.html" class="card">
+          <div class="card-header">
+            <span class="flag">🍽️</span>
+            <span class="card-title">Рестораны</span>
+          </div>
+          <div class="card-meta">€50 - €200/month</div>
+        </a>
+        
+        <a href="ru/cafenele.html" class="card">
+          <div class="card-header">
+            <span class="flag">☕</span>
+            <span class="card-title">Кафе</span>
+          </div>
+          <div class="card-meta">€50 - €200/month</div>
+        </a>
+        
+        <a href="ru/saloane_barbershop.html" class="card">
+          <div class="card-header">
+            <span class="flag">💇</span>
+            <span class="card-title">Салоны красоты</span>
+          </div>
+          <div class="card-meta">€40 - €140/month</div>
+        </a>
+        
+        <a href="ru/hotele.html" class="card">
+          <div class="card-header">
+            <span class="flag">🏨</span>
+            <span class="card-title">Отели и пансионаты</span>
+          </div>
+          <div class="card-meta">€79 - €249/month</div>
+        </a>
+        
+        <a href="ru/chirii_auto.html" class="card">
+          <div class="card-header">
+            <span class="flag">🚗</span>
+            <span class="card-title">Прокат автомобилей</span>
+          </div>
+          <div class="card-meta">€59 - €199/month</div>
+        </a>
+        
+        <a href="ru/spalatorii_auto.html" class="card">
+          <div class="card-header">
+            <span class="flag">🚿</span>
+            <span class="card-title">Автомойки</span>
+            <span class="badge">Cheapest</span>
+          </div>
+          <div class="card-meta">€35 - €125/month</div>
+        </a>
+        
+        <a href="ru/tenis_padel_fotbal.html" class="card">
+          <div class="card-header">
+            <span class="flag">⚽</span>
+            <span class="card-title">Спортивные площадки</span>
+          </div>
+          <div class="card-meta">€39 - €129/month</div>
+        </a>
+        
+        <a href="ru/fitness.html" class="card">
+          <div class="card-header">
+            <span class="flag">💪</span>
+            <span class="card-title">Фитнес</span>
+          </div>
+          <div class="card-meta">€49 - €149/month</div>
+        </a>
+        
+        <a href="ru/medical.html" class="card">
+          <div class="card-header">
+            <span class="flag">🏥</span>
+            <span class="card-title">Медицинские услуги</span>
+          </div>
+          <div class="card-meta">€49 - €199/month</div>
+        </a>
+        
+        <a href="ru/retail.html" class="card">
+          <div class="card-header">
+            <span class="flag">🛒</span>
+            <span class="card-title">Розничная торговля</span>
+          </div>
+          <div class="card-meta">€49 - €159/month</div>
+        </a>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <p><strong>EasyReserv.io Pricing Export</strong></p>
+      <p>30 standalone HTML files | 10 industries | 3 languages</p>
+      <p style="margin-top: 12px;">Generated on November 8, 2024</p>
+    </div>
+  </div>
+</body>
+</html>
