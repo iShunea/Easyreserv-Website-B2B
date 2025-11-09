@@ -26,7 +26,7 @@ async function fetchRuntimeConfig(): Promise<RuntimeConfig> {
     console.warn('Failed to fetch runtime config, using fallback values:', error);
     // Fallback to build-time env if API call fails
     return {
-      BACKEND_URL: import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001',
+      BACKEND_URL: import.meta.env.VITE_BACKEND_URL || 'https://business.easyreserv.io/api',
       GA_MEASUREMENT_ID: import.meta.env.VITE_GA_MEASUREMENT_ID || ''
     };
   }
