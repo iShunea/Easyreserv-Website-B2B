@@ -37,6 +37,14 @@ app.use((req, res, next) => {
 });
 
 (async () => {
+  // Runtime configuration endpoint - only expose non-sensitive config
+  app.get('/api/config', (_req: Request, res: Response) => {
+    res.json({
+      BACKEND_URL: process.env.BACKEND_URL || 'https://business.easyreserv.io',
+      GA_MEASUREMENT_ID: process.env.GA_MEASUREMENT_ID || ''
+    });
+  });
+
   const server = await registerRoutes(app);
 
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {

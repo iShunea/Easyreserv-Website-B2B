@@ -1,4 +1,5 @@
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import config from '@/config/runtime-config';
 
 export interface CookiePreferences {
   essential: boolean;
@@ -88,8 +89,8 @@ export function useCookieConsent() {
 }
 
 function initializeAnalytics() {
-  const GA_MEASUREMENT_ID = import.meta.env.VITE_GA_MEASUREMENT_ID;
-  
+  const GA_MEASUREMENT_ID = config.GA_MEASUREMENT_ID;
+
   if (!GA_MEASUREMENT_ID) {
     console.warn('Google Analytics Measurement ID not configured');
     return;

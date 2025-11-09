@@ -1,0 +1,76 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs (will be generated in container)
+dist
+.vite
+.cache
+
+# Development files
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+__tests__
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+*.sublime-*
+.DS_Store
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Documentation
+*.md
+!README.md
+BACKEND_TASK_*.md
+DESIGN_SYSTEM.md
+TYPOGRAPHY_GUIDE.md
+replit.md
+
+# Logs
+logs
+*.log
+
+# Coverage
+coverage
+.nyc_output
+
+# Temporary folders
+tmp/
+temp/
+
+# Replit specific
+.replit
+# attached_assets - needed for build, contains images imported by code
+exports
+pricing_export
+
+# Docker
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+Jenkinsfile
+
+# Optional - if you have these
+.eslintrc*
+.prettierrc*
+.editorconfig
