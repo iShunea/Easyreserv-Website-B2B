@@ -1,5 +1,6 @@
 import { MailIcon, ChevronsUpDown, Check, Loader2 } from "lucide-react";
 import { useState, useEffect } from "react";
+import config from "@/config/runtime-config";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -380,11 +381,8 @@ export const ContactFormSection = (): JSX.Element => {
       setIsSubmitting(true);
       
       try {
-        // Get backend URL from environment variable
-        const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
-        
         // Submit form data to backend
-        const response = await fetch(`${backendUrl}/custom-forms/contact-form/submit`, {
+        const response = await fetch(`${config.BACKEND_URL}/custom-forms/contact-form/submit`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'

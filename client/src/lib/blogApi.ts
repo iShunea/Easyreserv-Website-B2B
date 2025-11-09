@@ -1,4 +1,4 @@
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'https://easyreserv-website-b-2-b-backen.replit.app';
+import config from '@/config/runtime-config';
 
 export type BlogCategory = "use_case" | "news" | "updates" | "entertainment";
 
@@ -56,8 +56,8 @@ export const blogApi = {
     if (params?.featured !== undefined) queryParams.append('featured', params.featured.toString());
     if (params?.lang) queryParams.append('lang', params.lang);
 
-    const url = `${BACKEND_URL}/api/blog/articles${queryParams.toString() ? `?${queryParams.toString()}` : ''}`;
-    
+    const url = `${config.BACKEND_URL}/blogs${queryParams.toString() ? `?${queryParams.toString()}` : ''}`;
+
     const response = await fetch(url);
     
     if (!response.ok) {
@@ -71,7 +71,7 @@ export const blogApi = {
     const queryParams = new URLSearchParams();
     if (lang) queryParams.append('lang', lang);
     
-    const url = `${BACKEND_URL}/api/blog/articles/${slug}${queryParams.toString() ? `?${queryParams.toString()}` : ''}`;
+    const url = `${config.BACKEND_URL}/blogs/${slug}${queryParams.toString() ? `?${queryParams.toString()}` : ''}`;
     const response = await fetch(url);
     
     if (!response.ok) {
@@ -85,7 +85,7 @@ export const blogApi = {
     const queryParams = new URLSearchParams();
     if (lang) queryParams.append('lang', lang);
     
-    const url = `${BACKEND_URL}/api/blog/featured${queryParams.toString() ? `?${queryParams.toString()}` : ''}`;
+    const url = `${config.BACKEND_URL}/blogs/featured${queryParams.toString() ? `?${queryParams.toString()}` : ''}`;
     const response = await fetch(url);
     
     if (!response.ok) {
