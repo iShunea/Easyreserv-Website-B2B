@@ -40,7 +40,7 @@ app.use((req, res, next) => {
   // Runtime configuration endpoint - only expose non-sensitive config
   app.get('/api/config', (_req: Request, res: Response) => {
     res.json({
-      BACKEND_URL: process.env.BACKEND_URL || 'https://business.easyreserv.io',
+      BACKEND_URL: process.env.BACKEND_URL || 'https://business.easyreserv.io/api',
       GA_MEASUREMENT_ID: process.env.GA_MEASUREMENT_ID || ''
     });
   });

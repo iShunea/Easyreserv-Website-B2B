@@ -26,6 +26,7 @@ export const BlogSection = (): JSX.Element => {
   const { data: featuredData, isLoading: featuredLoading } = useQuery({
     queryKey: ['/api/blog/featured', language],
     queryFn: () => blogApi.getFeaturedArticle(language),
+    enabled: false,
   });
 
   // Fetch articles list
@@ -37,6 +38,7 @@ export const BlogSection = (): JSX.Element => {
       category: selectedCategory === "all" ? undefined : selectedCategory,
       lang: language
     }),
+    enabled: false,
   });
 
   // Accumulate articles when new page is loaded
