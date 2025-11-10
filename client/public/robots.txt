@@ -1,0 +1,10 @@
+# Robots.txt for business.easyreserv.io
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://business.easyreserv.io/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
