@@ -336,7 +336,7 @@ export const SolutionsContentSection = (): JSX.Element => {
         </Container>
       </div>
 
-      <div className="w-full py-12 md:py-16 bg-[#2d2c65]">
+      <div id="business-types" className="w-full py-12 md:py-16 bg-[#2d2c65] scroll-mt-20">
         <Container>
           <div className="col-span-12 mb-8 md:mb-12">
             <h2 className="[font-family:'Onest',Helvetica] font-bold text-white text-3xl md:text-5xl text-center tracking-[0] leading-tight md:leading-[normal]">
