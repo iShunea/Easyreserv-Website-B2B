@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 export type Language = 'ro' | 'ru' | 'en';
 
@@ -43,7 +44,10 @@ export function SEO({
   twitter,
   schema,
 }: SEOProps) {
+  const { translationsLoaded } = useLanguage();
+  
   useEffect(() => {
+    if (!translationsLoaded) return;
     document.title = title;
     
     document.documentElement.setAttribute('lang', language);
@@ -134,7 +138,7 @@ export function SEO({
       existingSchemas.forEach(script => script.remove());
       document.querySelectorAll('link[rel="alternate"]').forEach(link => link.remove());
     };
-  }, [title, description, canonical, robots, language, og, twitter, schema]);
+  }, [title, description, canonical, robots, language, og, twitter, schema, translationsLoaded]);
 
   return null;
 }
