@@ -97,7 +97,7 @@ export function CookieConsent() {
 
   return (
     <div 
-      className="fixed inset-x-0 bottom-0 z-[9999]" 
+      className="fixed inset-x-0 bottom-5 z-[9999]" 
       data-testid="cookie-consent-banner"
     >
       <div className="max-w-screen-xl mx-auto p-3 md:p-4">
