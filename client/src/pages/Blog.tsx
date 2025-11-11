@@ -8,7 +8,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export const Blog = (): JSX.Element => {
-  const { language } = useLanguage();
+  const { language, translationsLoaded } = useLanguage();
   const { t } = useTranslation();
   
   return (
@@ -16,6 +16,7 @@ export const Blog = (): JSX.Element => {
       <SEO 
         {...seoConfig.blog} 
         language={language}
+        translationsLoaded={translationsLoaded}
         title={t('seo.blog_title')}
         description={t('seo.blog_description')}
       />

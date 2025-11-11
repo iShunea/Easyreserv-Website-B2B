@@ -9,7 +9,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export function AboutUs() {
-  const { language } = useLanguage();
+  const { language, translationsLoaded } = useLanguage();
   const { t } = useTranslation();
   
   return (
@@ -17,6 +17,7 @@ export function AboutUs() {
       <SEO 
         {...seoConfig.about} 
         language={language}
+        translationsLoaded={translationsLoaded}
         title={t('seo.about_title')}
         description={t('seo.about_description')}
       />

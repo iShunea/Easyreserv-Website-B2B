@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import { useLanguage } from '@/contexts/LanguageContext';
 
 export type Language = 'ro' | 'ru' | 'en';
 
@@ -9,6 +8,7 @@ export interface SEOProps {
   canonical?: string;
   robots?: string;
   language?: Language;
+  translationsLoaded?: boolean;
   og?: {
     title?: string;
     description?: string;
@@ -40,14 +40,16 @@ export function SEO({
   canonical,
   robots = 'index, follow',
   language = 'ro',
+  translationsLoaded = true,
   og,
   twitter,
   schema,
 }: SEOProps) {
-  const { translationsLoaded } = useLanguage();
-  
   useEffect(() => {
-    if (!translationsLoaded) return;
+    if (!translationsLoaded) {
+      return;
+    }
+    
     document.title = title;
     
     document.documentElement.setAttribute('lang', language);

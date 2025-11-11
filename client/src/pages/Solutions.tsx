@@ -8,7 +8,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export function Solutions() {
-  const { language } = useLanguage();
+  const { language, translationsLoaded } = useLanguage();
   const { t } = useTranslation();
   
   return (
@@ -16,6 +16,7 @@ export function Solutions() {
       <SEO 
         {...seoConfig.solutions} 
         language={language}
+        translationsLoaded={translationsLoaded}
         title={t('seo.solutions_title')}
         description={t('seo.solutions_description')}
       />

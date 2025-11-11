@@ -14,7 +14,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export const Pricing = (): JSX.Element => {
-  const { language } = useLanguage();
+  const { language, translationsLoaded } = useLanguage();
   const { t } = useTranslation();
   
   return (
@@ -22,6 +22,7 @@ export const Pricing = (): JSX.Element => {
       <SEO 
         {...seoConfig.pricing} 
         language={language}
+        translationsLoaded={translationsLoaded}
         title={t('seo.pricing_title')}
         description={t('seo.pricing_description')}
       />
