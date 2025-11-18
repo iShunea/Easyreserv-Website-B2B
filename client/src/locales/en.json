@@ -1455,6 +1455,12 @@
         "delivery": "Delivery & Transport",
         "marketing": "Marketing Tools"
       },
+      "medical": {
+        "categories": [
+          "Users & Roles",
+          "Medical Features"
+        ]
+      },
       "features": {
         "admin": "Admin",
         "hostess": "Hostess",

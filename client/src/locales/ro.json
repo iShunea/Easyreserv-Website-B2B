@@ -1455,6 +1455,12 @@
         "delivery": "Livrare & Transport",
         "marketing": "Marketing Tools"
       },
+      "medical": {
+        "categories": [
+          "Utilizatori & Roluri",
+          "Funcționalități Medicale"
+        ]
+      },
       "features": {
         "admin": "Admin",
         "hostess": "Hostess",
