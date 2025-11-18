@@ -206,7 +206,10 @@ const getPricingPlans = (industryKey: string, t: any, isAnnual: boolean = false)
   const pricing = industryPricing[industryKey] || industryPricing[industryKeys.CAFENELE];
   const planIds = industryPlanIds[industryKey];
   
-  const tiers = ["basic", "standard", "pro", "enterprise"];
+  // Medical uses different tier names
+  const tiers = industryKey === industryKeys.MEDICAL
+    ? ["starter", "standard", "business", "enterprise"]
+    : ["basic", "standard", "pro", "enterprise"];
   
   return tiers.map((tier, index) => {
     const planData = t(`pricing_page.plans.${industryKey}.${tier}`, { returnObjects: true });
@@ -217,11 +220,12 @@ const getPricingPlans = (industryKey: string, t: any, isAnnual: boolean = false)
     let monthlyPrice: number | null;
     if (tier === "enterprise") {
       monthlyPrice = null;
-    } else if (tier === "basic") {
+    } else if (tier === "basic" || tier === "starter") {
       monthlyPrice = pricing.basic;
     } else if (tier === "standard") {
       monthlyPrice = pricing.standard;
     } else {
+      // "pro" or "business"
       monthlyPrice = pricing.pro;
     }
     
@@ -229,7 +233,15 @@ const getPricingPlans = (industryKey: string, t: any, isAnnual: boolean = false)
     let planId: string | null = null;
     if (tier !== "enterprise" && planIds) {
       const billingPeriod = isAnnual ? 'annually' : 'monthly';
-      const tierKey = tier as 'basic' | 'standard' | 'pro';
+      // Map Medical tier names to standard tier keys
+      const tierKeyMap: { [key: string]: 'basic' | 'standard' | 'pro' } = {
+        'starter': 'basic',
+        'basic': 'basic',
+        'standard': 'standard',
+        'business': 'pro',
+        'pro': 'pro'
+      };
+      const tierKey = tierKeyMap[tier];
       planId = planIds[billingPeriod][tierKey];
     } else if (tier !== "enterprise") {
       // Fallback to old hardcoded IDs for industries without planIds mapping
@@ -240,8 +252,8 @@ const getPricingPlans = (industryKey: string, t: any, isAnnual: boolean = false)
       name: isValidPlanData ? planData.name : tier.charAt(0).toUpperCase() + tier.slice(1),
       description: isValidPlanData ? planData.description : '',
       monthlyPrice,
-      isPopular: tier === "pro",
-      buttonVariant: (tier === "pro" ? "default" : "outline") as "default" | "outline",
+      isPopular: tier === "pro" || tier === "business",
+      buttonVariant: (tier === "pro" || tier === "business" ? "default" : "outline") as "default" | "outline",
       planId,
       features: isValidPlanData ? planData.features : []
     };
