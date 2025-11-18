@@ -1,6 +1,6 @@
 import { SEOProps } from '@/components/SEO';
 
-const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://easyreserv.io';
+const baseUrl = 'https://business.easyreserv.io';
 
 const defaultOGImage = `${baseUrl}/figmaAssets/logo.svg`;
 

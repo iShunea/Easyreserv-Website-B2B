@@ -89,24 +89,26 @@ export function SEO({
       element.setAttribute('content', content);
     });
 
-    if (canonical) {
-      let link = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
-      if (!link) {
-        link = document.createElement('link');
-        link.setAttribute('rel', 'canonical');
-        document.head.appendChild(link);
-      }
-      link.setAttribute('href', canonical);
-    }
-
-    const baseUrl = window.location.origin;
+    const baseUrl = 'https://business.easyreserv.io';
     const currentPath = window.location.pathname.replace(/^\/(ro|ru|en)/, '') || '/';
+    const cleanPath = currentPath === '/' ? '' : currentPath;
     
+    const languagePrefix = language === 'ro' ? '' : `/${language}`;
+    const canonicalUrl = canonical || `${baseUrl}${languagePrefix}${cleanPath}`;
+    
+    let link = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
+    if (!link) {
+      link = document.createElement('link');
+      link.setAttribute('rel', 'canonical');
+      document.head.appendChild(link);
+    }
+    link.setAttribute('href', canonicalUrl);
+
     const hreflangs: Array<{ lang: Language | 'x-default'; href: string }> = [
-      { lang: 'ro', href: `${baseUrl}${currentPath}` },
-      { lang: 'ru', href: `${baseUrl}/ru${currentPath}` },
-      { lang: 'en', href: `${baseUrl}/en${currentPath}` },
-      { lang: 'x-default', href: `${baseUrl}${currentPath}` }
+      { lang: 'ro', href: `${baseUrl}${cleanPath}` },
+      { lang: 'ru', href: `${baseUrl}/ru${cleanPath}` },
+      { lang: 'en', href: `${baseUrl}/en${cleanPath}` },
+      { lang: 'x-default', href: `${baseUrl}${cleanPath}` }
     ];
 
     document.querySelectorAll('link[rel="alternate"]').forEach(link => link.remove());
